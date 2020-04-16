@@ -1,7 +1,7 @@
 # RL_car_using_T3D
 
 ## Phase 1 
-In this project i have taken car environment and integrated it with the T3D learning. I have NOT used CNN in this phase; passed the environment values as scalars into the T3D algorithm. Idea was to first integrate T3D with car environment in Kivy.
+In this phase i have taken car environment and integrated it with the T3D learning. I have NOT used CNN in this phase; passed the environment values as scalars into the T3D algorithm. Idea was to first integrate T3D with car environment in Kivy.
 
 https://youtu.be/6NWjU9S8zro
 
