@@ -218,859 +218,393 @@ Before add to buffer done : 0.0
 Before add to buffer new obs sum : 1112.8823529411764
 Before add to buffer obs sum : 1069.054901960784
 Before add to buffer action : [-3.806]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1175.254901960784
-Before add to buffer obs sum : 1112.8823529411764
-Before add to buffer action : [-5.141]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1190.443137254902
-Before add to buffer obs sum : 1175.254901960784
-Before add to buffer action : [-2.468]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1200.0
-Before add to buffer obs sum : 1190.443137254902
-Before add to buffer action : [-3.601]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1160.549019607843
-Before add to buffer obs sum : 1200.0
-Before add to buffer action : [8.048]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1144.5098039215686
-Before add to buffer obs sum : 1160.549019607843
-Before add to buffer action : [3.764]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1144.5098039215686
-Before add to buffer obs sum : 1144.5098039215686
-Before add to buffer action : [-0.523]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1193.9411764705883
-Before add to buffer obs sum : 1144.5098039215686
-Before add to buffer action : [-6.193]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1183.7529411764704
-Before add to buffer obs sum : 1193.9411764705883
-Before add to buffer action : [2.37]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1200.0
-Before add to buffer obs sum : 1183.7529411764704
-Before add to buffer action : [-8.735]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1199.8392156862744
-Before add to buffer obs sum : 1200.0
-Before add to buffer action : [5.455]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1188.407843137255
-Before add to buffer obs sum : 1199.8392156862744
-Before add to buffer action : [4.484]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1132.3098039215686
-Before add to buffer obs sum : 1188.407843137255
-Before add to buffer action : [7.533]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1068.419607843137
-Before add to buffer obs sum : 1132.3098039215686
-Before add to buffer action : [5.939]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 960.5764705882352
-Before add to buffer obs sum : 1068.419607843137
-Before add to buffer action : [9.903]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1028.419607843137
-Before add to buffer obs sum : 960.5764705882352
-Before add to buffer action : [-5.018]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1012.3098039215686
-Before add to buffer obs sum : 1028.419607843137
-Before add to buffer action : [0.475]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 944.5098039215685
-Before add to buffer obs sum : 1012.3098039215686
-Before add to buffer action : [8.514]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1016.1568627450979
-Before add to buffer obs sum : 944.5098039215685
-Before add to buffer action : [-8.225]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1123.8509803921568
-Before add to buffer obs sum : 1016.1568627450979
-Before add to buffer action : [-9.633]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1147.698039215686
-Before add to buffer obs sum : 1123.8509803921568
-Before add to buffer action : [-2.796]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1185.5254901960784
-Before add to buffer obs sum : 1147.698039215686
-Before add to buffer action : [-4.131]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1196.6196078431371
-Before add to buffer obs sum : 1185.5254901960784
-Before add to buffer action : [-0.409]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1200.0
-Before add to buffer obs sum : 1196.6196078431371
-Before add to buffer action : [-9.105]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
+.......
+
+ Rotated by using T3D : [-0.0963418]
 Before add to buffer new obs sum : 1200.0
 Before add to buffer obs sum : 1200.0
-Before add to buffer action : [-1.776]
+Before add to buffer action : [-0.0963418]
 Before add to buffer reward : -1
 Before add to buffer done : 0.0
+ Rotated by using T3D : [-0.28505457]
 Before add to buffer new obs sum : 1200.0
 Before add to buffer obs sum : 1200.0
-Before add to buffer action : [-5.582]
+Before add to buffer action : [-0.28505457]
 Before add to buffer reward : -1
 Before add to buffer done : 0.0
+ Rotated by using T3D : [-0.14883367]
 Before add to buffer new obs sum : 1200.0
 Before add to buffer obs sum : 1200.0
-Before add to buffer action : [-3.229]
+Before add to buffer action : [-0.14883367]
 Before add to buffer reward : -1
 Before add to buffer done : 0.0
+ Rotated by using T3D : [0.00204272]
 Before add to buffer new obs sum : 1200.0
 Before add to buffer obs sum : 1200.0
-Before add to buffer action : [6.885]
+Before add to buffer action : [0.00204272]
 Before add to buffer reward : -1
 Before add to buffer done : 0.0
+ Rotated by using T3D : [-0.06620802]
 Before add to buffer new obs sum : 1200.0
 Before add to buffer obs sum : 1200.0
-Before add to buffer action : [0.494]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1200.0
-Before add to buffer obs sum : 1200.0
-Before add to buffer action : [-0.838]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1200.0
-Before add to buffer obs sum : 1200.0
-Before add to buffer action : [8.86]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1199.2509803921569
-Before add to buffer obs sum : 1200.0
-Before add to buffer action : [8.661]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1182.6862745098038
-Before add to buffer obs sum : 1199.2509803921569
-Before add to buffer action : [3.247]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1143.3019607843135
-Before add to buffer obs sum : 1182.6862745098038
-Before add to buffer action : [5.358]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1083.3019607843137
-Before add to buffer obs sum : 1143.3019607843135
-Before add to buffer action : [5.552]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1083.3019607843137
-Before add to buffer obs sum : 1083.3019607843137
-Before add to buffer action : [-0.139]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1019.4431372549018
-Before add to buffer obs sum : 1083.3019607843137
-Before add to buffer action : [6.38]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1087.137254901961
-Before add to buffer obs sum : 1019.4431372549018
-Before add to buffer action : [-6.809]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1110.9607843137255
-Before add to buffer obs sum : 1087.137254901961
-Before add to buffer action : [-1.0]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1067.137254901961
-Before add to buffer obs sum : 1110.9607843137255
-Before add to buffer action : [3.886]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1070.9607843137253
-Before add to buffer obs sum : 1067.137254901961
-Before add to buffer action : [-0.438]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1162.4745098039214
-Before add to buffer obs sum : 1070.9607843137253
-Before add to buffer action : [-8.756]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1198.9058823529413
-Before add to buffer obs sum : 1162.4745098039214
-Before add to buffer action : [-5.499]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1182.4627450980392
-Before add to buffer obs sum : 1198.9058823529413
-Before add to buffer action : [3.701]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1098.611764705882
-Before add to buffer obs sum : 1182.4627450980392
-Before add to buffer action : [9.664]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1034.7764705882353
-Before add to buffer obs sum : 1098.611764705882
-Before add to buffer action : [6.855]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1058.6117647058825
-Before add to buffer obs sum : 1034.7764705882353
-Before add to buffer action : [-3.313]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1130.3921568627452
-Before add to buffer obs sum : 1058.6117647058825
-Before add to buffer action : [-6.35]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1086.4823529411765
-Before add to buffer obs sum : 1130.3921568627452
-Before add to buffer action : [4.346]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1066.4823529411765
-Before add to buffer obs sum : 1086.4823529411765
-Before add to buffer action : [0.933]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1090.3921568627452
-Before add to buffer obs sum : 1066.4823529411765
-Before add to buffer action : [-2.131]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1094.258823529412
-Before add to buffer obs sum : 1090.3921568627452
-Before add to buffer action : [-0.537]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1074.2588235294118
-Before add to buffer obs sum : 1094.258823529412
-Before add to buffer action : [2.472]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1118.086274509804
-Before add to buffer obs sum : 1074.2588235294118
-Before add to buffer action : [-3.501]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1184.3254901960786
-Before add to buffer obs sum : 1118.086274509804
-Before add to buffer action : [-7.899]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1145.7960784313725
-Before add to buffer obs sum : 1184.3254901960786
-Before add to buffer action : [6.015]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1078.086274509804
-Before add to buffer obs sum : 1145.7960784313725
-Before add to buffer action : [6.779]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1081.9568627450979
-Before add to buffer obs sum : 1078.086274509804
-Before add to buffer action : [-0.614]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1125.7960784313725
-Before add to buffer obs sum : 1081.9568627450979
-Before add to buffer action : [-3.793]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1038.086274509804
-Before add to buffer obs sum : 1125.7960784313725
-Before add to buffer action : [8.587]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 998.0862745098041
-Before add to buffer obs sum : 1038.086274509804
-Before add to buffer action : [3.407]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
-Before add to buffer new obs sum : 1018.0862745098041
-Before add to buffer obs sum : 998.0862745098041
-Before add to buffer action : [-0.967]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.16626053]
-Before add to buffer new obs sum : 1021.9568627450982
-Before add to buffer obs sum : 1018.0862745098041
-Before add to buffer action : [0.16626053]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.10277527]
-Before add to buffer new obs sum : 1001.9568627450982
-Before add to buffer obs sum : 1021.9568627450982
-Before add to buffer action : [0.10277527]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.08980735]
-Before add to buffer new obs sum : 1005.7960784313727
-Before add to buffer obs sum : 1001.9568627450982
-Before add to buffer action : [0.08980735]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.47701576]
-Before add to buffer new obs sum : 1005.7960784313727
-Before add to buffer obs sum : 1005.7960784313727
-Before add to buffer action : [0.47701576]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.19432197]
-Before add to buffer new obs sum : 1009.658823529412
-Before add to buffer obs sum : 1005.7960784313727
-Before add to buffer action : [0.19432197]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.10629148]
-Before add to buffer new obs sum : 1009.658823529412
-Before add to buffer obs sum : 1009.658823529412
-Before add to buffer action : [-0.10629148]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.10045553]
-Before add to buffer new obs sum : 1013.5725490196079
-Before add to buffer obs sum : 1009.658823529412
-Before add to buffer action : [0.10045553]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.02561121]
-Before add to buffer new obs sum : 1013.5725490196079
-Before add to buffer obs sum : 1013.5725490196079
-Before add to buffer action : [0.02561121]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.02891099]
-Before add to buffer new obs sum : 1017.5137254901962
-Before add to buffer obs sum : 1013.5725490196079
-Before add to buffer action : [-0.02891099]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.02521274]
-Before add to buffer new obs sum : 997.5137254901962
-Before add to buffer obs sum : 1017.5137254901962
-Before add to buffer action : [0.02521274]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.00356095]
-Before add to buffer new obs sum : 1001.4470588235296
-Before add to buffer obs sum : 997.5137254901962
-Before add to buffer action : [-0.00356095]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.12601517]
-Before add to buffer new obs sum : 1001.4470588235296
-Before add to buffer obs sum : 1001.4470588235296
-Before add to buffer action : [0.12601517]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.0511972]
-Before add to buffer new obs sum : 1005.2784313725491
-Before add to buffer obs sum : 1001.4470588235296
-Before add to buffer action : [0.0511972]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.03726975]
-Before add to buffer new obs sum : 1005.2784313725491
-Before add to buffer obs sum : 1005.2784313725491
-Before add to buffer action : [-0.03726975]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.03493065]
-Before add to buffer new obs sum : 1009.0980392156863
-Before add to buffer obs sum : 1005.2784313725491
-Before add to buffer action : [0.03493065]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.11685931]
-Before add to buffer new obs sum : 1009.0980392156863
-Before add to buffer obs sum : 1009.0980392156863
-Before add to buffer action : [0.11685931]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.1073155]
-Before add to buffer new obs sum : 1012.9137254901962
-Before add to buffer obs sum : 1009.0980392156863
-Before add to buffer action : [0.1073155]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.03011295]
-Before add to buffer new obs sum : 1012.9137254901962
-Before add to buffer obs sum : 1012.9137254901962
-Before add to buffer action : [-0.03011295]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.27225083]
-Before add to buffer new obs sum : 992.9137254901962
-Before add to buffer obs sum : 1012.9137254901962
-Before add to buffer action : [0.27225083]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.08028577]
-Before add to buffer new obs sum : 996.7568627450981
-Before add to buffer obs sum : 992.9137254901962
-Before add to buffer action : [-0.08028577]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.26931968]
-Before add to buffer new obs sum : 996.7568627450981
-Before add to buffer obs sum : 996.7568627450981
-Before add to buffer action : [-0.26931968]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.03839542]
-Before add to buffer new obs sum : 1000.6274509803922
-Before add to buffer obs sum : 996.7568627450981
-Before add to buffer action : [0.03839542]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.08063431]
-Before add to buffer new obs sum : 1000.6274509803922
-Before add to buffer obs sum : 1000.6274509803922
-Before add to buffer action : [0.08063431]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.0734241]
-Before add to buffer new obs sum : 1004.5647058823529
-Before add to buffer obs sum : 1000.6274509803922
-Before add to buffer action : [-0.0734241]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.2185117]
-Before add to buffer new obs sum : 1004.5647058823529
-Before add to buffer obs sum : 1004.5647058823529
-Before add to buffer action : [0.2185117]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.15740238]
-Before add to buffer new obs sum : 988.5058823529411
-Before add to buffer obs sum : 1004.5647058823529
-Before add to buffer action : [0.15740238]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.2493445]
-Before add to buffer new obs sum : 988.5058823529411
-Before add to buffer obs sum : 988.5058823529411
-Before add to buffer action : [0.2493445]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.0540014]
-Before add to buffer new obs sum : 992.3803921568627
-Before add to buffer obs sum : 988.5058823529411
-Before add to buffer action : [-0.0540014]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.1379593]
-Before add to buffer new obs sum : 992.3803921568627
-Before add to buffer obs sum : 992.3803921568627
-Before add to buffer action : [0.1379593]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.12728438]
-Before add to buffer new obs sum : 996.2156862745098
-Before add to buffer obs sum : 992.3803921568627
-Before add to buffer action : [0.12728438]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.26277416]
-Before add to buffer new obs sum : 996.2156862745098
-Before add to buffer obs sum : 996.2156862745098
-Before add to buffer action : [0.26277416]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.02918748]
-Before add to buffer new obs sum : 1000.078431372549
-Before add to buffer obs sum : 996.2156862745098
-Before add to buffer action : [0.02918748]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.15944419]
-Before add to buffer new obs sum : 980.078431372549
-Before add to buffer obs sum : 1000.078431372549
-Before add to buffer action : [0.15944419]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.13760869]
-Before add to buffer new obs sum : 980.078431372549
-Before add to buffer obs sum : 980.078431372549
-Before add to buffer action : [-0.13760869]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.0614582]
-Before add to buffer new obs sum : 983.9137254901959
-Before add to buffer obs sum : 980.078431372549
-Before add to buffer action : [-0.0614582]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.02848954]
-Before add to buffer new obs sum : 983.9137254901959
-Before add to buffer obs sum : 983.9137254901959
-Before add to buffer action : [-0.02848954]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.37502943]
-Before add to buffer new obs sum : 987.756862745098
-Before add to buffer obs sum : 983.9137254901959
-Before add to buffer action : [0.37502943]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.36973892]
-Before add to buffer new obs sum : 987.756862745098
-Before add to buffer obs sum : 987.756862745098
-Before add to buffer action : [0.36973892]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.07569924]
-Before add to buffer new obs sum : 971.6431372549017
-Before add to buffer obs sum : 987.756862745098
-Before add to buffer action : [-0.07569924]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.30623687]
-Before add to buffer new obs sum : 971.6431372549017
-Before add to buffer obs sum : 971.6431372549017
-Before add to buffer action : [0.30623687]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.15002001]
-Before add to buffer new obs sum : 971.6431372549017
-Before add to buffer obs sum : 971.6431372549017
-Before add to buffer action : [0.15002001]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.13274758]
-Before add to buffer new obs sum : 975.5647058823528
-Before add to buffer obs sum : 971.6431372549017
-Before add to buffer action : [-0.13274758]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.16817]
-Before add to buffer new obs sum : 975.5647058823528
-Before add to buffer obs sum : 975.5647058823528
-Before add to buffer action : [-0.16817]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.19112616]
-Before add to buffer new obs sum : 979.5058823529412
-Before add to buffer obs sum : 975.5647058823528
-Before add to buffer action : [0.19112616]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.09176299]
-Before add to buffer new obs sum : 959.5058823529412
-Before add to buffer obs sum : 979.5058823529412
-Before add to buffer action : [-0.09176299]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.06187375]
-Before add to buffer new obs sum : 963.3843137254902
-Before add to buffer obs sum : 959.5058823529412
-Before add to buffer action : [-0.06187375]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.11662606]
-Before add to buffer new obs sum : 963.3843137254902
-Before add to buffer obs sum : 963.3843137254902
-Before add to buffer action : [-0.11662606]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.08026279]
-Before add to buffer new obs sum : 967.1960784313725
-Before add to buffer obs sum : 963.3843137254902
-Before add to buffer action : [0.08026279]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.2172674]
-Before add to buffer new obs sum : 967.1960784313725
-Before add to buffer obs sum : 967.1960784313725
-Before add to buffer action : [-0.2172674]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.00263828]
-Before add to buffer new obs sum : 971.0156862745097
-Before add to buffer obs sum : 967.1960784313725
-Before add to buffer action : [0.00263828]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.07973249]
-Before add to buffer new obs sum : 971.0156862745097
-Before add to buffer obs sum : 971.0156862745097
-Before add to buffer action : [-0.07973249]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.0513507]
-Before add to buffer new obs sum : 954.8666666666666
-Before add to buffer obs sum : 971.0156862745097
-Before add to buffer action : [0.0513507]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.06266409]
-Before add to buffer new obs sum : 954.8666666666666
-Before add to buffer obs sum : 954.8666666666666
-Before add to buffer action : [-0.06266409]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.14118767]
-Before add to buffer new obs sum : 958.678431372549
-Before add to buffer obs sum : 954.8666666666666
-Before add to buffer action : [-0.14118767]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.01313673]
-Before add to buffer new obs sum : 958.678431372549
-Before add to buffer obs sum : 958.678431372549
-Before add to buffer action : [-0.01313673]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.00089909]
-Before add to buffer new obs sum : 962.6078431372548
-Before add to buffer obs sum : 958.678431372549
-Before add to buffer action : [-0.00089909]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.01393299]
-Before add to buffer new obs sum : 962.6078431372548
-Before add to buffer obs sum : 962.6078431372548
-Before add to buffer action : [0.01393299]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.03752845]
-Before add to buffer new obs sum : 966.5607843137255
-Before add to buffer obs sum : 962.6078431372548
-Before add to buffer action : [0.03752845]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.12147337]
-Before add to buffer new obs sum : 966.5607843137255
-Before add to buffer obs sum : 966.5607843137255
-Before add to buffer action : [-0.12147337]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.03017867]
-Before add to buffer new obs sum : 950.4627450980394
-Before add to buffer obs sum : 966.5607843137255
-Before add to buffer action : [-0.03017867]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.11750299]
-Before add to buffer new obs sum : 950.4627450980394
-Before add to buffer obs sum : 950.4627450980394
-Before add to buffer action : [-0.11750299]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.06409951]
-Before add to buffer new obs sum : 954.3137254901962
-Before add to buffer obs sum : 950.4627450980394
-Before add to buffer action : [-0.06409951]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.10737519]
-Before add to buffer new obs sum : 954.3137254901962
-Before add to buffer obs sum : 954.3137254901962
-Before add to buffer action : [-0.10737519]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.18614252]
-Before add to buffer new obs sum : 958.1764705882354
-Before add to buffer obs sum : 954.3137254901962
-Before add to buffer action : [-0.18614252]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.00829113]
-Before add to buffer new obs sum : 958.1764705882354
-Before add to buffer obs sum : 958.1764705882354
-Before add to buffer action : [0.00829113]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.0442368]
-Before add to buffer new obs sum : 962.0196078431374
-Before add to buffer obs sum : 958.1764705882354
-Before add to buffer action : [-0.0442368]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.15070412]
-Before add to buffer new obs sum : 962.0196078431374
-Before add to buffer obs sum : 962.0196078431374
-Before add to buffer action : [-0.15070412]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.06270115]
-Before add to buffer new obs sum : 945.8549019607844
-Before add to buffer obs sum : 962.0196078431374
-Before add to buffer action : [0.06270115]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.12249073]
-Before add to buffer new obs sum : 945.8549019607844
-Before add to buffer obs sum : 945.8549019607844
-Before add to buffer action : [-0.12249073]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.02089791]
-Before add to buffer new obs sum : 949.729411764706
-Before add to buffer obs sum : 945.8549019607844
-Before add to buffer action : [-0.02089791]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.04612864]
-Before add to buffer new obs sum : 949.729411764706
-Before add to buffer obs sum : 949.729411764706
-Before add to buffer action : [0.04612864]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.0043013]
-Before add to buffer new obs sum : 953.6196078431374
-Before add to buffer obs sum : 949.729411764706
-Before add to buffer action : [-0.0043013]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.09077722]
-Before add to buffer new obs sum : 953.6196078431374
-Before add to buffer obs sum : 953.6196078431374
-Before add to buffer action : [0.09077722]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.13736399]
-Before add to buffer new obs sum : 953.6196078431374
-Before add to buffer obs sum : 953.6196078431374
-Before add to buffer action : [-0.13736399]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.02289975]
-Before add to buffer new obs sum : 957.529411764706
-Before add to buffer obs sum : 953.6196078431374
-Before add to buffer action : [0.02289975]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.08512922]
-Before add to buffer new obs sum : 937.529411764706
-Before add to buffer obs sum : 957.529411764706
-Before add to buffer action : [-0.08512922]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.16476925]
-Before add to buffer new obs sum : 941.4627450980394
-Before add to buffer obs sum : 937.529411764706
-Before add to buffer action : [0.16476925]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.09710477]
-Before add to buffer new obs sum : 941.4627450980394
-Before add to buffer obs sum : 941.4627450980394
-Before add to buffer action : [-0.09710477]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.05271811]
-Before add to buffer new obs sum : 945.086274509804
-Before add to buffer obs sum : 941.4627450980394
-Before add to buffer action : [-0.05271811]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.02336022]
-Before add to buffer new obs sum : 945.086274509804
-Before add to buffer obs sum : 945.086274509804
-Before add to buffer action : [-0.02336022]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.16350631]
-Before add to buffer new obs sum : 948.9529411764706
-Before add to buffer obs sum : 945.086274509804
-Before add to buffer action : [-0.16350631]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.06757364]
-Before add to buffer new obs sum : 948.9529411764706
-Before add to buffer obs sum : 948.9529411764706
-Before add to buffer action : [0.06757364]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.00248404]
-Before add to buffer new obs sum : 952.7882352941177
-Before add to buffer obs sum : 948.9529411764706
-Before add to buffer action : [-0.00248404]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.15518769]
-Before add to buffer new obs sum : 932.7882352941177
-Before add to buffer obs sum : 952.7882352941177
-Before add to buffer action : [-0.15518769]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.4016137]
-Before add to buffer new obs sum : 936.5333333333333
-Before add to buffer obs sum : 932.7882352941177
-Before add to buffer action : [0.4016137]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.23550563]
-Before add to buffer new obs sum : 935.6196078431371
-Before add to buffer obs sum : 936.5333333333333
-Before add to buffer action : [0.23550563]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.09737032]
-Before add to buffer new obs sum : 939.8627450980392
-Before add to buffer obs sum : 935.6196078431371
-Before add to buffer action : [0.09737032]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.03615726]
-Before add to buffer new obs sum : 939.8627450980392
-Before add to buffer obs sum : 939.8627450980392
-Before add to buffer action : [-0.03615726]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [-0.13242896]
-Before add to buffer new obs sum : 943.7215686274509
-Before add to buffer obs sum : 939.8627450980392
-Before add to buffer action : [-0.13242896]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.08787527]
-Before add to buffer new obs sum : 944.0117647058823
-Before add to buffer obs sum : 943.7215686274509
-Before add to buffer action : [0.08787527]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.00330207]
-Before add to buffer new obs sum : 927.8313725490195
-Before add to buffer obs sum : 944.0117647058823
-Before add to buffer action : [0.00330207]
-Before add to buffer reward : -1
-Before add to buffer done : 0.0
- Rotated by using T3D : [0.10350297]
-Before add to buffer new obs sum : 927.9882352941177
-Before add to buffer obs sum : 927.8313725490195
+Before add to buffer action : [-0.06620802]
+Before add to buffer reward : -1
+Before add to buffer done : 0
+Total Timesteps: 2340 Episode Num: 2 Reward: -1158.8
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.81
+Mean batch new obs  :0.81
+Mean batch actions :0.33
+Mean batch rewards :-0.84
+Mean batch dones :-0.84
+Predicted Rotations/ Next Action : 1.2143625020980835
+Target Qs  : -2.217994213104248 -2.1818959712982178
+ Critic Target Q : -3.0966861248016357
+Current Qs : -3.009526014328003 -3.059197187423706
+critic_loss : 0.24119950830936432
+Current state : 0.8051176071166992
+Current Rotations/action : 0.3306959867477417
+Mean Critic Model Q1/ Action Loss : 2.902146577835083
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :0.27
+Mean batch rewards :-0.82
+Mean batch dones :-0.82
+Predicted Rotations/ Next Action : 1.2067925930023193
+Target Qs  : -2.2707908153533936 -2.2287046909332275
+ Critic Target Q : -3.1224019527435303
+Current Qs : -3.203627586364746 -3.255122423171997
+critic_loss : 0.35993295907974243
+Current state : 0.838945209980011
+Current Rotations/action : 0.2723614573478699
+Mean Critic Model Q1/ Action Loss : 3.1023495197296143
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :0.25
+Mean batch rewards :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 1.1713491678237915
+Target Qs  : -2.3708581924438477 -2.3410568237304688
+ Critic Target Q : -3.3026633262634277
+Current Qs : -3.370429039001465 -3.3073019981384277
+critic_loss : 0.22017419338226318
+Current state : 0.8426913022994995
+Current Rotations/action : 0.25337478518486023
+Mean Critic Model Q1/ Action Loss : 3.167245388031006
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :0.23
+Mean batch rewards :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 1.08621346950531
+Target Qs  : -2.502938747406006 -2.4141013622283936
+ Critic Target Q : -3.434056043624878
+Current Qs : -3.3461127281188965 -3.4323294162750244
+critic_loss : 0.36969172954559326
+Current state : 0.8388484120368958
+Current Rotations/action : 0.22927965223789215
+Mean Critic Model Q1/ Action Loss : 3.1135036945343018
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.84
+Mean batch new obs  :0.83
+Mean batch actions :0.26
+Mean batch rewards :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 1.0755537748336792
+Target Qs  : -2.4769158363342285 -2.43951416015625
+ Critic Target Q : -3.4231314659118652
+Current Qs : -3.36232852935791 -3.373302698135376
+critic_loss : 0.2565130293369293
+Current state : 0.8352991938591003
+Current Rotations/action : 0.2607492506504059
+Mean Critic Model Q1/ Action Loss : 3.2942018508911133
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :0.37
+Mean batch rewards :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 1.0777796506881714
+Target Qs  : -2.6316452026367188 -2.5600059032440186
+ Critic Target Q : -3.552051305770874
+Current Qs : -3.538679838180542 -3.645803451538086
+critic_loss : 0.3116834759712219
+Current state : 0.837462306022644
+Current Rotations/action : 0.3708713948726654
+Mean Critic Model Q1/ Action Loss : 3.448695182800293
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.86
+Mean batch new obs  :0.86
+Mean batch actions :0.44
+Mean batch rewards :-0.86
+Mean batch dones :-0.86
+Predicted Rotations/ Next Action : 1.1152878999710083
+Target Qs  : -2.5747427940368652 -2.4915244579315186
+ Critic Target Q : -3.434967041015625
+Current Qs : -3.491089105606079 -3.5919857025146484
+critic_loss : 0.2795933187007904
+Current state : 0.8591118454933167
+Current Rotations/action : 0.4360722005367279
+Mean Critic Model Q1/ Action Loss : 3.433135747909546
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :0.29
+Mean batch rewards :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 1.0127156972885132
+Target Qs  : -2.7394003868103027 -2.6646859645843506
+ Critic Target Q : -3.6613550186157227
+Current Qs : -3.628565788269043 -3.536018133163452
+critic_loss : 0.5382069945335388
+Current state : 0.8395230174064636
+Current Rotations/action : 0.2882010340690613
+Mean Critic Model Q1/ Action Loss : 3.3323166370391846
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.83
+Mean batch new obs  :0.83
+Mean batch actions :0.29
+Mean batch rewards :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 1.0021791458129883
+Target Qs  : -2.7223150730133057 -2.685162305831909
+ Critic Target Q : -3.660823345184326
+Current Qs : -3.6604087352752686 -3.609933376312256
+critic_loss : 0.2116701602935791
+Current state : 0.8291829824447632
+Current Rotations/action : 0.2888844609260559
+Mean Critic Model Q1/ Action Loss : 3.5074472427368164
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.87
+Mean batch new obs  :0.87
+Mean batch actions :0.21
+Mean batch rewards :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 1.0314303636550903
+Target Qs  : -2.743013620376587 -2.662992000579834
+ Critic Target Q : -3.6725332736968994
+Current Qs : -3.6097841262817383 -3.5722382068634033
+critic_loss : 0.06616240739822388
+Current state : 0.8674867749214172
+Current Rotations/action : 0.2139308601617813
+Mean Critic Model Q1/ Action Loss : 3.6011977195739746
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.82
+Mean batch new obs  :0.82
+Mean batch actions :0.27
+Mean batch rewards :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 1.0018987655639648
+Target Qs  : -2.7976574897766113 -2.741109609603882
+ Critic Target Q : -3.740950107574463
+Current Qs : -3.8142638206481934 -3.702256679534912
+critic_loss : 0.35608309507369995
+Current state : 0.8207014203071594
+Current Rotations/action : 0.2746979594230652
+Mean Critic Model Q1/ Action Loss : 3.626197099685669
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.81
+Mean batch new obs  :0.81
+Mean batch actions :0.25
+Mean batch rewards :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 0.9928838610649109
+Target Qs  : -2.9468765258789062 -2.842944622039795
+ Critic Target Q : -3.8460421562194824
+Current Qs : -3.8614916801452637 -3.9682652950286865
+critic_loss : 0.5732941031455994
+Current state : 0.8070863485336304
+Current Rotations/action : 0.25388434529304504
+Mean Critic Model Q1/ Action Loss : 3.5655243396759033
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.8
+Mean batch new obs  :0.8
+Mean batch actions :0.22
+Mean batch rewards :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : 0.9739418029785156
+Target Qs  : -2.8736467361450195 -2.8203558921813965
+ Critic Target Q : -3.840299129486084
+Current Qs : -3.8768720626831055 -3.9354124069213867
+critic_loss : 0.1615425944328308
+Current state : 0.7998469471931458
+Current Rotations/action : 0.2218005359172821
+Mean Critic Model Q1/ Action Loss : 3.799509286880493
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.81
+Mean batch new obs  :0.81
+Mean batch actions :0.35
+Mean batch rewards :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 0.9634683728218079
+Target Qs  : -2.9212839603424072 -2.9103896617889404
+ Critic Target Q : -3.8561630249023438
+Current Qs : -3.830003261566162 -3.8151938915252686
+critic_loss : 0.2205708920955658
+Current state : 0.8140302300453186
+Current Rotations/action : 0.3474411368370056
+Mean Critic Model Q1/ Action Loss : 3.785749912261963
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :0.2
+Mean batch rewards :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 0.9297595024108887
+Target Qs  : -2.968109369277954 -2.938871383666992
+ Critic Target Q : -3.8946447372436523
+Current Qs : -3.8395187854766846 -3.89445424079895
+critic_loss : 0.2104555070400238
+Current state : 0.8447659015655518
+Current Rotations/action : 0.19687657058238983
+Mean Critic Model Q1/ Action Loss : 3.6729846000671387
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.83
+Mean batch new obs  :0.83
+Mean batch actions :0.16
+Mean batch rewards :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 0.9478026032447815
+Target Qs  : -3.062969923019409 -3.0112695693969727
+ Critic Target Q : -3.9700849056243896
+Current Qs : -3.9709835052490234 -3.9532415866851807
+critic_loss : 0.2865070104598999
+Current state : 0.8298057317733765
+Current Rotations/action : 0.16228269040584564
+Mean Critic Model Q1/ Action Loss : 3.7740490436553955
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.8
+Mean batch new obs  :0.79
+Mean batch actions :0.31
+Mean batch rewards :-0.78
+Mean batch dones :-0.78
+Predicted Rotations/ Next Action : 0.8797454237937927
+Target Qs  : -2.9732139110565186 -2.9696907997131348
+ Critic Target Q : -3.7755696773529053
+Current Qs : -3.804145574569702 -3.7209317684173584
+critic_loss : 0.3429983854293823
+Current state : 0.7957251667976379
+Current Rotations/action : 0.3074048161506653
+Mean Critic Model Q1/ Action Loss : 3.724457025527954
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.82
+Mean batch new obs  :0.82
+Mean batch actions :0.27
+Mean batch rewards :-0.86
+Mean batch dones :-0.86
+Predicted Rotations/ Next Action : 0.9024974703788757
+Target Qs  : -3.089406967163086 -3.1086511611938477
+ Critic Target Q : -4.007596015930176
+Current Qs : -3.994610548019409 -4.018731117248535
+critic_loss : 0.23460282385349274
+Current state : 0.821914553642273
+Current Rotations/action : 0.2680155038833618
+Mean Critic Model Q1/ Action Loss : 3.9349875450134277
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.82
+Mean batch new obs  :0.82
+Mean batch actions :0.09
+Mean batch rewards :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 0.9166558980941772
+Target Qs  : -3.270419120788574 -3.180344343185425
+ Critic Target Q : -4.181987285614014
+Current Qs : -4.356364727020264 -4.392581939697266
+critic_loss : 0.9613253474235535
+Current state : 0.8208422660827637
+Current Rotations/action : 0.09120821952819824
+Mean Critic Model Q1/ Action Loss : 4.068947792053223
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.81
+Mean batch new obs  :0.81
+Mean batch actions :0.34
+Mean batch rewards :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 0.8685275912284851
+Target Qs  : -3.266709804534912 -3.270794153213501
+ Critic Target Q : -4.20991325378418
+Current Qs : -4.131820201873779 -4.173549175262451
+critic_loss : 0.2674413323402405
+Current state : 0.8088274598121643
+Current Rotations/action : 0.33569857478141785
+Mean Critic Model Q1/ Action Loss : 3.9754691123962402
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.82
+Mean batch new obs  :0.82
+Mean batch actions :0.41
+Mean batch rewards :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 0.8932351469993591
+Target Qs  : -3.3823249340057373 -3.3216049671173096
+ Critic Target Q : -4.326659679412842
+Current Qs : -4.4195237159729 -4.324769973754883
+critic_loss : 0.24959485232830048
+Current state : 0.8240694403648376
+Current Rotations/action : 0.4080546498298645
+Mean Critic Model Q1/ Action Loss : 4.139186859130859
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :0.16
+Mean batch rewards :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 0.8463771343231201
+Target Qs  : -3.3079819679260254 -3.3569750785827637
+ Critic Target Q : -4.284210681915283
+Current Qs : -4.099328517913818 -4.208297252655029
+critic_loss : 0.1760742962360382
+Current state : 0.8392025828361511
+Current Rotations/action : 0.15792420506477356
+Mean Critic Model Q1/ Action Loss : 3.90958309173584
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :0.01
+Mean batch rewards :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 0.9015955328941345
+Target Qs  : -3.5136725902557373 -3.4640841484069824
+ Critic Target Q : -4.409957408905029
+Current Qs : -4.389573574066162 -4.288361072540283
+critic_loss : 0.7272660732269287
+Current state : 0.842850923538208
+Current Rotations/action : 0.012079141102731228
+Mean Critic Model Q1/ Action Loss : 4.293757438659668
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.83
+Mean batch new obs  :0.83
+Mean batch actions :0.29
+Mean batch rewards :-0.86
+Mean batch dones :-0.86
+Predicted Rotations/ Next Action : 0.9272605180740356
+Target Qs  : -3.399559259414673 -3.379587173461914
+ Critic Target Q : -4.266022205352783
+Current Qs : -4.410604476928711 -4.327081203460693
+critic_loss : 0.5156073570251465
+Current state : 0.831088662147522
+Current Rotations/action : 0.28715381026268005
+Mean Critic Model Q1/ Action Loss : 4.024160385131836
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.85
+Mean batch new obs  :0.85
+Mean batch actions :0.19
+Mean batch rewards :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : 0.872712254524231
+Target Qs  : -3.4647536277770996 -3.4557149410247803
+ Critic Target Q : -4.369504451751709
+Current Qs : -4.321900367736816 -4.362056732177734
+critic_loss : 0.22403037548065186
+Current state : 0.8483588695526123
+Current Rotations/action : 0.18839842081069946
+Mean Critic Model Q1/ Action Loss : 4.197537422180176
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.81
+Mean batch new obs  :0.81
+Mean batch actions :0.3
+Mean batch rewards :-0.86
+Mean batch dones :-0.86
+Predicted Rotations/ Next Action : 0.8842095732688904
