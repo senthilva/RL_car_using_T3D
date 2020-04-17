@@ -69,7 +69,7 @@ Mean Critic Model Q1/ Action Loss : 0.022716470062732697
 
 
 
-**Observations**
+Observations
 ------------
 >- Target Q's should be negative ( they are low positive - why ?)
 >- Current Q's should be negative ( they are low positive - why ?)
