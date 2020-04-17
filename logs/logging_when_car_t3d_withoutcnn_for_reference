@@ -1,0 +1,2844 @@
+Last login: Fri Apr 17 15:37:50 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Senthils-MacBook-Pro:~ senthilarunachalam$ cd  /Users/senthilarunachalam/Downloads/endgame2/; rl_car_nocnn.py
+-bash: rl_car_nocnn.py: command not found
+(base) Senthils-MacBook-Pro:endgame2 senthilarunachalam$ cd  /Users/senthilarunachalam/Downloads/endgame2/; python rl_car_nocnn.py
+[INFO   ] [Logger      ] Record log in /Users/senthilarunachalam/.kivy/logs/kivy_20-04-17_40.txt
+[INFO   ] [Kivy        ] v1.10.1
+[INFO   ] [Python      ] v3.6.9 |Anaconda, Inc.| (default, Jul 30 2019, 13:42:17) 
+[GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)]
+[INFO   ] [Factory     ] 194 symbols loaded
+[INFO   ] [Image       ] Providers: img_tex, img_imageio, img_dds, img_sdl2, img_pil, img_gif (img_ffpyplayer ignored)
+[INFO   ] [Text        ] Provider: sdl2
+[INFO   ] [Window      ] Provider: sdl2
+[INFO   ] [GL          ] Using the "OpenGL ES 2" graphics system
+[INFO   ] [GL          ] Backend used <gl>
+[INFO   ] [GL          ] OpenGL version <b'2.1 INTEL-14.4.23'>
+[INFO   ] [GL          ] OpenGL vendor <b'Intel Inc.'>
+[INFO   ] [GL          ] OpenGL renderer <b'Intel(R) Iris(TM) Plus Graphics 640'>
+[INFO   ] [GL          ] OpenGL parsed version: 2, 1
+[INFO   ] [GL          ] Shading version <b'1.20'>
+[INFO   ] [GL          ] Texture max size <16384>
+[INFO   ] [GL          ] Texture max units <16>
+[INFO   ] [Window      ] auto add sdl2 input provider
+[INFO   ] [Window      ] virtual keyboard not allowed, single mode, not docked
+[INFO   ] [GL          ] NPOT texture support is available
+[INFO   ] [Base        ] Start application main loop
+Total Timesteps: 578 Episode Num: 1 Reward: -457.1999999999998
+Mean batch obs :1.18
+Mean batch new obs  :1.17
+Mean batch actions :0.85
+Mean batch actions :-0.81
+Mean batch dones :-0.81
+Predicted Rotations/ Next Action : 1.1525267362594604
+Target Qs  : -0.11412329971790314 0.24078600108623505
+ Critic Target Q : -0.9229820370674133
+Current Qs : -0.18551906943321228 0.4880330264568329
+critic_loss : 3.4062421321868896
+Current state : 1.184000015258789
+Current Rotations/action : 0.8487899899482727
+Mean Critic Model Q1/ Action Loss : 0.7953343391418457
+Mean batch obs :1.01
+Mean batch new obs  :1.01
+Mean batch actions :0.74
+Mean batch actions :-0.71
+Mean batch dones :-0.71
+Predicted Rotations/ Next Action : 0.7872960567474365
+Target Qs  : -0.1495528370141983 0.14926035702228546
+ Critic Target Q : -0.8509396314620972
+Current Qs : -0.8445736765861511 -0.7547215223312378
+critic_loss : 0.936459481716156
+Current state : 1.0075900554656982
+Current Rotations/action : 0.7411999702453613
+Mean Critic Model Q1/ Action Loss : 0.6584303975105286
+Mean batch obs :1.08
+Mean batch new obs  :1.08
+Mean batch actions :0.28
+Mean batch actions :-0.84
+Mean batch dones :-0.84
+Predicted Rotations/ Next Action : 0.5743042826652527
+Target Qs  : -0.2169613242149353 0.08133206516504288
+ Critic Target Q : -1.0567916631698608
+Current Qs : -0.9587047100067139 -0.872681736946106
+critic_loss : 0.593498945236206
+Current state : 1.0810649394989014
+Current Rotations/action : 0.27797001600265503
+Mean Critic Model Q1/ Action Loss : 0.8715223670005798
+Mean batch obs :0.75
+Mean batch new obs  :0.78
+Mean batch actions :0.9
+Mean batch actions :-0.81
+Mean batch dones :-0.81
+Predicted Rotations/ Next Action : 0.26754024624824524
+Target Qs  : -0.232116237282753 0.0072156949900090694
+ Critic Target Q : -1.0285558700561523
+Current Qs : -0.9582121968269348 -1.016330599784851
+critic_loss : 0.6692718863487244
+Current state : 0.7482000589370728
+Current Rotations/action : 0.898650050163269
+Mean Critic Model Q1/ Action Loss : 0.9184780120849609
+Mean batch obs :1.3
+Mean batch new obs  :1.33
+Mean batch actions :-0.42
+Mean batch actions :-0.76
+Mean batch dones :-0.76
+Predicted Rotations/ Next Action : 0.0534357875585556
+Target Qs  : -0.3485547602176666 -0.0616459958255291
+ Critic Target Q : -1.1090692281723022
+Current Qs : -1.1429232358932495 -1.153871774673462
+critic_loss : 0.6946524381637573
+Current state : 1.2958598136901855
+Current Rotations/action : -0.4241101145744324
+Mean Critic Model Q1/ Action Loss : 0.9552868604660034
+Mean batch obs :1.04
+Mean batch new obs  :1.07
+Mean batch actions :-0.4
+Mean batch actions :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : -0.1353428214788437
+Target Qs  : -0.34401318430900574 -0.11293549835681915
+ Critic Target Q : -1.2205730676651
+Current Qs : -1.1801655292510986 -1.1188327074050903
+critic_loss : 0.49722719192504883
+Current state : 1.0351649522781372
+Current Rotations/action : -0.3959899842739105
+Mean Critic Model Q1/ Action Loss : 1.0510538816452026
+Mean batch obs :0.89
+Mean batch new obs  :0.92
+Mean batch actions :0.01
+Mean batch actions :-0.78
+Mean batch dones :-0.78
+Predicted Rotations/ Next Action : -0.27531304955482483
+Target Qs  : -0.35868099331855774 -0.16084983944892883
+ Critic Target Q : -1.1370941400527954
+Current Qs : -1.0806523561477661 -1.1405768394470215
+critic_loss : 0.6998478174209595
+Current state : 0.8856349587440491
+Current Rotations/action : 0.0054900553077459335
+Mean Critic Model Q1/ Action Loss : 0.9023208618164062
+Mean batch obs :1.04
+Mean batch new obs  :1.03
+Mean batch actions :0.19
+Mean batch actions :-0.78
+Mean batch dones :-0.78
+Predicted Rotations/ Next Action : -0.4727233648300171
+Target Qs  : -0.4305638372898102 -0.22915279865264893
+ Critic Target Q : -1.2082583904266357
+Current Qs : -1.0845869779586792 -1.2047162055969238
+critic_loss : 0.6696867942810059
+Current state : 1.0433900356292725
+Current Rotations/action : 0.1861799955368042
+Mean Critic Model Q1/ Action Loss : 0.8907439708709717
+Mean batch obs :0.73
+Mean batch new obs  :0.73
+Mean batch actions :1.0
+Mean batch actions :-0.84
+Mean batch dones :-0.84
+Predicted Rotations/ Next Action : -0.4733506441116333
+Target Qs  : -0.40444713830947876 -0.2465781718492508
+ Critic Target Q : -1.2288461923599243
+Current Qs : -1.1784902811050415 -1.2817949056625366
+critic_loss : 0.5554660558700562
+Current state : 0.7265750169754028
+Current Rotations/action : 0.9993098974227905
+Mean Critic Model Q1/ Action Loss : 1.001010775566101
+Mean batch obs :1.1
+Mean batch new obs  :1.09
+Mean batch actions :0.15
+Mean batch actions :-0.72
+Mean batch dones :-0.72
+Predicted Rotations/ Next Action : -0.7142285704612732
+Target Qs  : -0.5181419253349304 -0.33772337436676025
+ Critic Target Q : -1.236960530281067
+Current Qs : -1.2186369895935059 -1.2246779203414917
+critic_loss : 0.7092986106872559
+Current state : 1.098794937133789
+Current Rotations/action : 0.14718002080917358
+Mean Critic Model Q1/ Action Loss : 1.125765323638916
+Mean batch obs :1.02
+Mean batch new obs  :0.97
+Mean batch actions :1.06
+Mean batch actions :-0.81
+Mean batch dones :-0.81
+Predicted Rotations/ Next Action : -0.8969215154647827
+Target Qs  : -0.5209394693374634 -0.3563350737094879
+ Critic Target Q : -1.321730136871338
+Current Qs : -1.2414807081222534 -1.2191898822784424
+critic_loss : 0.6071054935455322
+Current state : 1.0202100276947021
+Current Rotations/action : 1.0601298809051514
+Mean Critic Model Q1/ Action Loss : 1.0382380485534668
+Mean batch obs :1.24
+Mean batch new obs  :1.26
+Mean batch actions :-0.42
+Mean batch actions :-0.86
+Mean batch dones :-0.86
+Predicted Rotations/ Next Action : -1.166521430015564
+Target Qs  : -0.6522494554519653 -0.47212541103363037
+ Critic Target Q : -1.509727120399475
+Current Qs : -1.447708010673523 -1.4342317581176758
+critic_loss : 0.4246262311935425
+Current state : 1.2400851249694824
+Current Rotations/action : -0.41651999950408936
+Mean Critic Model Q1/ Action Loss : 1.2709300518035889
+Mean batch obs :1.16
+Mean batch new obs  :1.1
+Mean batch actions :0.04
+Mean batch actions :-0.81
+Mean batch dones :-0.81
+Predicted Rotations/ Next Action : -1.2296793460845947
+Target Qs  : -0.5947913527488708 -0.4387803375720978
+ Critic Target Q : -1.396843433380127
+Current Qs : -1.3101298809051514 -1.297237515449524
+critic_loss : 0.5456684231758118
+Current state : 1.1610850095748901
+Current Rotations/action : 0.0449800007045269
+Mean Critic Model Q1/ Action Loss : 1.1536706686019897
+Mean batch obs :1.56
+Mean batch new obs  :1.51
+Mean batch actions :1.32
+Mean batch actions :-0.79
+Mean batch dones :-0.79
+Predicted Rotations/ Next Action : -1.6526038646697998
+Target Qs  : -0.7469298839569092 -0.5598694086074829
+ Critic Target Q : -1.5254604816436768
+Current Qs : -1.6432090997695923 -1.6184269189834595
+critic_loss : 0.5397540330886841
+Current state : 1.5596349239349365
+Current Rotations/action : 1.3246798515319824
+Mean Critic Model Q1/ Action Loss : 1.2506929636001587
+Mean batch obs :0.98
+Mean batch new obs  :0.98
+Mean batch actions :0.58
+Mean batch actions :-0.82
+Mean batch dones :-0.82
+Predicted Rotations/ Next Action : -1.2501773834228516
+Target Qs  : -0.6633459329605103 -0.5290051102638245
+ Critic Target Q : -1.4787124395370483
+Current Qs : -1.3964931964874268 -1.3847078084945679
+critic_loss : 0.5068143010139465
+Current state : 0.9788250923156738
+Current Rotations/action : 0.5769000053405762
+Mean Critic Model Q1/ Action Loss : 1.266067385673523
+Mean batch obs :1.03
+Mean batch new obs  :1.1
+Mean batch actions :0.63
+Mean batch actions :-0.8
+Mean batch dones :-0.8
+Predicted Rotations/ Next Action : -1.623723030090332
+Target Qs  : -0.7246055603027344 -0.5921777486801147
+ Critic Target Q : -1.5213595628738403
+Current Qs : -1.492281436920166 -1.4872181415557861
+critic_loss : 0.6258959770202637
+Current state : 1.0337151288986206
+Current Rotations/action : 0.6268799304962158
+Mean Critic Model Q1/ Action Loss : 1.2603635787963867
+Mean batch obs :1.09
+Mean batch new obs  :1.09
+Mean batch actions :0.55
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : -1.436163306236267
+Target Qs  : -0.7293105125427246 -0.6072068214416504
+ Critic Target Q : -1.5700175762176514
+Current Qs : -1.456169605255127 -1.453851580619812
+critic_loss : 0.45909249782562256
+Current state : 1.0898149013519287
+Current Rotations/action : 0.5480000376701355
+Mean Critic Model Q1/ Action Loss : 1.33402419090271
+Mean batch obs :1.03
+Mean batch new obs  :1.0
+Mean batch actions :0.24
+Mean batch actions :-0.77
+Mean batch dones :-0.77
+Predicted Rotations/ Next Action : -1.5203715562820435
+Target Qs  : -0.7330511212348938 -0.6167941689491272
+ Critic Target Q : -1.4917205572128296
+Current Qs : -1.5293675661087036 -1.4465107917785645
+critic_loss : 0.6176117062568665
+Current state : 1.0293399095535278
+Current Rotations/action : 0.2396100014448166
+Mean Critic Model Q1/ Action Loss : 1.2332301139831543
+Mean batch obs :0.98
+Mean batch new obs  :1.0
+Mean batch actions :0.34
+Mean batch actions :-0.82
+Mean batch dones :-0.82
+Predicted Rotations/ Next Action : -1.7217837572097778
+Target Qs  : -0.7768756747245789 -0.6715388298034668
+ Critic Target Q : -1.5893065929412842
+Current Qs : -1.486508846282959 -1.5313425064086914
+critic_loss : 0.49849367141723633
+Current state : 0.9774249196052551
+Current Rotations/action : 0.3444800078868866
+Mean Critic Model Q1/ Action Loss : 1.2255430221557617
+Mean batch obs :0.81
+Mean batch new obs  :0.82
+Mean batch actions :0.21
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -1.6365183591842651
+Target Qs  : -0.8006693124771118 -0.7076252698898315
+ Critic Target Q : -1.6789047718048096
+Current Qs : -1.6683536767959595 -1.647557020187378
+critic_loss : 0.35730016231536865
+Current state : 0.812450110912323
+Current Rotations/action : 0.21236996352672577
+Mean Critic Model Q1/ Action Loss : 1.4955250024795532
+Mean batch obs :1.29
+Mean batch new obs  :1.26
+Mean batch actions :-0.49
+Mean batch actions :-0.8
+Mean batch dones :-0.8
+Predicted Rotations/ Next Action : -2.293682336807251
+Target Qs  : -0.9162501692771912 -0.8178669810295105
+ Critic Target Q : -1.7126526832580566
+Current Qs : -1.8156166076660156 -1.8071404695510864
+critic_loss : 0.47562873363494873
+Current state : 1.2875150442123413
+Current Rotations/action : -0.4921799898147583
+Mean Critic Model Q1/ Action Loss : 1.6065772771835327
+Mean batch obs :0.93
+Mean batch new obs  :0.96
+Mean batch actions :0.35
+Mean batch actions :-0.84
+Mean batch dones :-0.84
+Predicted Rotations/ Next Action : -1.8095190525054932
+Target Qs  : -0.8891420960426331 -0.8060610294342041
+ Critic Target Q : -1.7238376140594482
+Current Qs : -1.6571954488754272 -1.613060712814331
+critic_loss : 0.5345625877380371
+Current state : 0.9255049824714661
+Current Rotations/action : 0.34696999192237854
+Mean Critic Model Q1/ Action Loss : 1.5145900249481201
+Mean batch obs :1.11
+Mean batch new obs  :1.13
+Mean batch actions :0.32
+Mean batch actions :-0.75
+Mean batch dones :-0.75
+Predicted Rotations/ Next Action : -2.171949625015259
+Target Qs  : -0.9134455323219299 -0.8314012289047241
+ Critic Target Q : -1.6528913974761963
+Current Qs : -1.572426199913025 -1.6278846263885498
+critic_loss : 0.5879426002502441
+Current state : 1.1062648296356201
+Current Rotations/action : 0.31613996624946594
+Mean Critic Model Q1/ Action Loss : 1.4349535703659058
+Mean batch obs :0.77
+Mean batch new obs  :0.77
+Mean batch actions :-0.08
+Mean batch actions :-0.73
+Mean batch dones :-0.73
+Predicted Rotations/ Next Action : -1.79668390750885
+Target Qs  : -0.917540431022644 -0.858266294002533
+ Critic Target Q : -1.638032078742981
+Current Qs : -1.6374424695968628 -1.6043628454208374
+critic_loss : 0.5573747754096985
+Current state : 0.774445116519928
+Current Rotations/action : -0.08157005161046982
+Mean Critic Model Q1/ Action Loss : 1.612794041633606
+Total Timesteps: 1778 Episode Num: 2 Reward: -1097.4
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :0.09
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -1.6510670185089111
+Target Qs  : -0.8768188953399658 -0.7574458122253418
+ Critic Target Q : -1.7598164081573486
+Current Qs : -1.7996106147766113 -1.6523879766464233
+critic_loss : 0.960360050201416
+Current state : 0.8367850184440613
+Current Rotations/action : 0.08695972710847855
+Mean Critic Model Q1/ Action Loss : 1.6508935689926147
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :-0.78
+Mean batch actions :-0.76
+Mean batch dones :-0.76
+Predicted Rotations/ Next Action : -1.885979175567627
+Target Qs  : -0.8856350779533386 -0.7943786382675171
+ Critic Target Q : -1.6415880918502808
+Current Qs : -1.846629023551941 -1.7425004243850708
+critic_loss : 0.6935139298439026
+Current state : 0.8386699557304382
+Current Rotations/action : -0.7779882550239563
+Mean Critic Model Q1/ Action Loss : 1.5124233961105347
+Mean batch obs :0.72
+Mean batch new obs  :0.73
+Mean batch actions :-1.15
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : -1.0042483806610107
+Target Qs  : -0.9308424592018127 -0.8132691979408264
+ Critic Target Q : -1.7763453722000122
+Current Qs : -1.9086166620254517 -1.9148272275924683
+critic_loss : 0.47761213779449463
+Current state : 0.7249600291252136
+Current Rotations/action : -1.1495122909545898
+Mean Critic Model Q1/ Action Loss : 1.6303715705871582
+Mean batch obs :0.73
+Mean batch new obs  :0.71
+Mean batch actions :-0.64
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -0.42300835251808167
+Target Qs  : -0.9530811309814453 -0.8463224768638611
+ Critic Target Q : -1.852238655090332
+Current Qs : -1.8079217672348022 -1.8171334266662598
+critic_loss : 0.3033420741558075
+Current state : 0.7250850200653076
+Current Rotations/action : -0.6426686644554138
+Mean Critic Model Q1/ Action Loss : 1.6320534944534302
+Mean batch obs :0.8
+Mean batch new obs  :0.8
+Mean batch actions :-0.56
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : -0.5182780623435974
+Target Qs  : -1.0261385440826416 -0.9386277198791504
+ Critic Target Q : -1.870669960975647
+Current Qs : -2.0078258514404297 -1.9567456245422363
+critic_loss : 0.3740549683570862
+Current state : 0.8044849634170532
+Current Rotations/action : -0.5550439357757568
+Mean Critic Model Q1/ Action Loss : 1.7780659198760986
+Mean batch obs :0.69
+Mean batch new obs  :0.67
+Mean batch actions :-0.83
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : 0.2145162969827652
+Target Qs  : -1.1610957384109497 -1.0458999872207642
+ Critic Target Q : -2.0060067176818848
+Current Qs : -2.076988935470581 -2.0309276580810547
+critic_loss : 0.2938474714756012
+Current state : 0.6861550211906433
+Current Rotations/action : -0.8276219964027405
+Mean Critic Model Q1/ Action Loss : 1.890156865119934
+Mean batch obs :0.86
+Mean batch new obs  :0.86
+Mean batch actions :-2.07
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 1.0767652988433838
+Target Qs  : -1.186207890510559 -1.0818291902542114
+ Critic Target Q : -2.0833046436309814
+Current Qs : -2.0838582515716553 -2.179842948913574
+critic_loss : 0.3166605234146118
+Current state : 0.8641849756240845
+Current Rotations/action : -2.071315288543701
+Mean Critic Model Q1/ Action Loss : 1.8084434270858765
+Mean batch obs :0.97
+Mean batch new obs  :0.99
+Mean batch actions :-0.52
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 1.2298946380615234
+Target Qs  : -1.2255840301513672 -1.1595444679260254
+ Critic Target Q : -2.143986225128174
+Current Qs : -2.0311636924743652 -2.086798906326294
+critic_loss : 0.3246358036994934
+Current state : 0.9672799706459045
+Current Rotations/action : -0.5200825333595276
+Mean Critic Model Q1/ Action Loss : 1.8507903814315796
+Mean batch obs :0.61
+Mean batch new obs  :0.61
+Mean batch actions :-1.19
+Mean batch actions :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : 1.2198991775512695
+Target Qs  : -1.153272271156311 -1.081292986869812
+ Critic Target Q : -2.032017469406128
+Current Qs : -1.9653881788253784 -1.988476276397705
+critic_loss : 0.25830233097076416
+Current state : 0.610124945640564
+Current Rotations/action : -1.1854263544082642
+Mean Critic Model Q1/ Action Loss : 1.6947309970855713
+Mean batch obs :0.72
+Mean batch new obs  :0.66
+Mean batch actions :-0.63
+Mean batch actions :-0.81
+Mean batch dones :-0.81
+Predicted Rotations/ Next Action : 1.2525391578674316
+Target Qs  : -1.2429578304290771 -1.181565523147583
+ Critic Target Q : -2.055723190307617
+Current Qs : -1.9982895851135254 -2.049825668334961
+critic_loss : 0.4720020890235901
+Current state : 0.7164999842643738
+Current Rotations/action : -0.6282823085784912
+Mean Critic Model Q1/ Action Loss : 1.986165165901184
+Mean batch obs :0.65
+Mean batch new obs  :0.63
+Mean batch actions :-0.46
+Mean batch actions :-0.87
+Mean batch dones :-0.87
+Predicted Rotations/ Next Action : 0.9595695734024048
+Target Qs  : -1.2657297849655151 -1.2154555320739746
+ Critic Target Q : -2.132661819458008
+Current Qs : -2.182375431060791 -2.165522813796997
+critic_loss : 0.39092952013015747
+Current state : 0.6504549384117126
+Current Rotations/action : -0.45615795254707336
+Mean Critic Model Q1/ Action Loss : 1.9723645448684692
+Mean batch obs :0.75
+Mean batch new obs  :0.78
+Mean batch actions :-0.1
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : 1.5527925491333008
+Target Qs  : -1.3791035413742065 -1.3326897621154785
+ Critic Target Q : -2.268156051635742
+Current Qs : -2.3661773204803467 -2.2944114208221436
+critic_loss : 0.2974998950958252
+Current state : 0.7541199922561646
+Current Rotations/action : -0.09997554868459702
+Mean Critic Model Q1/ Action Loss : 2.008035898208618
+Mean batch obs :0.7
+Mean batch new obs  :0.72
+Mean batch actions :-0.49
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : 1.418957233428955
+Target Qs  : -1.3843379020690918 -1.3363897800445557
+ Critic Target Q : -2.294722557067871
+Current Qs : -2.224684715270996 -2.1910500526428223
+critic_loss : 0.24197936058044434
+Current state : 0.7032449245452881
+Current Rotations/action : -0.4905692934989929
+Mean Critic Model Q1/ Action Loss : 2.0512068271636963
+Mean batch obs :0.72
+Mean batch new obs  :0.72
+Mean batch actions :-0.52
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 1.506274700164795
+Target Qs  : -1.4278717041015625 -1.3874142169952393
+ Critic Target Q : -2.325920820236206
+Current Qs : -2.250096559524536 -2.273341417312622
+critic_loss : 0.376639187335968
+Current state : 0.7179799675941467
+Current Rotations/action : -0.5171669125556946
+Mean Critic Model Q1/ Action Loss : 1.9712508916854858
+Mean batch obs :0.61
+Mean batch new obs  :0.59
+Mean batch actions :-0.56
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : 1.1695407629013062
+Target Qs  : -1.526414155960083 -1.4640300273895264
+ Critic Target Q : -2.438063859939575
+Current Qs : -2.3753626346588135 -2.406670331954956
+critic_loss : 0.2887707054615021
+Current state : 0.60760498046875
+Current Rotations/action : -0.5573630332946777
+Mean Critic Model Q1/ Action Loss : 2.2278218269348145
+Mean batch obs :0.71
+Mean batch new obs  :0.76
+Mean batch actions :-0.43
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : 1.7609572410583496
+Target Qs  : -1.4967379570007324 -1.4759386777877808
+ Critic Target Q : -2.41408634185791
+Current Qs : -2.4010040760040283 -2.44046950340271
+critic_loss : 0.28515464067459106
+Current state : 0.7099451422691345
+Current Rotations/action : -0.4266040027141571
+Mean Critic Model Q1/ Action Loss : 2.230344772338867
+Mean batch obs :0.64
+Mean batch new obs  :0.64
+Mean batch actions :0.17
+Mean batch actions :-0.77
+Mean batch dones :-0.77
+Predicted Rotations/ Next Action : 1.3058104515075684
+Target Qs  : -1.4296562671661377 -1.4308655261993408
+ Critic Target Q : -2.220545530319214
+Current Qs : -2.247992753982544 -2.2710278034210205
+critic_loss : 0.3112988770008087
+Current state : 0.6414000391960144
+Current Rotations/action : 0.16859059035778046
+Mean Critic Model Q1/ Action Loss : 2.019178628921509
+Mean batch obs :0.63
+Mean batch new obs  :0.64
+Mean batch actions :-0.58
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : 0.639843225479126
+Target Qs  : -1.5370372533798218 -1.5305259227752686
+ Critic Target Q : -2.468574285507202
+Current Qs : -2.4785702228546143 -2.485222101211548
+critic_loss : 0.3064918518066406
+Current state : 0.634024977684021
+Current Rotations/action : -0.5803907513618469
+Mean Critic Model Q1/ Action Loss : 2.3543121814727783
+Mean batch obs :0.81
+Mean batch new obs  :0.83
+Mean batch actions :-0.05
+Mean batch actions :-0.81
+Mean batch dones :-0.81
+Predicted Rotations/ Next Action : 1.3800479173660278
+Target Qs  : -1.645624041557312 -1.6464357376098633
+ Critic Target Q : -2.486924171447754
+Current Qs : -2.4592785835266113 -2.471303701400757
+critic_loss : 0.32147514820098877
+Current state : 0.8121849894523621
+Current Rotations/action : -0.05057554319500923
+Mean Critic Model Q1/ Action Loss : 2.2645397186279297
+Mean batch obs :0.63
+Mean batch new obs  :0.61
+Mean batch actions :-0.33
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : 1.459043025970459
+Target Qs  : -1.6155363321304321 -1.5951144695281982
+ Critic Target Q : -2.4837582111358643
+Current Qs : -2.590644121170044 -2.5518569946289062
+critic_loss : 0.34533804655075073
+Current state : 0.6319249868392944
+Current Rotations/action : -0.3274153470993042
+Mean Critic Model Q1/ Action Loss : 2.6342391967773438
+Mean batch obs :0.89
+Mean batch new obs  :0.87
+Mean batch actions :-0.05
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 1.4850411415100098
+Target Qs  : -1.7009555101394653 -1.703233003616333
+ Critic Target Q : -2.6305627822875977
+Current Qs : -2.563344717025757 -2.612691879272461
+critic_loss : 0.2914625406265259
+Current state : 0.8915500044822693
+Current Rotations/action : -0.04798286780714989
+Mean Critic Model Q1/ Action Loss : 2.3548994064331055
+Mean batch obs :0.61
+Mean batch new obs  :0.63
+Mean batch actions :-1.22
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 1.7854046821594238
+Target Qs  : -1.8123019933700562 -1.7926799058914185
+ Critic Target Q : -2.7230637073516846
+Current Qs : -2.6096789836883545 -2.7206692695617676
+critic_loss : 0.2046002298593521
+Current state : 0.6141250729560852
+Current Rotations/action : -1.2191423177719116
+Mean Critic Model Q1/ Action Loss : 2.318988084793091
+Mean batch obs :0.71
+Mean batch new obs  :0.65
+Mean batch actions :-1.33
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : 0.9654156565666199
+Target Qs  : -1.7661155462265015 -1.7813796997070312
+ Critic Target Q : -2.6444263458251953
+Current Qs : -2.541033983230591 -2.526405096054077
+critic_loss : 0.30942249298095703
+Current state : 0.7089049816131592
+Current Rotations/action : -1.3281582593917847
+Mean Critic Model Q1/ Action Loss : 2.4342737197875977
+Mean batch obs :0.73
+Mean batch new obs  :0.73
+Mean batch actions :-0.48
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : 1.1621146202087402
+Target Qs  : -1.8897514343261719 -1.8849115371704102
+ Critic Target Q : -2.8282957077026367
+Current Qs : -2.8845114707946777 -2.8261654376983643
+critic_loss : 0.22454190254211426
+Current state : 0.7298049330711365
+Current Rotations/action : -0.48068246245384216
+Mean Critic Model Q1/ Action Loss : 2.669980049133301
+Mean batch obs :0.74
+Mean batch new obs  :0.74
+Mean batch actions :-0.54
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : 1.2835224866867065
+Target Qs  : -1.8125985860824585 -1.8319754600524902
+ Critic Target Q : -2.7345197200775146
+Current Qs : -2.7295801639556885 -2.7092840671539307
+critic_loss : 0.15818236768245697
+Current state : 0.7359049916267395
+Current Rotations/action : -0.5446032881736755
+Mean Critic Model Q1/ Action Loss : 2.4974100589752197
+Mean batch obs :0.83
+Mean batch new obs  :0.81
+Mean batch actions :-0.67
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : 1.3375517129898071
+Target Qs  : -1.9982081651687622 -1.9956530332565308
+ Critic Target Q : -2.9603137969970703
+Current Qs : -2.9636120796203613 -2.9284398555755615
+critic_loss : 0.3543643653392792
+Current state : 0.8282749056816101
+Current Rotations/action : -0.6719367504119873
+Mean Critic Model Q1/ Action Loss : 2.7539827823638916
+Mean batch obs :0.64
+Mean batch new obs  :0.64
+Mean batch actions :0.36
+Mean batch actions :-0.79
+Mean batch dones :-0.79
+Predicted Rotations/ Next Action : 0.8039993047714233
+Target Qs  : -1.8875330686569214 -1.918965458869934
+ Critic Target Q : -2.69791841506958
+Current Qs : -2.712310791015625 -2.752351760864258
+critic_loss : 0.4675796627998352
+Current state : 0.6419150233268738
+Current Rotations/action : 0.3575200140476227
+Mean Critic Model Q1/ Action Loss : 2.4523191452026367
+Mean batch obs :0.76
+Mean batch new obs  :0.78
+Mean batch actions :-0.41
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 1.6840771436691284
+Target Qs  : -1.985801100730896 -2.0018889904022217
+ Critic Target Q : -2.9344840049743652
+Current Qs : -2.8526978492736816 -2.8297951221466064
+critic_loss : 0.20864370465278625
+Current state : 0.7620649933815002
+Current Rotations/action : -0.41375142335891724
+Mean Critic Model Q1/ Action Loss : 2.7848260402679443
+Mean batch obs :0.72
+Mean batch new obs  :0.7
+Mean batch actions :0.06
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 0.9909131526947021
+Target Qs  : -1.9516445398330688 -1.993497610092163
+ Critic Target Q : -2.906996965408325
+Current Qs : -2.6872599124908447 -2.7860140800476074
+critic_loss : 0.3372575640678406
+Current state : 0.7170250415802002
+Current Rotations/action : 0.06182055547833443
+Mean Critic Model Q1/ Action Loss : 2.598459243774414
+Mean batch obs :0.61
+Mean batch new obs  :0.63
+Mean batch actions :-0.05
+Mean batch actions :-0.87
+Mean batch dones :-0.87
+Predicted Rotations/ Next Action : 0.9069004058837891
+Target Qs  : -2.131014108657837 -2.1617591381073
+ Critic Target Q : -3.040447950363159
+Current Qs : -3.0786731243133545 -3.1023757457733154
+critic_loss : 0.2682042121887207
+Current state : 0.610335111618042
+Current Rotations/action : -0.04634562134742737
+Mean Critic Model Q1/ Action Loss : 2.956235647201538
+Mean batch obs :0.81
+Mean batch new obs  :0.83
+Mean batch actions :-0.34
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : 1.409749150276184
+Target Qs  : -2.104846477508545 -2.1544127464294434
+ Critic Target Q : -2.98323392868042
+Current Qs : -2.9739816188812256 -3.0931637287139893
+critic_loss : 0.517174243927002
+Current state : 0.8063099980354309
+Current Rotations/action : -0.33562904596328735
+Mean Critic Model Q1/ Action Loss : 2.724855422973633
+Mean batch obs :0.78
+Mean batch new obs  :0.8
+Mean batch actions :-0.28
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : 1.5923936367034912
+Target Qs  : -2.213278293609619 -2.239755392074585
+ Critic Target Q : -3.1617555618286133
+Current Qs : -3.1909139156341553 -3.1474449634552
+critic_loss : 0.3034658432006836
+Current state : 0.7815850377082825
+Current Rotations/action : -0.2836642563343048
+Mean Critic Model Q1/ Action Loss : 2.9754092693328857
+Mean batch obs :0.77
+Mean batch new obs  :0.71
+Mean batch actions :-1.65
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : 1.6182122230529785
+Target Qs  : -2.2250239849090576 -2.238797187805176
+ Critic Target Q : -3.166255474090576
+Current Qs : -3.237706184387207 -3.2758851051330566
+critic_loss : 0.26485466957092285
+Current state : 0.7731599807739258
+Current Rotations/action : -1.6517665386199951
+Mean Critic Model Q1/ Action Loss : 2.778045415878296
+Mean batch obs :0.74
+Mean batch new obs  :0.76
+Mean batch actions :-0.98
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : 1.3418185710906982
+Target Qs  : -2.2395598888397217 -2.2709567546844482
+ Critic Target Q : -3.1684036254882812
+Current Qs : -3.040787935256958 -3.071157932281494
+critic_loss : 0.29016122221946716
+Current state : 0.7425200343132019
+Current Rotations/action : -0.9757963418960571
+Mean Critic Model Q1/ Action Loss : 2.8493752479553223
+Mean batch obs :0.83
+Mean batch new obs  :0.83
+Mean batch actions :-0.64
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : 1.3931843042373657
+Target Qs  : -2.391263484954834 -2.4222779273986816
+ Critic Target Q : -3.378824472427368
+Current Qs : -3.4188168048858643 -3.3438150882720947
+critic_loss : 0.15392181277275085
+Current state : 0.829634964466095
+Current Rotations/action : -0.6411952972412109
+Mean Critic Model Q1/ Action Loss : 3.0643115043640137
+Mean batch obs :0.6
+Mean batch new obs  :0.58
+Mean batch actions :-0.7
+Mean batch actions :-0.72
+Mean batch dones :-0.72
+Predicted Rotations/ Next Action : 0.9016140699386597
+Target Qs  : -2.2924578189849854 -2.3221912384033203
+ Critic Target Q : -3.0643317699432373
+Current Qs : -3.0381088256835938 -3.1497297286987305
+critic_loss : 0.45063087344169617
+Current state : 0.6019800901412964
+Current Rotations/action : -0.6962618827819824
+Mean Critic Model Q1/ Action Loss : 3.0597150325775146
+Mean batch obs :1.01
+Mean batch new obs  :1.01
+Mean batch actions :-0.99
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : 2.3423056602478027
+Target Qs  : -2.493372678756714 -2.525198459625244
+ Critic Target Q : -3.4472360610961914
+Current Qs : -3.421130895614624 -3.414175510406494
+critic_loss : 0.32477641105651855
+Current state : 1.0092949867248535
+Current Rotations/action : -0.9854401350021362
+Mean Critic Model Q1/ Action Loss : 3.2712433338165283
+Mean batch obs :0.77
+Mean batch new obs  :0.78
+Mean batch actions :0.01
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : 0.46108925342559814
+Target Qs  : -2.3496463298797607 -2.4016494750976562
+ Critic Target Q : -3.291926622390747
+Current Qs : -3.1707282066345215 -3.093351125717163
+critic_loss : 0.31972736120224
+Current state : 0.7667149305343628
+Current Rotations/action : 0.006631689146161079
+Mean Critic Model Q1/ Action Loss : 3.0084259510040283
+Mean batch obs :0.77
+Mean batch new obs  :0.75
+Mean batch actions :-0.2
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : 1.142937421798706
+Target Qs  : -2.607266902923584 -2.6397957801818848
+ Critic Target Q : -3.5582752227783203
+Current Qs : -3.5302350521087646 -3.5096466541290283
+critic_loss : 0.22991925477981567
+Current state : 0.7728950381278992
+Current Rotations/action : -0.2039329558610916
+Mean Critic Model Q1/ Action Loss : 3.4033167362213135
+Mean batch obs :0.78
+Mean batch new obs  :0.79
+Mean batch actions :-0.31
+Mean batch actions :-0.81
+Mean batch dones :-0.81
+Predicted Rotations/ Next Action : 0.7788459062576294
+Target Qs  : -2.545339822769165 -2.60591983795166
+ Critic Target Q : -3.420820713043213
+Current Qs : -3.5298120975494385 -3.554765224456787
+critic_loss : 0.39750272035598755
+Current state : 0.7759550213813782
+Current Rotations/action : -0.31037136912345886
+Mean Critic Model Q1/ Action Loss : 3.412693977355957
+Mean batch obs :0.68
+Mean batch new obs  :0.68
+Mean batch actions :-0.27
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : 1.9258230924606323
+Target Qs  : -2.544894218444824 -2.57206654548645
+ Critic Target Q : -3.429140329360962
+Current Qs : -3.457138776779175 -3.3922841548919678
+critic_loss : 0.3058876097202301
+Current state : 0.6755849719047546
+Current Rotations/action : -0.26993387937545776
+Mean Critic Model Q1/ Action Loss : 3.171266555786133
+Mean batch obs :0.65
+Mean batch new obs  :0.65
+Mean batch actions :-0.89
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : 1.1320505142211914
+Target Qs  : -2.6820285320281982 -2.717848777770996
+ Critic Target Q : -3.5747082233428955
+Current Qs : -3.6067898273468018 -3.5184028148651123
+critic_loss : 0.441372275352478
+Current state : 0.6521050333976746
+Current Rotations/action : -0.887637197971344
+Mean Critic Model Q1/ Action Loss : 3.260305166244507
+Mean batch obs :0.79
+Mean batch new obs  :0.78
+Mean batch actions :-0.79
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : 1.4069886207580566
+Target Qs  : -2.660740852355957 -2.712286949157715
+ Critic Target Q : -3.5666069984436035
+Current Qs : -3.6904022693634033 -3.734752893447876
+critic_loss : 0.3239997625350952
+Current state : 0.7947099804878235
+Current Rotations/action : -0.7940644025802612
+Mean Critic Model Q1/ Action Loss : 3.394160270690918
+Mean batch obs :0.69
+Mean batch new obs  :0.68
+Mean batch actions :-1.03
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : 1.8678158521652222
+Target Qs  : -2.650290012359619 -2.662999153137207
+ Critic Target Q : -3.603837013244629
+Current Qs : -3.6107819080352783 -3.591351270675659
+critic_loss : 0.2630886435508728
+Current state : 0.6861650347709656
+Current Rotations/action : -1.0302828550338745
+Mean Critic Model Q1/ Action Loss : 3.437784194946289
+Mean batch obs :0.98
+Mean batch new obs  :0.94
+Mean batch actions :-0.92
+Mean batch actions :-0.82
+Mean batch dones :-0.82
+Predicted Rotations/ Next Action : 1.5635466575622559
+Target Qs  : -2.8279757499694824 -2.8980982303619385
+ Critic Target Q : -3.690412998199463
+Current Qs : -3.7353410720825195 -3.7875430583953857
+critic_loss : 0.5282574892044067
+Current state : 0.9771750569343567
+Current Rotations/action : -0.919343888759613
+Mean Critic Model Q1/ Action Loss : 3.5286431312561035
+Mean batch obs :0.63
+Mean batch new obs  :0.63
+Mean batch actions :-0.48
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : 0.1261926293373108
+Target Qs  : -2.78835391998291 -2.8226077556610107
+ Critic Target Q : -3.7227890491485596
+Current Qs : -3.7402753829956055 -3.679548978805542
+critic_loss : 0.2733912765979767
+Current state : 0.6285949945449829
+Current Rotations/action : -0.47867706418037415
+Mean Critic Model Q1/ Action Loss : 3.541066884994507
+Mean batch obs :0.68
+Mean batch new obs  :0.68
+Mean batch actions :-0.37
+Mean batch actions :-0.87
+Mean batch dones :-0.87
+Predicted Rotations/ Next Action : 1.0765377283096313
+Target Qs  : -2.9127752780914307 -2.9368624687194824
+ Critic Target Q : -3.8191866874694824
+Current Qs : -3.849865198135376 -3.900364875793457
+critic_loss : 0.10761934518814087
+Current state : 0.6760998368263245
+Current Rotations/action : -0.36853304505348206
+Mean Critic Model Q1/ Action Loss : 3.6964271068573
+Mean batch obs :0.68
+Mean batch new obs  :0.68
+Mean batch actions :-0.4
+Mean batch actions :-0.75
+Mean batch dones :-0.75
+Predicted Rotations/ Next Action : 1.0736727714538574
+Target Qs  : -2.8674399852752686 -2.8953065872192383
+ Critic Target Q : -3.660233497619629
+Current Qs : -3.8014962673187256 -3.760099411010742
+critic_loss : 0.48336905241012573
+Current state : 0.6760300397872925
+Current Rotations/action : -0.39977794885635376
+Mean Critic Model Q1/ Action Loss : 3.8325743675231934
+Total Timesteps: 2978 Episode Num: 3 Reward: -1200
+Mean batch obs :0.7
+Mean batch new obs  :0.72
+Mean batch actions :-0.67
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : 1.4072705507278442
+Target Qs  : -3.090562105178833 -3.047308921813965
+ Critic Target Q : -4.060064792633057
+Current Qs : -3.9255590438842773 -3.842759609222412
+critic_loss : 0.32541799545288086
+Current state : 0.6971349716186523
+Current Rotations/action : -0.6675926446914673
+Mean Critic Model Q1/ Action Loss : 3.904628276824951
+Mean batch obs :0.6
+Mean batch new obs  :0.58
+Mean batch actions :0.39
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : 0.8718643188476562
+Target Qs  : -3.1328928470611572 -3.0916123390197754
+ Critic Target Q : -4.102790355682373
+Current Qs : -3.9926962852478027 -3.952624559402466
+critic_loss : 0.17148566246032715
+Current state : 0.5975750684738159
+Current Rotations/action : 0.38510242104530334
+Mean Critic Model Q1/ Action Loss : 3.817732810974121
+Mean batch obs :0.73
+Mean batch new obs  :0.67
+Mean batch actions :0.45
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -0.3537309169769287
+Target Qs  : -2.9915249347686768 -2.988626003265381
+ Critic Target Q : -3.9397172927856445
+Current Qs : -4.12044095993042 -4.117516040802002
+critic_loss : 0.24128776788711548
+Current state : 0.7302199602127075
+Current Rotations/action : 0.4528474807739258
+Mean Critic Model Q1/ Action Loss : 4.269955158233643
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :-0.64
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -0.2639770805835724
+Target Qs  : -3.127934455871582 -3.121507167816162
+ Critic Target Q : -4.127472877502441
+Current Qs : -4.186904430389404 -4.240190029144287
+critic_loss : 0.10042065382003784
+Current state : 0.48743999004364014
+Current Rotations/action : -0.6392955183982849
+Mean Critic Model Q1/ Action Loss : 4.1888203620910645
+Mean batch obs :0.53
+Mean batch new obs  :0.55
+Mean batch actions :-1.06
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -0.07079630345106125
+Target Qs  : -3.173985242843628 -3.165586233139038
+ Critic Target Q : -4.145275592803955
+Current Qs : -4.151693820953369 -4.144554615020752
+critic_loss : 0.1441652476787567
+Current state : 0.5320000052452087
+Current Rotations/action : -1.056147575378418
+Mean Critic Model Q1/ Action Loss : 3.87455415725708
+Mean batch obs :0.57
+Mean batch new obs  :0.56
+Mean batch actions :-0.82
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -1.5336830615997314
+Target Qs  : -3.3490068912506104 -3.3094370365142822
+ Critic Target Q : -4.268676280975342
+Current Qs : -4.301458835601807 -4.3066816329956055
+critic_loss : 0.33737698197364807
+Current state : 0.5733899474143982
+Current Rotations/action : -0.8156822919845581
+Mean Critic Model Q1/ Action Loss : 3.785773992538452
+Mean batch obs :0.59
+Mean batch new obs  :0.6
+Mean batch actions :-0.25
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -2.423741102218628
+Target Qs  : -3.323513984680176 -3.2661404609680176
+ Critic Target Q : -4.287586688995361
+Current Qs : -4.260629177093506 -4.314892768859863
+critic_loss : 0.25258883833885193
+Current state : 0.589525043964386
+Current Rotations/action : -0.2518743574619293
+Mean Critic Model Q1/ Action Loss : 3.5260143280029297
+Mean batch obs :0.59
+Mean batch new obs  :0.6
+Mean batch actions :-0.29
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -2.7353765964508057
+Target Qs  : -3.35209321975708 -3.3001773357391357
+ Critic Target Q : -4.321589946746826
+Current Qs : -4.367997646331787 -4.3796000480651855
+critic_loss : 0.16307756304740906
+Current state : 0.5858150124549866
+Current Rotations/action : -0.2881568968296051
+Mean Critic Model Q1/ Action Loss : 3.487896203994751
+Mean batch obs :0.57
+Mean batch new obs  :0.57
+Mean batch actions :0.21
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : -3.593210220336914
+Target Qs  : -3.2592766284942627 -3.2142083644866943
+ Critic Target Q : -4.191458225250244
+Current Qs : -4.072010040283203 -4.117359638214111
+critic_loss : 0.24400290846824646
+Current state : 0.5707550048828125
+Current Rotations/action : 0.21387363970279694
+Mean Critic Model Q1/ Action Loss : 4.152696132659912
+Mean batch obs :0.55
+Mean batch new obs  :0.55
+Mean batch actions :-0.03
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -3.5282580852508545
+Target Qs  : -3.340399742126465 -3.2644693851470947
+ Critic Target Q : -4.254876136779785
+Current Qs : -4.153509140014648 -4.0668253898620605
+critic_loss : 0.2745465636253357
+Current state : 0.5499149560928345
+Current Rotations/action : -0.027756625786423683
+Mean Critic Model Q1/ Action Loss : 3.8613553047180176
+Mean batch obs :0.68
+Mean batch new obs  :0.68
+Mean batch actions :-0.57
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -4.003213882446289
+Target Qs  : -3.530271530151367 -3.4512627124786377
+ Critic Target Q : -4.50337028503418
+Current Qs : -4.547061920166016 -4.509826183319092
+critic_loss : 0.05857056379318237
+Current state : 0.6777799725532532
+Current Rotations/action : -0.5734740495681763
+Mean Critic Model Q1/ Action Loss : 4.697638034820557
+Mean batch obs :0.55
+Mean batch new obs  :0.54
+Mean batch actions :-0.77
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -4.315641403198242
+Target Qs  : -3.640683174133301 -3.5830318927764893
+ Critic Target Q : -4.555342197418213
+Current Qs : -4.631936550140381 -4.607071876525879
+critic_loss : 0.31061089038848877
+Current state : 0.5450350046157837
+Current Rotations/action : -0.7720625400543213
+Mean Critic Model Q1/ Action Loss : 4.144322872161865
+Mean batch obs :0.63
+Mean batch new obs  :0.63
+Mean batch actions :-0.26
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -4.240248203277588
+Target Qs  : -3.5582327842712402 -3.51615571975708
+ Critic Target Q : -4.537836074829102
+Current Qs : -4.588633060455322 -4.591672897338867
+critic_loss : 0.11014921218156815
+Current state : 0.6324050426483154
+Current Rotations/action : -0.25741851329803467
+Mean Critic Model Q1/ Action Loss : 4.321850776672363
+Mean batch obs :0.59
+Mean batch new obs  :0.59
+Mean batch actions :-0.55
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -5.626029014587402
+Target Qs  : -3.5682406425476074 -3.4509270191192627
+ Critic Target Q : -4.5175557136535645
+Current Qs : -4.503857135772705 -4.414224147796631
+critic_loss : 0.11289286613464355
+Current state : 0.5926350355148315
+Current Rotations/action : -0.5513669848442078
+Mean Critic Model Q1/ Action Loss : 4.458095550537109
+Mean batch obs :0.6
+Mean batch new obs  :0.62
+Mean batch actions :-0.44
+Mean batch actions :-0.95
+Mean batch dones :-0.95
+Predicted Rotations/ Next Action : -5.354407787322998
+Target Qs  : -3.7102255821228027 -3.643758535385132
+ Critic Target Q : -4.658158779144287
+Current Qs : -4.647293567657471 -4.650384426116943
+critic_loss : 0.237301766872406
+Current state : 0.5994849801063538
+Current Rotations/action : -0.4378007650375366
+Mean Critic Model Q1/ Action Loss : 4.520916938781738
+Mean batch obs :0.64
+Mean batch new obs  :0.66
+Mean batch actions :-0.68
+Mean batch actions :-0.95
+Mean batch dones :-0.95
+Predicted Rotations/ Next Action : -4.373507499694824
+Target Qs  : -3.796013593673706 -3.74937105178833
+ Critic Target Q : -4.757986545562744
+Current Qs : -4.722324848175049 -4.7588911056518555
+critic_loss : 0.23358485102653503
+Current state : 0.6426050066947937
+Current Rotations/action : -0.6821807026863098
+Mean Critic Model Q1/ Action Loss : 4.65607213973999
+Mean batch obs :0.58
+Mean batch new obs  :0.61
+Mean batch actions :-0.13
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -6.285088062286377
+Target Qs  : -3.7078778743743896 -3.6429526805877686
+ Critic Target Q : -4.615957736968994
+Current Qs : -4.609643459320068 -4.575350761413574
+critic_loss : 0.39247065782546997
+Current state : 0.5754750370979309
+Current Rotations/action : -0.1330595314502716
+Mean Critic Model Q1/ Action Loss : 4.482382774353027
+Mean batch obs :0.54
+Mean batch new obs  :0.54
+Mean batch actions :-0.76
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : -6.014217376708984
+Target Qs  : -3.9592063426971436 -3.848930597305298
+ Critic Target Q : -4.928539276123047
+Current Qs : -4.952857494354248 -4.941405773162842
+critic_loss : 0.07500271499156952
+Current state : 0.5379849672317505
+Current Rotations/action : -0.7592852711677551
+Mean Critic Model Q1/ Action Loss : 4.730635166168213
+Mean batch obs :0.62
+Mean batch new obs  :0.62
+Mean batch actions :-0.47
+Mean batch actions :-0.95
+Mean batch dones :-0.95
+Predicted Rotations/ Next Action : -5.496970176696777
+Target Qs  : -3.8732974529266357 -3.8097662925720215
+ Critic Target Q : -4.8244099617004395
+Current Qs : -4.820558071136475 -4.787454605102539
+critic_loss : 0.13520210981369019
+Current state : 0.6190950274467468
+Current Rotations/action : -0.4707825481891632
+Mean Critic Model Q1/ Action Loss : 4.365232467651367
+Mean batch obs :0.65
+Mean batch new obs  :0.67
+Mean batch actions :-0.88
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -5.531727313995361
+Target Qs  : -4.024810314178467 -3.9743096828460693
+ Critic Target Q : -4.9551286697387695
+Current Qs : -5.034894943237305 -5.040592193603516
+critic_loss : 0.11656707525253296
+Current state : 0.6464100480079651
+Current Rotations/action : -0.8759947419166565
+Mean Critic Model Q1/ Action Loss : 4.717736721038818
+Mean batch obs :0.59
+Mean batch new obs  :0.59
+Mean batch actions :-0.08
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -6.227875232696533
+Target Qs  : -3.7485201358795166 -3.7112975120544434
+ Critic Target Q : -4.652881622314453
+Current Qs : -4.62999153137207 -4.603439807891846
+critic_loss : 0.26635968685150146
+Current state : 0.5928099155426025
+Current Rotations/action : -0.07856263965368271
+Mean Critic Model Q1/ Action Loss : 4.2363481521606445
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :-0.55
+Mean batch actions :-1.0
+Mean batch dones :-1.0
+Predicted Rotations/ Next Action : -6.028642654418945
+Target Qs  : -4.015684604644775 -3.942387580871582
+ Critic Target Q : -5.008291244506836
+Current Qs : -5.037285327911377 -4.925254821777344
+critic_loss : 0.10369650274515152
+Current state : 0.4902149736881256
+Current Rotations/action : -0.5549039244651794
+Mean Critic Model Q1/ Action Loss : 4.534305572509766
+Mean batch obs :0.55
+Mean batch new obs  :0.55
+Mean batch actions :-0.19
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -5.916824817657471
+Target Qs  : -3.9720723628997803 -3.9078209400177
+ Critic Target Q : -4.920577526092529
+Current Qs : -5.007365703582764 -5.038908004760742
+critic_loss : 0.1895991563796997
+Current state : 0.5500400066375732
+Current Rotations/action : -0.1904815286397934
+Mean Critic Model Q1/ Action Loss : 4.5535430908203125
+Mean batch obs :0.53
+Mean batch new obs  :0.54
+Mean batch actions :-0.1
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -6.290721416473389
+Target Qs  : -4.076282501220703 -3.9837875366210938
+ Critic Target Q : -5.025433540344238
+Current Qs : -4.998655319213867 -4.9188032150268555
+critic_loss : 0.2012251913547516
+Current state : 0.5343500375747681
+Current Rotations/action : -0.09797177463769913
+Mean Critic Model Q1/ Action Loss : 5.03110933303833
+Mean batch obs :0.68
+Mean batch new obs  :0.68
+Mean batch actions :-0.17
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -5.924372673034668
+Target Qs  : -4.111749172210693 -4.071253776550293
+ Critic Target Q : -5.0343122482299805
+Current Qs : -5.020181655883789 -5.071207046508789
+critic_loss : 0.30879876017570496
+Current state : 0.6807850003242493
+Current Rotations/action : -0.16905060410499573
+Mean Critic Model Q1/ Action Loss : 4.450467109680176
+Mean batch obs :0.68
+Mean batch new obs  :0.68
+Mean batch actions :-0.89
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -4.565564155578613
+Target Qs  : -4.297738075256348 -4.325882434844971
+ Critic Target Q : -5.273685455322266
+Current Qs : -5.199526309967041 -5.183444976806641
+critic_loss : 0.22636212408542633
+Current state : 0.6754850149154663
+Current Rotations/action : -0.8891476392745972
+Mean Critic Model Q1/ Action Loss : 5.092122554779053
+Mean batch obs :0.47
+Mean batch new obs  :0.47
+Mean batch actions :-0.28
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -6.137930870056152
+Target Qs  : -4.192866802215576 -4.100378513336182
+ Critic Target Q : -5.095005989074707
+Current Qs : -5.113020420074463 -5.053997993469238
+critic_loss : 0.17523027956485748
+Current state : 0.472460001707077
+Current Rotations/action : -0.2759813368320465
+Mean Critic Model Q1/ Action Loss : 4.766070365905762
+Mean batch obs :0.52
+Mean batch new obs  :0.55
+Mean batch actions :-0.14
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -5.363560199737549
+Target Qs  : -4.25661563873291 -4.198855400085449
+ Critic Target Q : -5.185974597930908
+Current Qs : -5.214791774749756 -5.168346405029297
+critic_loss : 0.24753044545650482
+Current state : 0.5238349437713623
+Current Rotations/action : -0.1357603818178177
+Mean Critic Model Q1/ Action Loss : 4.6929426193237305
+Mean batch obs :0.73
+Mean batch new obs  :0.73
+Mean batch actions :-0.41
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -5.715147018432617
+Target Qs  : -4.280389785766602 -4.23960542678833
+ Critic Target Q : -5.258660316467285
+Current Qs : -5.322356700897217 -5.351887226104736
+critic_loss : 0.12782305479049683
+Current state : 0.7255099415779114
+Current Rotations/action : -0.4111454486846924
+Mean Critic Model Q1/ Action Loss : 5.090050220489502
+Mean batch obs :0.59
+Mean batch new obs  :0.61
+Mean batch actions :-0.29
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -6.084773063659668
+Target Qs  : -4.4872355461120605 -4.465427875518799
+ Critic Target Q : -5.446703910827637
+Current Qs : -5.4585185050964355 -5.493966102600098
+critic_loss : 0.16990938782691956
+Current state : 0.5861449837684631
+Current Rotations/action : -0.2923499345779419
+Mean Critic Model Q1/ Action Loss : 5.056136608123779
+Mean batch obs :0.48
+Mean batch new obs  :0.48
+Mean batch actions :-0.83
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -5.984928607940674
+Target Qs  : -4.289167881011963 -4.226615905761719
+ Critic Target Q : -5.226149082183838
+Current Qs : -5.334820747375488 -5.339561939239502
+critic_loss : 0.22744597494602203
+Current state : 0.47956499457359314
+Current Rotations/action : -0.8321672677993774
+Mean Critic Model Q1/ Action Loss : 4.8739824295043945
+Mean batch obs :0.65
+Mean batch new obs  :0.63
+Mean batch actions :-0.4
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -4.908095836639404
+Target Qs  : -4.598721504211426 -4.567300796508789
+ Critic Target Q : -5.560080051422119
+Current Qs : -5.605074405670166 -5.6120171546936035
+critic_loss : 0.29951000213623047
+Current state : 0.6511450409889221
+Current Rotations/action : -0.40199288725852966
+Mean Critic Model Q1/ Action Loss : 5.269232273101807
+Mean batch obs :0.57
+Mean batch new obs  :0.61
+Mean batch actions :-0.52
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -5.9524312019348145
+Target Qs  : -4.656358242034912 -4.639307022094727
+ Critic Target Q : -5.6484551429748535
+Current Qs : -5.6207733154296875 -5.604864120483398
+critic_loss : 0.18454745411872864
+Current state : 0.5706149339675903
+Current Rotations/action : -0.5193524956703186
+Mean Critic Model Q1/ Action Loss : 5.389337539672852
+Mean batch obs :0.52
+Mean batch new obs  :0.52
+Mean batch actions :-0.05
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -5.908763408660889
+Target Qs  : -4.595612049102783 -4.551070690155029
+ Critic Target Q : -5.544719219207764
+Current Qs : -5.593973159790039 -5.6198272705078125
+critic_loss : 0.2486344873905182
+Current state : 0.5222650766372681
+Current Rotations/action : -0.050491977483034134
+Mean Critic Model Q1/ Action Loss : 5.297088146209717
+Mean batch obs :0.55
+Mean batch new obs  :0.55
+Mean batch actions :-0.72
+Mean batch actions :-0.93
+Mean batch dones :-0.93
+Predicted Rotations/ Next Action : -6.532108783721924
+Target Qs  : -4.52432107925415 -4.507715225219727
+ Critic Target Q : -5.46026611328125
+Current Qs : -5.6640119552612305 -5.6267242431640625
+critic_loss : 0.24286749958992004
+Current state : 0.5469599366188049
+Current Rotations/action : -0.718852162361145
+Mean Critic Model Q1/ Action Loss : 5.462644577026367
+Mean batch obs :0.71
+Mean batch new obs  :0.72
+Mean batch actions :-0.57
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -5.918942451477051
+Target Qs  : -4.72359037399292 -4.681873321533203
+ Critic Target Q : -5.665332794189453
+Current Qs : -5.590948104858398 -5.6519880294799805
+critic_loss : 0.08101236820220947
+Current state : 0.7063049674034119
+Current Rotations/action : -0.5716208219528198
+Mean Critic Model Q1/ Action Loss : 5.419488430023193
+Mean batch obs :0.59
+Mean batch new obs  :0.59
+Mean batch actions :0.53
+Mean batch actions :-0.87
+Mean batch dones :-0.87
+Predicted Rotations/ Next Action : -5.871878147125244
+Target Qs  : -4.537423610687256 -4.547245025634766
+ Critic Target Q : -5.440249443054199
+Current Qs : -5.486941337585449 -5.410191059112549
+critic_loss : 0.14617708325386047
+Current state : 0.5894599556922913
+Current Rotations/action : 0.5310809016227722
+Mean Critic Model Q1/ Action Loss : 5.671288967132568
+Mean batch obs :0.7
+Mean batch new obs  :0.7
+Mean batch actions :-0.04
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -5.1127238273620605
+Target Qs  : -4.792189598083496 -4.757417678833008
+ Critic Target Q : -5.747416973114014
+Current Qs : -5.828068733215332 -5.751011371612549
+critic_loss : 0.13275450468063354
+Current state : 0.7023651003837585
+Current Rotations/action : -0.040302056819200516
+Mean Critic Model Q1/ Action Loss : 5.157639026641846
+Mean batch obs :0.54
+Mean batch new obs  :0.54
+Mean batch actions :-1.07
+Mean batch actions :-0.95
+Mean batch dones :-0.95
+Predicted Rotations/ Next Action : -5.771488666534424
+Target Qs  : -4.78620719909668 -4.785836696624756
+ Critic Target Q : -5.745535850524902
+Current Qs : -5.873196601867676 -5.8498382568359375
+critic_loss : 0.14282327890396118
+Current state : 0.540024995803833
+Current Rotations/action : -1.067186713218689
+Mean Critic Model Q1/ Action Loss : 5.733213424682617
+Mean batch obs :0.55
+Mean batch new obs  :0.57
+Mean batch actions :0.17
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -5.248042106628418
+Target Qs  : -4.832794666290283 -4.840230464935303
+ Critic Target Q : -5.7825026512146
+Current Qs : -5.610009670257568 -5.604406833648682
+critic_loss : 0.4665876030921936
+Current state : 0.548770010471344
+Current Rotations/action : 0.16754887998104095
+Mean Critic Model Q1/ Action Loss : 5.014046669006348
+Mean batch obs :0.71
+Mean batch new obs  :0.73
+Mean batch actions :-0.1
+Mean batch actions :-0.93
+Mean batch dones :-0.93
+Predicted Rotations/ Next Action : -5.350236892700195
+Target Qs  : -4.80612325668335 -4.809731960296631
+ Critic Target Q : -5.746267318725586
+Current Qs : -5.639889717102051 -5.579723358154297
+critic_loss : 0.3958039879798889
+Current state : 0.7092300653457642
+Current Rotations/action : -0.10305026918649673
+Mean Critic Model Q1/ Action Loss : 5.480769634246826
+Mean batch obs :0.55
+Mean batch new obs  :0.55
+Mean batch actions :-0.5
+Mean batch actions :-0.93
+Mean batch dones :-0.93
+Predicted Rotations/ Next Action : -6.209684371948242
+Target Qs  : -4.844234466552734 -4.874837875366211
+ Critic Target Q : -5.818680286407471
+Current Qs : -5.9268951416015625 -5.785216808319092
+critic_loss : 0.408362478017807
+Current state : 0.5473300814628601
+Current Rotations/action : -0.5018441081047058
+Mean Critic Model Q1/ Action Loss : 5.691344738006592
+Mean batch obs :0.75
+Mean batch new obs  :0.75
+Mean batch actions :-0.63
+Mean batch actions :-0.83
+Mean batch dones :-0.83
+Predicted Rotations/ Next Action : -5.734099864959717
+Target Qs  : -4.510031223297119 -4.507511615753174
+ Critic Target Q : -5.364074230194092
+Current Qs : -5.389510631561279 -5.363665580749512
+critic_loss : 0.2842707633972168
+Current state : 0.7457249760627747
+Current Rotations/action : -0.6279474496841431
+Mean Critic Model Q1/ Action Loss : 4.970595836639404
+Mean batch obs :0.53
+Mean batch new obs  :0.55
+Mean batch actions :-0.55
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -6.2001495361328125
+Target Qs  : -4.91208553314209 -4.941345691680908
+ Critic Target Q : -5.910624980926514
+Current Qs : -5.657016754150391 -5.759285926818848
+critic_loss : 0.16996148228645325
+Current state : 0.5281699895858765
+Current Rotations/action : -0.5461081266403198
+Mean Critic Model Q1/ Action Loss : 5.923555374145508
+Mean batch obs :0.47
+Mean batch new obs  :0.47
+Mean batch actions :-0.25
+Mean batch actions :-0.87
+Mean batch dones :-0.87
+Predicted Rotations/ Next Action : -6.288575649261475
+Target Qs  : -5.0559282302856445 -5.085338115692139
+ Critic Target Q : -5.968332290649414
+Current Qs : -5.874701023101807 -5.916156768798828
+critic_loss : 0.22163636982440948
+Current state : 0.47480499744415283
+Current Rotations/action : -0.25099194049835205
+Mean Critic Model Q1/ Action Loss : 5.683746337890625
+Mean batch obs :0.54
+Mean batch new obs  :0.54
+Mean batch actions :-0.33
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -5.609089374542236
+Target Qs  : -5.001248836517334 -5.009934902191162
+ Critic Target Q : -5.920900344848633
+Current Qs : -5.87484073638916 -5.846908092498779
+critic_loss : 0.2540539801120758
+Current state : 0.5413599014282227
+Current Rotations/action : -0.32712239027023315
+Mean Critic Model Q1/ Action Loss : 5.649415969848633
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :-0.09
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -5.998687744140625
+Target Qs  : -4.9339375495910645 -4.987379550933838
+ Critic Target Q : -5.865334987640381
+Current Qs : -5.930988788604736 -5.977365493774414
+critic_loss : 0.2324143648147583
+Current state : 0.49405500292778015
+Current Rotations/action : -0.0927899181842804
+Mean Critic Model Q1/ Action Loss : 5.7876877784729
+Mean batch obs :0.51
+Mean batch new obs  :0.53
+Mean batch actions :-0.31
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -5.162325859069824
+Target Qs  : -5.113804817199707 -5.126933574676514
+ Critic Target Q : -6.0170793533325195
+Current Qs : -6.030938625335693 -6.055354118347168
+critic_loss : 0.26946505904197693
+Current state : 0.5131949782371521
+Current Rotations/action : -0.31028521060943604
+Mean Critic Model Q1/ Action Loss : 5.850305080413818
+Total Timesteps: 4178 Episode Num: 4 Reward: -1110.0
+Mean batch obs :0.59
+Mean batch new obs  :0.58
+Mean batch actions :-0.23
+Mean batch actions :-0.83
+Mean batch dones :-0.83
+Predicted Rotations/ Next Action : -3.520406484603882
+Target Qs  : -3.799018144607544 -3.983837604522705
+ Critic Target Q : -4.822591781616211
+Current Qs : -4.54507303237915 -4.689748287200928
+critic_loss : 1.3699028491973877
+Current state : 0.5930949449539185
+Current Rotations/action : -0.23197287321090698
+Mean Critic Model Q1/ Action Loss : 4.431782245635986
+Mean batch obs :0.5
+Mean batch new obs  :0.5
+Mean batch actions :-0.33
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : -4.288285732269287
+Target Qs  : -3.9936530590057373 -4.053744316101074
+ Critic Target Q : -5.006402969360352
+Current Qs : -4.969053745269775 -5.026726245880127
+critic_loss : 0.25051644444465637
+Current state : 0.49594995379447937
+Current Rotations/action : -0.3333454430103302
+Mean Critic Model Q1/ Action Loss : 4.808156490325928
+Mean batch obs :0.51
+Mean batch new obs  :0.51
+Mean batch actions :-0.39
+Mean batch actions :-0.86
+Mean batch dones :-0.86
+Predicted Rotations/ Next Action : -4.554239749908447
+Target Qs  : -4.1464643478393555 -4.245652675628662
+ Critic Target Q : -5.127059459686279
+Current Qs : -5.329297065734863 -5.294575214385986
+critic_loss : 0.5393619537353516
+Current state : 0.5109300017356873
+Current Rotations/action : -0.3880884647369385
+Mean Critic Model Q1/ Action Loss : 4.828752040863037
+Mean batch obs :0.48
+Mean batch new obs  :0.49
+Mean batch actions :-0.56
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -4.20778751373291
+Target Qs  : -3.8513097763061523 -3.9975574016571045
+ Critic Target Q : -4.923863887786865
+Current Qs : -4.982267379760742 -4.9836344718933105
+critic_loss : 0.30355286598205566
+Current state : 0.4848899245262146
+Current Rotations/action : -0.563307523727417
+Mean Critic Model Q1/ Action Loss : 4.975149631500244
+Mean batch obs :0.53
+Mean batch new obs  :0.53
+Mean batch actions :-0.21
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -4.716366767883301
+Target Qs  : -4.562321662902832 -4.637965202331543
+ Critic Target Q : -5.579282283782959
+Current Qs : -5.681291580200195 -5.6308112144470215
+critic_loss : 0.19177719950675964
+Current state : 0.5333800315856934
+Current Rotations/action : -0.21304333209991455
+Mean Critic Model Q1/ Action Loss : 5.186126708984375
+Mean batch obs :0.55
+Mean batch new obs  :0.55
+Mean batch actions :-0.91
+Mean batch actions :-0.86
+Mean batch dones :-0.86
+Predicted Rotations/ Next Action : -3.597867965698242
+Target Qs  : -4.218400478363037 -4.342876434326172
+ Critic Target Q : -5.215968608856201
+Current Qs : -5.416148662567139 -5.439488410949707
+critic_loss : 0.782628059387207
+Current state : 0.550944983959198
+Current Rotations/action : -0.9102584719657898
+Mean Critic Model Q1/ Action Loss : 5.250056743621826
+Mean batch obs :0.52
+Mean batch new obs  :0.5
+Mean batch actions :-0.34
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -4.073102951049805
+Target Qs  : -4.064333915710449 -4.2104363441467285
+ Critic Target Q : -5.115475177764893
+Current Qs : -5.132750988006592 -5.135689735412598
+critic_loss : 0.1754632145166397
+Current state : 0.5162950158119202
+Current Rotations/action : -0.3358999490737915
+Mean Critic Model Q1/ Action Loss : 4.6722540855407715
+Mean batch obs :0.5
+Mean batch new obs  :0.5
+Mean batch actions :-0.12
+Mean batch actions :-0.95
+Mean batch dones :-0.95
+Predicted Rotations/ Next Action : -3.7312381267547607
+Target Qs  : -4.138532638549805 -4.258521556854248
+ Critic Target Q : -5.196572303771973
+Current Qs : -5.2197041511535645 -5.246381759643555
+critic_loss : 0.1554519236087799
+Current state : 0.4994400143623352
+Current Rotations/action : -0.11889541894197464
+Mean Critic Model Q1/ Action Loss : 5.350637435913086
+Mean batch obs :0.57
+Mean batch new obs  :0.57
+Mean batch actions :-0.46
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -3.4958982467651367
+Target Qs  : -4.321352958679199 -4.421519756317139
+ Critic Target Q : -5.348855495452881
+Current Qs : -5.306623458862305 -5.3403425216674805
+critic_loss : 0.16517576575279236
+Current state : 0.5691450834274292
+Current Rotations/action : -0.45773929357528687
+Mean Critic Model Q1/ Action Loss : 4.774944305419922
+Mean batch obs :0.57
+Mean batch new obs  :0.56
+Mean batch actions :-0.62
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -4.263503074645996
+Target Qs  : -4.390552997589111 -4.53836727142334
+ Critic Target Q : -5.472292900085449
+Current Qs : -5.442770481109619 -5.450011730194092
+critic_loss : 0.36261844635009766
+Current state : 0.5740249752998352
+Current Rotations/action : -0.6208536624908447
+Mean Critic Model Q1/ Action Loss : 5.469840049743652
+Mean batch obs :0.63
+Mean batch new obs  :0.63
+Mean batch actions :-0.82
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -4.53096866607666
+Target Qs  : -4.495154857635498 -4.605854034423828
+ Critic Target Q : -5.480216026306152
+Current Qs : -5.492681980133057 -5.509838104248047
+critic_loss : 0.1990351378917694
+Current state : 0.6255549788475037
+Current Rotations/action : -0.8230875134468079
+Mean Critic Model Q1/ Action Loss : 5.052672863006592
+Mean batch obs :0.6
+Mean batch new obs  :0.61
+Mean batch actions :-1.04
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -3.8922057151794434
+Target Qs  : -4.5557332038879395 -4.649505138397217
+ Critic Target Q : -5.574329853057861
+Current Qs : -5.511854648590088 -5.5514631271362305
+critic_loss : 0.29763275384902954
+Current state : 0.5962650179862976
+Current Rotations/action : -1.0402530431747437
+Mean Critic Model Q1/ Action Loss : 4.924643039703369
+Mean batch obs :0.45
+Mean batch new obs  :0.45
+Mean batch actions :-0.14
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -5.150784969329834
+Target Qs  : -4.562251091003418 -4.652619361877441
+ Critic Target Q : -5.568010330200195
+Current Qs : -5.447566509246826 -5.566462993621826
+critic_loss : 0.3257136344909668
+Current state : 0.44852501153945923
+Current Rotations/action : -0.13723009824752808
+Mean Critic Model Q1/ Action Loss : 5.03200626373291
+Mean batch obs :0.63
+Mean batch new obs  :0.64
+Mean batch actions :-0.33
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : -4.820583343505859
+Target Qs  : -4.726807594299316 -4.803099155426025
+ Critic Target Q : -5.792500019073486
+Current Qs : -5.7213521003723145 -5.7761006355285645
+critic_loss : 0.19518814980983734
+Current state : 0.6348949074745178
+Current Rotations/action : -0.32698413729667664
+Mean Critic Model Q1/ Action Loss : 5.210419178009033
+Mean batch obs :0.53
+Mean batch new obs  :0.53
+Mean batch actions :-0.1
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -5.029627323150635
+Target Qs  : -5.0587663650512695 -5.039158821105957
+ Critic Target Q : -6.0142974853515625
+Current Qs : -5.973399639129639 -6.012509822845459
+critic_loss : 0.2674061059951782
+Current state : 0.5329549908638
+Current Rotations/action : -0.09796720743179321
+Mean Critic Model Q1/ Action Loss : 5.254298210144043
+Mean batch obs :0.62
+Mean batch new obs  :0.62
+Mean batch actions :-0.09
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -4.605931282043457
+Target Qs  : -4.688289165496826 -4.7417073249816895
+ Critic Target Q : -5.724740982055664
+Current Qs : -5.644625663757324 -5.6918745040893555
+critic_loss : 0.2661172151565552
+Current state : 0.6226949691772461
+Current Rotations/action : -0.08678481727838516
+Mean Critic Model Q1/ Action Loss : 4.460039138793945
+Mean batch obs :0.51
+Mean batch new obs  :0.49
+Mean batch actions :-0.08
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : -5.0438008308410645
+Target Qs  : -4.770414352416992 -4.815540313720703
+ Critic Target Q : -5.843845844268799
+Current Qs : -5.934306621551514 -6.014596939086914
+critic_loss : 0.22648903727531433
+Current state : 0.5072049498558044
+Current Rotations/action : -0.07830236107110977
+Mean Critic Model Q1/ Action Loss : 4.786859512329102
+Mean batch obs :0.49
+Mean batch new obs  :0.5
+Mean batch actions :-0.9
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -5.553577899932861
+Target Qs  : -5.127078056335449 -5.155475616455078
+ Critic Target Q : -6.1300272941589355
+Current Qs : -6.036268711090088 -6.106505870819092
+critic_loss : 0.15765231847763062
+Current state : 0.4890400171279907
+Current Rotations/action : -0.9027934074401855
+Mean Critic Model Q1/ Action Loss : 5.492459774017334
+Mean batch obs :0.44
+Mean batch new obs  :0.45
+Mean batch actions :-0.55
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -5.3945722579956055
+Target Qs  : -5.065132141113281 -5.1090006828308105
+ Critic Target Q : -6.111878871917725
+Current Qs : -6.2047553062438965 -6.269498348236084
+critic_loss : 0.27195101976394653
+Current state : 0.44447997212409973
+Current Rotations/action : -0.5548295378684998
+Mean Critic Model Q1/ Action Loss : 5.735754013061523
+Mean batch obs :0.56
+Mean batch new obs  :0.56
+Mean batch actions :-0.56
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -5.004229545593262
+Target Qs  : -5.139644622802734 -5.150588512420654
+ Critic Target Q : -6.129596710205078
+Current Qs : -6.1343207359313965 -6.231373310089111
+critic_loss : 0.33198851346969604
+Current state : 0.5625350475311279
+Current Rotations/action : -0.557244598865509
+Mean Critic Model Q1/ Action Loss : 5.290187835693359
+Mean batch obs :0.52
+Mean batch new obs  :0.52
+Mean batch actions :-0.57
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -5.660569667816162
+Target Qs  : -4.9385271072387695 -4.982998847961426
+ Critic Target Q : -5.932432651519775
+Current Qs : -5.868854522705078 -5.977353572845459
+critic_loss : 0.29531940817832947
+Current state : 0.5200200080871582
+Current Rotations/action : -0.5660225749015808
+Mean Critic Model Q1/ Action Loss : 5.1005120277404785
+Mean batch obs :0.59
+Mean batch new obs  :0.61
+Mean batch actions :-0.1
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -3.9755423069000244
+Target Qs  : -4.745069980621338 -4.7822651863098145
+ Critic Target Q : -5.780716419219971
+Current Qs : -5.814407825469971 -5.76882266998291
+critic_loss : 0.13312438130378723
+Current state : 0.5945449471473694
+Current Rotations/action : -0.10195843875408173
+Mean Critic Model Q1/ Action Loss : 5.785808563232422
+Mean batch obs :0.54
+Mean batch new obs  :0.54
+Mean batch actions :0.42
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : -5.979812145233154
+Target Qs  : -4.936828136444092 -4.944389820098877
+ Critic Target Q : -5.83734130859375
+Current Qs : -5.880615711212158 -5.8186936378479
+critic_loss : 0.25141364336013794
+Current state : 0.5364400148391724
+Current Rotations/action : 0.41643059253692627
+Mean Critic Model Q1/ Action Loss : 5.029833793640137
+Mean batch obs :0.55
+Mean batch new obs  :0.55
+Mean batch actions :-0.31
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -4.890894412994385
+Target Qs  : -4.665989875793457 -4.72437858581543
+ Critic Target Q : -5.636529445648193
+Current Qs : -5.6518988609313965 -5.652690410614014
+critic_loss : 0.2385430932044983
+Current state : 0.552695095539093
+Current Rotations/action : -0.30714312195777893
+Mean Critic Model Q1/ Action Loss : 4.893308162689209
+Mean batch obs :0.62
+Mean batch new obs  :0.58
+Mean batch actions :-0.04
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -5.2318525314331055
+Target Qs  : -4.769647598266602 -4.829188823699951
+ Critic Target Q : -5.797021865844727
+Current Qs : -5.801759243011475 -5.698281288146973
+critic_loss : 0.3362447917461395
+Current state : 0.6173749566078186
+Current Rotations/action : -0.037167783826589584
+Mean Critic Model Q1/ Action Loss : 4.834283828735352
+Mean batch obs :0.54
+Mean batch new obs  :0.54
+Mean batch actions :-0.18
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -6.118068695068359
+Target Qs  : -5.056128978729248 -5.091843128204346
+ Critic Target Q : -6.07364559173584
+Current Qs : -6.045345306396484 -6.0117058753967285
+critic_loss : 0.32018983364105225
+Current state : 0.5415650010108948
+Current Rotations/action : -0.17753981053829193
+Mean Critic Model Q1/ Action Loss : 5.5140380859375
+Mean batch obs :0.6
+Mean batch new obs  :0.6
+Mean batch actions :-0.17
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -5.048652172088623
+Target Qs  : -4.955384731292725 -5.04297399520874
+ Critic Target Q : -5.971582412719727
+Current Qs : -5.8003153800964355 -5.861109733581543
+critic_loss : 0.3575778007507324
+Current state : 0.6013001203536987
+Current Rotations/action : -0.17110919952392578
+Mean Critic Model Q1/ Action Loss : 4.606670379638672
+Mean batch obs :0.52
+Mean batch new obs  :0.52
+Mean batch actions :-0.32
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -5.123237133026123
+Target Qs  : -5.00905704498291 -5.0920000076293945
+ Critic Target Q : -5.984575271606445
+Current Qs : -6.0206804275512695 -5.937443733215332
+critic_loss : 0.5373818874359131
+Current state : 0.5193350315093994
+Current Rotations/action : -0.3174850046634674
+Mean Critic Model Q1/ Action Loss : 5.68342399597168
+Mean batch obs :0.51
+Mean batch new obs  :0.51
+Mean batch actions :-0.38
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -5.629283905029297
+Target Qs  : -4.858105659484863 -4.933465480804443
+ Critic Target Q : -5.90970516204834
+Current Qs : -5.873692035675049 -5.873904228210449
+critic_loss : 0.152507945895195
+Current state : 0.5087449550628662
+Current Rotations/action : -0.3820411264896393
+Mean Critic Model Q1/ Action Loss : 5.3407745361328125
+Mean batch obs :0.59
+Mean batch new obs  :0.59
+Mean batch actions :-0.37
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -6.105558395385742
+Target Qs  : -5.339710712432861 -5.444087028503418
+ Critic Target Q : -6.379596710205078
+Current Qs : -6.263384819030762 -6.228513240814209
+critic_loss : 0.1578185260295868
+Current state : 0.5879900455474854
+Current Rotations/action : -0.3744655251502991
+Mean Critic Model Q1/ Action Loss : 5.133554458618164
+Mean batch obs :0.66
+Mean batch new obs  :0.66
+Mean batch actions :-0.46
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -5.707790374755859
+Target Qs  : -5.0573625564575195 -5.177595138549805
+ Critic Target Q : -6.056800365447998
+Current Qs : -6.1072869300842285 -6.019864559173584
+critic_loss : 0.5180879235267639
+Current state : 0.6635700464248657
+Current Rotations/action : -0.4582936763763428
+Mean Critic Model Q1/ Action Loss : 5.115192890167236
+Mean batch obs :0.55
+Mean batch new obs  :0.55
+Mean batch actions :-0.52
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -5.798471450805664
+Target Qs  : -5.285581111907959 -5.385612964630127
+ Critic Target Q : -6.32344913482666
+Current Qs : -6.278116226196289 -6.265347957611084
+critic_loss : 0.1468522548675537
+Current state : 0.5514300465583801
+Current Rotations/action : -0.517765998840332
+Mean Critic Model Q1/ Action Loss : 5.70791482925415
+Mean batch obs :0.52
+Mean batch new obs  :0.52
+Mean batch actions :-0.84
+Mean batch actions :-0.82
+Mean batch dones :-0.82
+Predicted Rotations/ Next Action : -5.607731819152832
+Target Qs  : -5.0389018058776855 -5.150015830993652
+ Critic Target Q : -5.973874568939209
+Current Qs : -5.909160137176514 -5.896266460418701
+critic_loss : 0.39668744802474976
+Current state : 0.5237150192260742
+Current Rotations/action : -0.8391928672790527
+Mean Critic Model Q1/ Action Loss : 5.4972453117370605
+Mean batch obs :0.44
+Mean batch new obs  :0.44
+Mean batch actions :-0.11
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -5.515802383422852
+Target Qs  : -4.858531951904297 -4.994462013244629
+ Critic Target Q : -5.926982879638672
+Current Qs : -5.8442583084106445 -5.854782581329346
+critic_loss : 0.29605239629745483
+Current state : 0.44104501605033875
+Current Rotations/action : -0.10843301564455032
+Mean Critic Model Q1/ Action Loss : 4.601090908050537
+Mean batch obs :0.57
+Mean batch new obs  :0.59
+Mean batch actions :-0.08
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -5.580042839050293
+Target Qs  : -4.991742134094238 -5.102850437164307
+ Critic Target Q : -6.033472061157227
+Current Qs : -5.900876045227051 -5.8432297706604
+critic_loss : 0.27450406551361084
+Current state : 0.5726450085639954
+Current Rotations/action : -0.08340436220169067
+Mean Critic Model Q1/ Action Loss : 4.901587963104248
+Mean batch obs :0.57
+Mean batch new obs  :0.57
+Mean batch actions :-0.45
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -5.920579433441162
+Target Qs  : -5.484502792358398 -5.604851722717285
+ Critic Target Q : -6.559624195098877
+Current Qs : -6.334430694580078 -6.377249717712402
+critic_loss : 0.2731858491897583
+Current state : 0.5691749453544617
+Current Rotations/action : -0.45413878560066223
+Mean Critic Model Q1/ Action Loss : 5.225512504577637
+Mean batch obs :0.51
+Mean batch new obs  :0.51
+Mean batch actions :-0.56
+Mean batch actions :-0.93
+Mean batch dones :-0.93
+Predicted Rotations/ Next Action : -5.466855525970459
+Target Qs  : -4.859472751617432 -5.016296863555908
+ Critic Target Q : -5.934271335601807
+Current Qs : -5.85282039642334 -5.896315097808838
+critic_loss : 0.25500696897506714
+Current state : 0.5109050273895264
+Current Rotations/action : -0.5574711561203003
+Mean Critic Model Q1/ Action Loss : 4.981115818023682
+Mean batch obs :0.52
+Mean batch new obs  :0.52
+Mean batch actions :-0.91
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -6.670907020568848
+Target Qs  : -5.9578328132629395 -6.017307281494141
+ Critic Target Q : -6.971276760101318
+Current Qs : -6.830911159515381 -6.911222457885742
+critic_loss : 0.16651451587677002
+Current state : 0.522274911403656
+Current Rotations/action : -0.9087316989898682
+Mean Critic Model Q1/ Action Loss : 5.2335381507873535
+Mean batch obs :0.46
+Mean batch new obs  :0.46
+Mean batch actions :-0.52
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -5.039766311645508
+Target Qs  : -5.079539775848389 -5.231655120849609
+ Critic Target Q : -6.148104190826416
+Current Qs : -6.161962985992432 -6.1632866859436035
+critic_loss : 0.16199593245983124
+Current state : 0.4637049734592438
+Current Rotations/action : -0.5179202556610107
+Mean Critic Model Q1/ Action Loss : 5.087704658508301
+Mean batch obs :0.58
+Mean batch new obs  :0.58
+Mean batch actions :0.07
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : -6.112210750579834
+Target Qs  : -5.670087814331055 -5.7733659744262695
+ Critic Target Q : -6.682928562164307
+Current Qs : -6.664851665496826 -6.646577835083008
+critic_loss : 0.2330082356929779
+Current state : 0.5797449350357056
+Current Rotations/action : 0.07405111193656921
+Mean Critic Model Q1/ Action Loss : 5.082927703857422
+Mean batch obs :0.45
+Mean batch new obs  :0.45
+Mean batch actions :-0.65
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -6.283022403717041
+Target Qs  : -5.021071434020996 -5.188265323638916
+ Critic Target Q : -6.0970377922058105
+Current Qs : -6.162844657897949 -6.109611988067627
+critic_loss : 0.1757071316242218
+Current state : 0.4487699568271637
+Current Rotations/action : -0.6501460075378418
+Mean Critic Model Q1/ Action Loss : 5.183417320251465
+Mean batch obs :0.56
+Mean batch new obs  :0.59
+Mean batch actions :-0.7
+Mean batch actions :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : -4.3868303298950195
+Target Qs  : -4.936233043670654 -5.056944370269775
+ Critic Target Q : -5.912447929382324
+Current Qs : -5.891698837280273 -5.917920112609863
+critic_loss : 0.7339465022087097
+Current state : 0.557729959487915
+Current Rotations/action : -0.6958296895027161
+Mean Critic Model Q1/ Action Loss : 5.3544793128967285
+Mean batch obs :0.53
+Mean batch new obs  :0.54
+Mean batch actions :-0.32
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -5.289890289306641
+Target Qs  : -5.414038181304932 -5.517767429351807
+ Critic Target Q : -6.4537200927734375
+Current Qs : -6.4362993240356445 -6.439444065093994
+critic_loss : 0.22035002708435059
+Current state : 0.5251550078392029
+Current Rotations/action : -0.32174479961395264
+Mean Critic Model Q1/ Action Loss : 5.827984809875488
+Mean batch obs :0.56
+Mean batch new obs  :0.54
+Mean batch actions :0.1
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : -5.962996959686279
+Target Qs  : -5.399682998657227 -5.5528564453125
+ Critic Target Q : -6.4464850425720215
+Current Qs : -6.5029754638671875 -6.497745990753174
+critic_loss : 0.349894642829895
+Current state : 0.5616298913955688
+Current Rotations/action : 0.10142698138952255
+Mean Critic Model Q1/ Action Loss : 5.815885066986084
+Mean batch obs :0.56
+Mean batch new obs  :0.58
+Mean batch actions :-0.62
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : -6.540998935699463
+Target Qs  : -5.5258708000183105 -5.677766799926758
+ Critic Target Q : -6.641099452972412
+Current Qs : -6.663205146789551 -6.693608283996582
+critic_loss : 1.4917223453521729
+Current state : 0.5609150528907776
+Current Rotations/action : -0.6203341484069824
+Mean Critic Model Q1/ Action Loss : 5.624527454376221
+Mean batch obs :0.56
+Mean batch new obs  :0.56
+Mean batch actions :-0.55
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : -5.491910457611084
+Target Qs  : -5.303903579711914 -5.401768207550049
+ Critic Target Q : -6.327922344207764
+Current Qs : -6.235011577606201 -6.270910263061523
+critic_loss : 0.4347403049468994
+Current state : 0.5607399344444275
+Current Rotations/action : -0.5458211302757263
+Mean Critic Model Q1/ Action Loss : 4.996535778045654
+Mean batch obs :0.62
+Mean batch new obs  :0.64
+Mean batch actions :-0.7
+Mean batch actions :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : -5.539308547973633
+Target Qs  : -5.14415168762207 -5.296241283416748
+ Critic Target Q : -6.161890029907227
+Current Qs : -6.151362895965576 -6.1308722496032715
+critic_loss : 0.41789478063583374
+Current state : 0.6200299859046936
+Current Rotations/action : -0.7025103569030762
+Mean Critic Model Q1/ Action Loss : 5.5368332862854
+Mean batch obs :0.61
+Mean batch new obs  :0.62
+Mean batch actions :-0.33
+Mean batch actions :-0.93
+Mean batch dones :-0.93
+Predicted Rotations/ Next Action : -5.743512153625488
+Target Qs  : -5.482079982757568 -5.6315531730651855
+ Critic Target Q : -6.5551323890686035
+Current Qs : -6.397320747375488 -6.380867958068848
+critic_loss : 0.29381245374679565
+Current state : 0.6056249737739563
+Current Rotations/action : -0.33109456300735474
+Mean Critic Model Q1/ Action Loss : 5.715307712554932
+Total Timesteps: 5378 Episode Num: 5 Reward: -1098.0
+Mean batch obs :0.41
+Mean batch new obs  :0.41
+Mean batch actions :-0.25
+Mean batch actions :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : -4.885695457458496
+Target Qs  : -4.617564678192139 -4.707258224487305
+ Critic Target Q : -5.610342979431152
+Current Qs : -5.511147499084473 -5.568798065185547
+critic_loss : 1.2078567743301392
+Current state : 0.4111749529838562
+Current Rotations/action : -0.24730707705020905
+Mean Critic Model Q1/ Action Loss : 5.0544867515563965
+Mean batch obs :0.59
+Mean batch new obs  :0.59
+Mean batch actions :-0.6
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -4.018983364105225
+Target Qs  : -5.267019748687744 -5.385288715362549
+ Critic Target Q : -6.3459248542785645
+Current Qs : -6.189786434173584 -6.193568706512451
+critic_loss : 0.5561248660087585
+Current state : 0.5913500189781189
+Current Rotations/action : -0.6028960943222046
+Mean Critic Model Q1/ Action Loss : 4.6408162117004395
+Mean batch obs :0.47
+Mean batch new obs  :0.47
+Mean batch actions :-0.33
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -3.001997470855713
+Target Qs  : -4.145801067352295 -4.292963027954102
+ Critic Target Q : -5.210607528686523
+Current Qs : -4.941989898681641 -4.939952850341797
+critic_loss : 0.7342965006828308
+Current state : 0.47137996554374695
+Current Rotations/action : -0.3340986669063568
+Mean Critic Model Q1/ Action Loss : 3.994908332824707
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :-0.18
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -3.2229654788970947
+Target Qs  : -4.851313591003418 -4.980551719665527
+ Critic Target Q : -5.926922798156738
+Current Qs : -5.944506645202637 -5.952665328979492
+critic_loss : 0.29103878140449524
+Current state : 0.4902649521827698
+Current Rotations/action : -0.17590712010860443
+Mean Critic Model Q1/ Action Loss : 6.645985126495361
+Mean batch obs :0.63
+Mean batch new obs  :0.65
+Mean batch actions :-0.8
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -3.833542823791504
+Target Qs  : -4.834068775177002 -4.9752278327941895
+ Critic Target Q : -5.93795919418335
+Current Qs : -5.731232166290283 -5.773029327392578
+critic_loss : 1.815932035446167
+Current state : 0.6285700798034668
+Current Rotations/action : -0.8026525974273682
+Mean Critic Model Q1/ Action Loss : 5.019937992095947
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :-0.45
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : -2.402949333190918
+Target Qs  : -4.818872928619385 -4.8781232833862305
+ Critic Target Q : -5.760830879211426
+Current Qs : -5.886794567108154 -5.8942341804504395
+critic_loss : 0.9296504259109497
+Current state : 0.4921799898147583
+Current Rotations/action : -0.4520207941532135
+Mean Critic Model Q1/ Action Loss : 5.397244453430176
+Mean batch obs :0.45
+Mean batch new obs  :0.47
+Mean batch actions :-0.27
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -3.742037773132324
+Target Qs  : -5.197922229766846 -5.318500518798828
+ Critic Target Q : -6.263577938079834
+Current Qs : -6.23409366607666 -6.266404628753662
+critic_loss : 1.6959598064422607
+Current state : 0.4487599730491638
+Current Rotations/action : -0.27284345030784607
+Mean Critic Model Q1/ Action Loss : 5.032433032989502
+Mean batch obs :0.61
+Mean batch new obs  :0.61
+Mean batch actions :0.07
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -2.3038952350616455
+Target Qs  : -5.113424301147461 -5.2298760414123535
+ Critic Target Q : -6.197211265563965
+Current Qs : -5.998619556427002 -5.992210865020752
+critic_loss : 0.4387010931968689
+Current state : 0.6096349954605103
+Current Rotations/action : 0.07323262840509415
+Mean Critic Model Q1/ Action Loss : 4.890863418579102
+Mean batch obs :0.52
+Mean batch new obs  :0.52
+Mean batch actions :0.11
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -0.43651634454727173
+Target Qs  : -4.4971604347229 -4.605844497680664
+ Critic Target Q : -5.565550327301025
+Current Qs : -5.439420700073242 -5.498839855194092
+critic_loss : 0.29989683628082275
+Current state : 0.5211350321769714
+Current Rotations/action : 0.10780757665634155
+Mean Critic Model Q1/ Action Loss : 4.434543132781982
+Mean batch obs :0.5
+Mean batch new obs  :0.5
+Mean batch actions :-0.44
+Mean batch actions :-1.0
+Mean batch dones :-1.0
+Predicted Rotations/ Next Action : -2.839972496032715
+Target Qs  : -5.275755405426025 -5.460168838500977
+ Critic Target Q : -6.440534591674805
+Current Qs : -6.251648426055908 -6.335374355316162
+critic_loss : 0.30379849672317505
+Current state : 0.5037450194358826
+Current Rotations/action : -0.44469574093818665
+Mean Critic Model Q1/ Action Loss : 4.51201057434082
+Mean batch obs :0.55
+Mean batch new obs  :0.53
+Mean batch actions :0.11
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : -1.4695935249328613
+Target Qs  : -4.960245609283447 -5.1039719581604
+ Critic Target Q : -6.097658634185791
+Current Qs : -6.063854217529297 -6.126314640045166
+critic_loss : 0.26725029945373535
+Current state : 0.5526500940322876
+Current Rotations/action : 0.10533483326435089
+Mean Critic Model Q1/ Action Loss : 5.6767683029174805
+Mean batch obs :0.55
+Mean batch new obs  :0.5
+Mean batch actions :-0.27
+Mean batch actions :-0.86
+Mean batch dones :-0.86
+Predicted Rotations/ Next Action : -2.8849878311157227
+Target Qs  : -5.108430862426758 -5.265963554382324
+ Critic Target Q : -6.125669956207275
+Current Qs : -6.212753772735596 -6.1516008377075195
+critic_loss : 0.6939315795898438
+Current state : 0.5514049530029297
+Current Rotations/action : -0.2742881178855896
+Mean Critic Model Q1/ Action Loss : 5.229635238647461
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :-0.69
+Mean batch actions :-0.86
+Mean batch dones :-0.86
+Predicted Rotations/ Next Action : -1.3364559412002563
+Target Qs  : -5.220999240875244 -5.349551200866699
+ Critic Target Q : -6.228132724761963
+Current Qs : -6.2358479499816895 -6.245324611663818
+critic_loss : 0.3442842364311218
+Current state : 0.49188995361328125
+Current Rotations/action : -0.687359094619751
+Mean Critic Model Q1/ Action Loss : 5.738338470458984
+Mean batch obs :0.52
+Mean batch new obs  :0.54
+Mean batch actions :-0.1
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : 0.22482937574386597
+Target Qs  : -4.489649295806885 -4.7144775390625
+ Critic Target Q : -5.690180778503418
+Current Qs : -5.810330867767334 -5.686429500579834
+critic_loss : 0.1399989128112793
+Current state : 0.5207650065422058
+Current Rotations/action : -0.10016394406557083
+Mean Critic Model Q1/ Action Loss : 5.675139904022217
+Mean batch obs :0.54
+Mean batch new obs  :0.53
+Mean batch actions :-0.54
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -2.8303275108337402
+Target Qs  : -5.4751787185668945 -5.6702775955200195
+ Critic Target Q : -6.62106466293335
+Current Qs : -6.389917373657227 -6.4126482009887695
+critic_loss : 0.3500937819480896
+Current state : 0.536590039730072
+Current Rotations/action : -0.5368388295173645
+Mean Critic Model Q1/ Action Loss : 5.902962684631348
+Mean batch obs :0.43
+Mean batch new obs  :0.42
+Mean batch actions :-0.26
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -0.5987037420272827
+Target Qs  : -4.822675704956055 -5.0100603103637695
+ Critic Target Q : -5.923982620239258
+Current Qs : -5.897573947906494 -5.952917098999023
+critic_loss : 0.3141680955886841
+Current state : 0.4253399968147278
+Current Rotations/action : -0.2644651234149933
+Mean Critic Model Q1/ Action Loss : 5.9989237785339355
+Mean batch obs :0.45
+Mean batch new obs  :0.45
+Mean batch actions :-0.27
+Mean batch actions :-0.89
+Mean batch dones :-0.89
+Predicted Rotations/ Next Action : -2.1161208152770996
+Target Qs  : -5.1440229415893555 -5.322352409362793
+ Critic Target Q : -6.2049336433410645
+Current Qs : -6.189316272735596 -6.159425258636475
+critic_loss : 0.5262577533721924
+Current state : 0.45261499285697937
+Current Rotations/action : -0.27158570289611816
+Mean Critic Model Q1/ Action Loss : 5.69437313079834
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :0.01
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : -0.659282386302948
+Target Qs  : -5.136951923370361 -5.326730728149414
+ Critic Target Q : -6.218777656555176
+Current Qs : -6.280465126037598 -6.293866157531738
+critic_loss : 0.22691701352596283
+Current state : 0.4856700003147125
+Current Rotations/action : 0.011922798119485378
+Mean Critic Model Q1/ Action Loss : 5.472236156463623
+Mean batch obs :0.47
+Mean batch new obs  :0.47
+Mean batch actions :-0.27
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : -0.04877874255180359
+Target Qs  : -5.928131103515625 -6.0940141677856445
+ Critic Target Q : -7.053312301635742
+Current Qs : -6.9835991859436035 -7.020140171051025
+critic_loss : 0.2258995771408081
+Current state : 0.46827998757362366
+Current Rotations/action : -0.2686580717563629
+Mean Critic Model Q1/ Action Loss : 6.083040714263916
+Mean batch obs :0.48
+Mean batch new obs  :0.5
+Mean batch actions :-0.27
+Mean batch actions :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : -1.0501881837844849
+Target Qs  : -5.080550670623779 -5.259316921234131
+ Critic Target Q : -6.1320648193359375
+Current Qs : -6.105464935302734 -6.07224178314209
+critic_loss : 0.2688041925430298
+Current state : 0.4777650237083435
+Current Rotations/action : -0.2685988247394562
+Mean Critic Model Q1/ Action Loss : 5.979869842529297
+Mean batch obs :0.51
+Mean batch new obs  :0.49
+Mean batch actions :-1.01
+Mean batch actions :-0.93
+Mean batch dones :-0.93
+Predicted Rotations/ Next Action : -4.11653470993042
+Target Qs  : -5.846578598022461 -6.057255744934082
+ Critic Target Q : -6.963699817657471
+Current Qs : -7.103421211242676 -7.151184558868408
+critic_loss : 2.395742416381836
+Current state : 0.506255030632019
+Current Rotations/action : -1.0113129615783691
+Mean Critic Model Q1/ Action Loss : 6.400427341461182
+Mean batch obs :0.4
+Mean batch new obs  :0.4
+Mean batch actions :-0.27
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -0.21304959058761597
+Target Qs  : -5.401125431060791 -5.570687770843506
+ Critic Target Q : -6.496973991394043
+Current Qs : -6.598606109619141 -6.6440019607543945
+critic_loss : 0.4068776071071625
+Current state : 0.40452495217323303
+Current Rotations/action : -0.27000758051872253
+Mean Critic Model Q1/ Action Loss : 5.896563529968262
+Mean batch obs :0.44
+Mean batch new obs  :0.44
+Mean batch actions :-1.0
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -2.716789484024048
+Target Qs  : -5.561639308929443 -5.765813827514648
+ Critic Target Q : -6.683787822723389
+Current Qs : -6.771877288818359 -6.782381534576416
+critic_loss : 0.40731003880500793
+Current state : 0.44200000166893005
+Current Rotations/action : -1.0010502338409424
+Mean Critic Model Q1/ Action Loss : 6.093809604644775
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :-0.4
+Mean batch actions :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : -2.0906379222869873
+Target Qs  : -5.8212080001831055 -6.00682258605957
+ Critic Target Q : -6.874041557312012
+Current Qs : -6.946016788482666 -6.97138786315918
+critic_loss : 0.3023017942905426
+Current state : 0.4895700514316559
+Current Rotations/action : -0.4012041985988617
+Mean Critic Model Q1/ Action Loss : 7.090347766876221
+Mean batch obs :0.55
+Mean batch new obs  :0.53
+Mean batch actions :-0.74
+Mean batch actions :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : -0.8413659930229187
+Target Qs  : -5.553728103637695 -5.689587593078613
+ Critic Target Q : -6.5861029624938965
+Current Qs : -6.724401950836182 -6.676538467407227
+critic_loss : 0.45618900656700134
+Current state : 0.5536749958992004
+Current Rotations/action : -0.7368460893630981
+Mean Critic Model Q1/ Action Loss : 6.2255401611328125
+Mean batch obs :0.44
+Mean batch new obs  :0.44
+Mean batch actions :-0.25
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -1.2616448402404785
+Target Qs  : -5.345965385437012 -5.57962703704834
+ Critic Target Q : -6.489340782165527
+Current Qs : -6.53061056137085 -6.615216255187988
+critic_loss : 0.28216299414634705
+Current state : 0.44200998544692993
+Current Rotations/action : -0.24965202808380127
+Mean Critic Model Q1/ Action Loss : 6.185894012451172
+Mean batch obs :0.45
+Mean batch new obs  :0.45
+Mean batch actions :-0.46
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : -1.1037172079086304
+Target Qs  : -5.74855899810791 -5.884695053100586
+ Critic Target Q : -6.856761455535889
+Current Qs : -6.966047763824463 -7.060204982757568
+critic_loss : 0.36324912309646606
+Current state : 0.4483400285243988
+Current Rotations/action : -0.4587854743003845
+Mean Critic Model Q1/ Action Loss : 6.335427284240723
+Mean batch obs :0.49
+Mean batch new obs  :0.48
+Mean batch actions :-0.58
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -0.36531123518943787
+Target Qs  : -5.584390640258789 -5.719563007354736
+ Critic Target Q : -6.651147842407227
+Current Qs : -6.75324821472168 -6.783627510070801
+critic_loss : 0.3799068033695221
+Current state : 0.4851199686527252
+Current Rotations/action : -0.5843128561973572
+Mean Critic Model Q1/ Action Loss : 6.621106147766113
+Mean batch obs :0.52
+Mean batch new obs  :0.54
+Mean batch actions :-0.51
+Mean batch actions :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : -1.2785568237304688
+Target Qs  : -5.531721115112305 -5.68373966217041
+ Critic Target Q : -6.543596267700195
+Current Qs : -6.5472092628479 -6.560932636260986
+critic_loss : 0.23457087576389313
+Current state : 0.5222850441932678
+Current Rotations/action : -0.5059576630592346
+Mean Critic Model Q1/ Action Loss : 6.070239067077637
+Mean batch obs :0.43
+Mean batch new obs  :0.43
+Mean batch actions :-0.12
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : -1.2822265625
+Target Qs  : -5.161619663238525 -5.3517961502075195
+ Critic Target Q : -6.315670967102051
+Current Qs : -6.337193489074707 -6.357841968536377
+critic_loss : 0.08876149356365204
+Current state : 0.43283993005752563
+Current Rotations/action : -0.12463357299566269
+Mean Critic Model Q1/ Action Loss : 6.446653842926025
+Mean batch obs :0.46
+Mean batch new obs  :0.46
+Mean batch actions :-0.45
+Mean batch actions :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : -1.6287453174591064
+Target Qs  : -5.790860652923584 -5.904637336730957
+ Critic Target Q : -6.795476913452148
+Current Qs : -6.832351207733154 -6.903493881225586
+critic_loss : 0.26062631607055664
+Current state : 0.4575500190258026
+Current Rotations/action : -0.4497687816619873
+Mean Critic Model Q1/ Action Loss : 6.440426826477051
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :-0.81
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : -1.974865436553955
+Target Qs  : -6.113003730773926 -6.18940544128418
+ Critic Target Q : -7.123729228973389
+Current Qs : -7.005929946899414 -6.987257480621338
+critic_loss : 0.30388736724853516
+Current state : 0.49281996488571167
+Current Rotations/action : -0.8090949058532715
+Mean Critic Model Q1/ Action Loss : 6.12165641784668
+Mean batch obs :0.43
+Mean batch new obs  :0.43
+Mean batch actions :-0.06
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -0.17250923812389374
+Target Qs  : -4.76630163192749 -4.95393705368042
+ Critic Target Q : -5.907799243927002
+Current Qs : -5.9111456871032715 -5.949332237243652
+critic_loss : 0.277247816324234
+Current state : 0.4268049895763397
+Current Rotations/action : -0.06074178218841553
+Mean Critic Model Q1/ Action Loss : 5.4704909324646
+Mean batch obs :0.45
+Mean batch new obs  :0.45
+Mean batch actions :-0.23
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -1.8526983261108398
+Target Qs  : -5.884127616882324 -5.963921070098877
+ Critic Target Q : -6.946221351623535
+Current Qs : -6.883413314819336 -6.840879440307617
+critic_loss : 0.27594614028930664
+Current state : 0.4478749930858612
+Current Rotations/action : -0.22935479879379272
+Mean Critic Model Q1/ Action Loss : 5.884886264801025
+Mean batch obs :0.57
+Mean batch new obs  :0.57
+Mean batch actions :-0.76
+Mean batch actions :-0.87
+Mean batch dones :-0.87
+Predicted Rotations/ Next Action : -0.7419058084487915
+Target Qs  : -6.12649393081665 -6.151785850524902
+ Critic Target Q : -7.051164150238037
+Current Qs : -7.210740566253662 -7.095422267913818
+critic_loss : 0.4123234152793884
+Current state : 0.5671648979187012
+Current Rotations/action : -0.7551597356796265
+Mean Critic Model Q1/ Action Loss : 6.710524082183838
+Mean batch obs :0.61
+Mean batch new obs  :0.6
+Mean batch actions :-1.08
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -0.7269442677497864
+Target Qs  : -5.830819129943848 -5.905466079711914
+ Critic Target Q : -6.861838340759277
+Current Qs : -6.816176891326904 -6.803238391876221
+critic_loss : 0.12000030279159546
+Current state : 0.6053900122642517
+Current Rotations/action : -1.0810452699661255
+Mean Critic Model Q1/ Action Loss : 6.618409633636475
+Mean batch obs :0.58
+Mean batch new obs  :0.56
+Mean batch actions :-0.08
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : -0.42328184843063354
+Target Qs  : -5.954759120941162 -5.979211807250977
+ Critic Target Q : -7.019118785858154
+Current Qs : -7.030209541320801 -7.045582294464111
+critic_loss : 1.520763874053955
+Current state : 0.576805055141449
+Current Rotations/action : -0.08329988270998001
+Mean Critic Model Q1/ Action Loss : 6.648115158081055
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :-1.05
+Mean batch actions :-0.94
+Mean batch dones :-0.94
+Predicted Rotations/ Next Action : -0.3156658113002777
+Target Qs  : -6.087818622589111 -6.136982440948486
+ Critic Target Q : -7.108648300170898
+Current Qs : -7.037250518798828 -7.04641580581665
+critic_loss : 0.23281601071357727
+Current state : 0.4893049895763397
+Current Rotations/action : -1.046402931213379
+Mean Critic Model Q1/ Action Loss : 5.959964752197266
+Mean batch obs :0.43
+Mean batch new obs  :0.43
+Mean batch actions :-0.38
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -2.7643399238586426
+Target Qs  : -6.533461093902588 -6.610391616821289
+ Critic Target Q : -7.552084445953369
+Current Qs : -7.477462291717529 -7.528250217437744
+critic_loss : 0.28369832038879395
+Current state : 0.43429994583129883
+Current Rotations/action : -0.38087084889411926
+Mean Critic Model Q1/ Action Loss : 7.21601676940918
+Mean batch obs :0.48
+Mean batch new obs  :0.48
+Mean batch actions :-0.19
+Mean batch actions :-0.83
+Mean batch dones :-0.83
+Predicted Rotations/ Next Action : -0.7068358063697815
+Target Qs  : -5.302067756652832 -5.388172626495361
+ Critic Target Q : -6.246577262878418
+Current Qs : -6.321326732635498 -6.302989959716797
+critic_loss : 0.6125034689903259
+Current state : 0.47793498635292053
+Current Rotations/action : -0.18849745392799377
+Mean Critic Model Q1/ Action Loss : 7.530195713043213
+Mean batch obs :0.5
+Mean batch new obs  :0.5
+Mean batch actions :-0.41
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -1.730764627456665
+Target Qs  : -6.1980767250061035 -6.21345329284668
+ Critic Target Q : -7.182999134063721
+Current Qs : -7.088169574737549 -7.084196090698242
+critic_loss : 0.271827757358551
+Current state : 0.5016399621963501
+Current Rotations/action : -0.4091290235519409
+Mean Critic Model Q1/ Action Loss : 6.396535873413086
+Mean batch obs :0.43
+Mean batch new obs  :0.43
+Mean batch actions :-0.35
+Mean batch actions :-0.98
+Mean batch dones :-0.98
+Predicted Rotations/ Next Action : -1.4638926982879639
+Target Qs  : -6.858880043029785 -6.892498016357422
+ Critic Target Q : -7.896274566650391
+Current Qs : -7.838411808013916 -7.792057991027832
+critic_loss : 0.18743550777435303
+Current state : 0.42760998010635376
+Current Rotations/action : -0.350063294172287
+Mean Critic Model Q1/ Action Loss : 6.798537731170654
+Mean batch obs :0.44
+Mean batch new obs  :0.44
+Mean batch actions :-0.56
+Mean batch actions :-0.91
+Mean batch dones :-0.91
+Predicted Rotations/ Next Action : -2.0480546951293945
+Target Qs  : -6.495120048522949 -6.533573627471924
+ Critic Target Q : -7.4811553955078125
+Current Qs : -7.538809776306152 -7.525785446166992
+critic_loss : 0.2575297951698303
+Current state : 0.4387199878692627
+Current Rotations/action : -0.5582280158996582
+Mean Critic Model Q1/ Action Loss : 6.837825298309326
+Mean batch obs :0.44
+Mean batch new obs  :0.44
+Mean batch actions :-0.56
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -2.270665168762207
+Target Qs  : -6.387652397155762 -6.492102146148682
+ Critic Target Q : -7.4367594718933105
+Current Qs : -7.45980167388916 -7.49268913269043
+critic_loss : 0.3526661992073059
+Current state : 0.4426099956035614
+Current Rotations/action : -0.5628646612167358
+Mean Critic Model Q1/ Action Loss : 6.891290664672852
+Mean batch obs :0.5
+Mean batch new obs  :0.5
+Mean batch actions :-0.16
+Mean batch actions :-0.9
+Mean batch dones :-0.9
+Predicted Rotations/ Next Action : -2.0063247680664062
+Target Qs  : -6.225625991821289 -6.284478187561035
+ Critic Target Q : -7.220134258270264
+Current Qs : -7.19743537902832 -7.186202526092529
+critic_loss : 0.42461466789245605
+Current state : 0.495959997177124
+Current Rotations/action : -0.15509198606014252
+Mean Critic Model Q1/ Action Loss : 6.585239410400391
+Mean batch obs :0.41
+Mean batch new obs  :0.41
+Mean batch actions :-0.52
+Mean batch actions :-0.88
+Mean batch dones :-0.88
+Predicted Rotations/ Next Action : 0.38220667839050293
+Target Qs  : -5.838940620422363 -5.901707172393799
+ Critic Target Q : -6.827223300933838
+Current Qs : -6.734122276306152 -6.736297607421875
+critic_loss : 0.3030267655849457
+Current state : 0.4110650420188904
+Current Rotations/action : -0.5163292288780212
+Mean Critic Model Q1/ Action Loss : 6.228815078735352
+Mean batch obs :0.49
+Mean batch new obs  :0.49
+Mean batch actions :-0.61
+Mean batch actions :-0.96
+Mean batch dones :-0.96
+Predicted Rotations/ Next Action : -0.6569958329200745
+Target Qs  : -6.166276931762695 -6.2530341148376465
+ Critic Target Q : -7.238042831420898
+Current Qs : -7.284661769866943 -7.296368598937988
+critic_loss : 0.16225188970565796
+Current state : 0.4945399761199951
+Current Rotations/action : -0.6071553826332092
+Mean Critic Model Q1/ Action Loss : 6.693536281585693
+Mean batch obs :0.47
+Mean batch new obs  :0.47
+Mean batch actions :-0.68
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -0.41702473163604736
+Target Qs  : -5.890836238861084 -6.0027594566345215
+ Critic Target Q : -6.93813419342041
+Current Qs : -6.913013935089111 -6.903209209442139
+critic_loss : 0.18895232677459717
+Current state : 0.47397997975349426
+Current Rotations/action : -0.6767723560333252
+Mean Critic Model Q1/ Action Loss : 6.015518665313721
+[INFO   ] [Base        ] Leaving application in progress...
+(base) Senthils-MacBook-Pro:endgame2 senthilarunachalam$ 
