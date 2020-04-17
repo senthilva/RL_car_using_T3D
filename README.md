@@ -1,4 +1,4 @@
-#Reinforcement Learning to get a car to stay on the road using T3D algorithm
+# Reinforcement Learning to get a car to stay on the road using T3D algorithm
 
 Goal here is to get the car to stay on road using Reinforcement Learning - T3D algorithm. 
 I have taken a phased approach to this problem
