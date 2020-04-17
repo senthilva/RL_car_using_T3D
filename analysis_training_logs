@@ -1,0 +1,74 @@
+Log runs to research the car rotation.
+
+	 T3D + Fully connected newtwork scalar sensory data 
+
+	 				vs 
+
+ 	 T3D + sensory data fed to CNN
+
+
+# Good Car env + T3D + NO CNN
+
+(100, 5) (100, 5) (100, 1) (100, 1) (100, 1)
+
+Predicted Rotations/ Next Action : -2.0480546951293945
+Target Qs  : -6.495120048522949 -6.533573627471924
+ Critic Target Q : -7.4811553955078125
+Current Qs : -7.538809776306152 -7.525785446166992
+critic_loss : 0.2575297951698303
+Current state : 0.4387199878692627
+Current Rotations/action : -0.5582280158996582
+Mean Critic Model Q1/ Action Loss : 6.837825298309326
+Mean batch obs :0.44
+Mean batch new obs  :0.44
+Mean batch actions :-0.56
+Mean batch actions :-0.92
+Mean batch dones :-0.92
+Predicted Rotations/ Next Action : -2.270665168762207
+Target Qs  : -6.387652397155762 -6.492102146148682
+ Critic Target Q : -7.4367594718933105
+Current Qs : -7.45980167388916 -7.49268913269043
+critic_loss : 0.3526661992073059
+Current state : 0.4426099956035614
+Current Rotations/action : -0.5628646612167358
+Mean Critic Model Q1/ Action Loss : 6.891290664672852
+Mean batch obs :0.5
+
+
+# Bad Good Car env + T3D + CNN
+
+(100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
+
+
+redicted Rotations/ Next Action : 9.600176811218262
+Target Qs  : 0.2898259162902832 0.8379350900650024
+ Critic Target Q : -0.21871241927146912
+Current Qs : 0.1396392285823822 0.6238766312599182
+critic_loss : 5.86832857131958
+Current state : 0.6582288146018982
+Current Rotations/action : 7.746287822723389
+Mean Critic Model Q1/ Action Loss : 0.5230317115783691
+Mean batch obs :0.66
+Mean batch new obs  :0.67
+Mean batch actions :8.03
+Mean batch actions :-0.76
+Mean batch dones :-0.76
+Predicted Rotations/ Next Action : 9.67810344696045
+Target Qs  : 0.342458575963974 0.835954487323761
+ Critic Target Q : -0.5785539150238037
+Current Qs : 0.07947707176208496 0.23355723917484283
+critic_loss : 5.262948989868164
+Current state : 0.6643466353416443
+Current Rotations/action : 8.03116512298584
+Mean Critic Model Q1/ Action Loss : 0.022716470062732697
+
+
+
+
+Observations 
+------------
+Target Q's should be negative ( they are low positive - why ?)
+Current Q's should be negative ( they are low positive - why ?)
+Critic loss should be low positive (they are high positive - why ?)
+Action Loss should be large positive ( they are los positive - why ?)
+Q1 should be large negative ( they are small negative - why ?)
