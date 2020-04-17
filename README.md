@@ -91,7 +91,7 @@ Describing below both the phases
             Action Loss should be large positive ( they are los positive in CNN network)
             Q1 should be large negative ( they are small negative in CNN network)
 
-  >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network slightly improved.But, still on going on the road.
+  >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network slightly improved.But, still not going on the road.
 
 
 
