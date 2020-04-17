@@ -77,6 +77,8 @@ Describing below both the phases
 
   >- Enabled training logs and looked at buffer values ; predicted rotations
   >- Compared training logs between run using T3D + FC + Car(successful) vs T3D + CNN + Car(un-successful)
+  
+  > Log : https://github.com/senthilva/RL_car_using_T3D/blob/master/logs/analysis_training_logs
 
           Target Q's should be negative ( they are low positive in CNN network)
             Current Q's should be negative ( they are low positive in CNN network)
