@@ -9,7 +9,7 @@ I have taken a phased approach to this problem
 Describing below both the phases
 
 ## Phase 1 
-  In this phase i have taken car environment and integrated it with the T3D learning. I have NOT used CNN in this phase; passed the environment values as scalars into the T3D algorithm. Idea was to first integrate T3D with car environment in Kivy.
+  In this phase i have taken car environment and integrated it with the T3D learning. I have NOT used CNN in this phase.
 
   https://youtu.be/6NWjU9S8zro
 
@@ -34,7 +34,7 @@ Describing below both the phases
   Used fully connected layers for Actor and Critic Model
 
   ### Observations
-  Started driving on the road after 50 episodes
+  Started driving on the road after 27 episodes
 
 
 
@@ -59,6 +59,11 @@ Describing below both the phases
   >- **State Dimension** : 1200
   >>- 3 channels of 40x40 = 1200 fed to the CNN
 
+  >- Episode **done** if
+  >>- Max epsidoes steps reached : 1200
+  >>- Car gets to the edges
+  >>- Reaches the destination
+  
   >- **Rewards**
   >>- On sand = - 1
   >>- Car hits the edges = - 1
@@ -86,7 +91,7 @@ Describing below both the phases
             Action Loss should be large positive ( they are los positive in CNN network)
             Q1 should be large negative ( they are small negative in CNN network)
 
-  >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network only slightly improved
+  >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network slightly improved.But, still on going on the road.
 
 
 
