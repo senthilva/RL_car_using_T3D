@@ -4,7 +4,7 @@ Goal here is to get the car to stay on road using Reinforcement Learning - T3D a
 I have taken a phased approach to this problem
  >- Phase 1 - Integrate T3D learning to the Kivy environment ; with sensor data using image patch brightness ( converting to scalar ) as the state dimension. Here idea was a get a understanding of the working of TD3. 
 
- >- Phase 2 - Converting the image patches seen to sensory data using CNN
+ >- Phase 2 - Replace the fully connected networrk with a CNN and feed the the image frames in front of the car(took 3 at various angles) as sensory data to it.
 
 Describing below both the phases
 
