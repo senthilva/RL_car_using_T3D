@@ -43,7 +43,7 @@ Describing below both the phases
 
   In this phase integrated it with the T3D learning and passed the sensory data as image frames to a CNN
   
-  https://youtu.be/Ej_E4bzEqnA
+  https://youtu.be/Du_JzbbTuJw
 
   Sensory data : Taken 3 patches in front of the car
 
