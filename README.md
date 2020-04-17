@@ -41,7 +41,7 @@ Describing below both the phases
 
 ## Phase 2
 
-  In this phase integrated it with the T3D learning. AND CNN i
+  In this phase integrated it with the T3D learning and passed the sensory data as image frames to a CNN
 
   Sensory data : Taken 3 patches in front of the car
 
