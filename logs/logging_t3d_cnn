@@ -1,4 +1,4 @@
-Last login: Sat Apr 18 00:50:14 on ttys000
+This is log for the run for T3D + Kivy + signal data fed as images 40x40*3 (3 frames at various angles -30,0,+30) fed to a CNN
 
 The default interactive shell is now zsh.
 To update your account to use zsh, please run `chsh -s /bin/zsh`.
