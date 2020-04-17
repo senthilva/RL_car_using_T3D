@@ -7,7 +7,7 @@ Log runs to research the car rotation.
  	 T3D + sensory data fed to CNN
 
 
-# Good Car env + T3D + NO CNN
+# **Successful** Car env + T3D + NO CNN
 
 (100, 5) (100, 5) (100, 1) (100, 1) (100, 1)
 
@@ -35,7 +35,7 @@ Mean Critic Model Q1/ Action Loss : 6.891290664672852
 Mean batch obs :0.5
 
 
-# Bad Good Car env + T3D + CNN
+# **car rotating** Good Car env + T3D + CNN
 
 (100, 1200) (100, 1200) (100, 1) (100, 1) (100, 1)
 
@@ -65,10 +65,10 @@ Mean Critic Model Q1/ Action Loss : 0.022716470062732697
 
 
 
-Observations 
+**Observations**
 ------------
-Target Q's should be negative ( they are low positive - why ?)
-Current Q's should be negative ( they are low positive - why ?)
-Critic loss should be low positive (they are high positive - why ?)
-Action Loss should be large positive ( they are los positive - why ?)
-Q1 should be large negative ( they are small negative - why ?)
+>- Target Q's should be negative ( they are low positive - why ?)
+>- Current Q's should be negative ( they are low positive - why ?)
+>- Critic loss should be low positive (they are high positive - why ?)
+>- Action Loss should be large positive ( they are los positive - why ?)
+>- Q1 should be large negative ( they are small negative - why ?)
