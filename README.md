@@ -43,10 +43,10 @@ Describing below both the phases
 
   In this phase integrated it with the T3D learning and passed the sensory data as image frames to a CNN
   
-  Attempt 1 : With 3 patches in fron of car as sensory data only as input  
-     >- https://youtu.be/Du_JzbbTuJw
-  Attempt 2 : With 3 patches in fron of car + **2 orientation with destination** as input    
-     >- https://youtu.be/NW1GH8aQFas
+  >- Attempt 1 : With 3 patches in fron of car as sensory data only as input  
+     >>- https://youtu.be/Du_JzbbTuJw
+  >- Attempt 2 : With 3 patches in fron of car + **2 orientation with destination** as input    
+     >>- https://youtu.be/NW1GH8aQFas
 
   Sensory data : Taken 3 patches in front of the car
 
