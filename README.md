@@ -123,6 +123,6 @@ Describing below both the phases
 
 ## Potential Next Steps
 
->- Reduce the number of layers in CNN - to see if vanishing gradient in an issue **Done**
+>- Reduce the number of layers in CNN - to see if vanishing gradient in an issue - **Done**
 >- Use only one channel - **Done**
->- Get the orientation from destination and feed that to the network and concatenate after feature extraction from CNN **Done**
+>- Get the orientation from destination and feed that to the network and concatenate after feature extraction from CNN - **Done**
