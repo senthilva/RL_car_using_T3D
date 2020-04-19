@@ -4,7 +4,7 @@ Goal here is to get the car to stay on road using Reinforcement Learning - T3D a
 I have taken a phased approach to this problem
  >- Phase 1 - Integrate T3D learning to the Kivy environment ; with sensor data using image patch brightness ( converting to scalar ) as the state dimension. Fully connected Actor and Critic models were used.Here idea was a get a understanding of the working of TD3. 
 
- >- Phase 2 - Replace the fully connected network in the above network with a CNN and feed the the image frames in front of the car(took 3 at various angles) as sensory data to it.
+ >- Phase 2 - Replace the fully connected network in the above network with a CNN and feed the the image frames in front of the car(took 3 at various angles initially then went to take 1 80x80 around the car) as sensory data to it and **added orientation with destination** . This helped - feedback from the Sat review session.
 
 Describing below both the phases
 
@@ -43,29 +43,47 @@ Describing below both the phases
 
   In this phase integrated it with the T3D learning and passed the sensory data as image frames to a CNN
   
-  >- Attempt 1 : With 3 patches in fron of car as sensory data only as input  
+  >- Attempt 1 : With 3 patches in front of car as sensory data only as input  
      - https://youtu.be/Du_JzbbTuJw
-  >- Attempt 2 : With 3 patches in fron of car + **2 orientation with destination** as input    
+  >- Attempt 2 : With 3 patches in front of car + **2 orientation with destination** as input (but i think something is wrong with way sensory data is fed - does not seem be factoring it)   
      - https://youtu.be/NW1GH8aQFas
   >- Attempt 3 : With 1 patch of 80x80 around the car + **2 orientation with destination** as input  
      - https://youtu.be/ixRxi3h5h1c 
 
   Sensory data : Taken 3 patches in front of the car
-
+  
+  Attempt 1:
+  State Dim 
   >- left 30 degrees ; 40x40 
   >- straight 0 degrees ; 40x40
   >- right 30 degrees; 40x40
 
   > then merged them to create 3 channel input to the CNN Network
 
+  Attempt 2 :
+  State Dim 
+  >- left 30 degrees ; 40x40 
+  >- straight 0 degrees ; 40x40
+  >- right 30 degrees; 40x40
+  + 
+  >- +orientation with destination
+  >- -orientation with destination
+ 
+  Attempt 3 :
+  State Dim 
+  >- 1 80x80 around car (resized to 30x30)
+  + 
+  >- +orientation with destination
+  >- -orientation with destination
+ 
 
   ### Parameters used
   >- **Action Dimension** : 1 - angle of rotation
   >- **State Dimension** : 1200
-  >>- 3 channels of 40x40 = 1200 fed to the CNN
+  >>- 3 channels of 40x40 = 1200 fed to the CNN; later to 1 images + 2 orientation with destination
 
   >- Episode **done** if
-  >>- Max epsidoes steps reached : 1200
+  >>- Max epsidoes steps reached : 12000
   >>- Car gets to the edges
   >>- Reaches the destination
   
@@ -99,9 +117,11 @@ Describing below both the phases
   >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network slightly improved.But, still not going on the road.
 
 
+  >-  **Adding 2 additional state dim of + & -orientation with destination helped , but car still struggled be on the road though**
+
 
 ## Potential Next Steps
 
->- Reduce the number of layers in CNN - to see if vanishing gradient in an issue
->- Use only one channel 
->- Get the orientation from destination and feed that to the network and concatenate after feature extraction from CNN
+>- Reduce the number of layers in CNN - to see if vanishing gradient in an issue **Done**
+>- Use only one channel - **Done**
+>- Get the orientation from destination and feed that to the network and concatenate after feature extraction from CNN **Done**
