@@ -47,6 +47,8 @@ Describing below both the phases
      - https://youtu.be/Du_JzbbTuJw
   >- Attempt 2 : With 3 patches in fron of car + **2 orientation with destination** as input    
      - https://youtu.be/NW1GH8aQFas
+  >- Attempt 3 : With 1 patch of 80x80 around the car + **2 orientation with destination** as input  
+     - https://youtu.be/ixRxi3h5h1c 
 
   Sensory data : Taken 3 patches in front of the car
 
