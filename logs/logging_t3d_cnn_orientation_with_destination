@@ -1,3 +1,5 @@
+This is log for the run for T3D + Kivy + signal data fed as images 80x80*1  + 2 angles of orientation with destination fed to a CNN 
+ 
  Eye len state : 902 Sum 661.6314620598673 orientation : 0.14950250668171713
  Rotated by using T3D : [-7.07928918]
 shot sum : 661.6314620598671
