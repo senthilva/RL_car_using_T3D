@@ -1,0 +1,562 @@
+ Eye len state : 902 Sum 661.6314620598673 orientation : 0.14950250668171713
+ Rotated by using T3D : [-7.07928918]
+shot sum : 661.6314620598671
+ Eye len state : 902 Sum 661.6314620598673 orientation : 0.14950250668171713
+shot sum : 658.6990840069302
+ Eye len state : 902 Sum 658.6990840069301 orientation : 0.15118611591303774
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 658.6990840069301
+Before add to buffer obs sum : 661.6314620598673
+Before add to buffer action : [-7.07928918]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 658.6990840069302
+ Eye len state : 902 Sum 658.6990840069301 orientation : 0.11229056454941122
+ Rotated by using T3D : [2.77725961]
+shot sum : 658.6990840069302
+ Eye len state : 902 Sum 658.6990840069301 orientation : 0.11229056454941122
+shot sum : 658.6990840069302
+ Eye len state : 902 Sum 658.6990840069301 orientation : 0.11359002047937025
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 658.6990840069301
+Before add to buffer obs sum : 658.6990840069301
+Before add to buffer action : [2.77725961]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 658.6990840069302
+ Eye len state : 902 Sum 658.6990840069301 orientation : 0.12950165259335686
+ Rotated by using T3D : [1.53122308]
+shot sum : 658.6990840069302
+ Eye len state : 902 Sum 658.6990840069301 orientation : 0.12950165259335686
+shot sum : 655.7039797569312
+ Eye len state : 902 Sum 655.7039797569313 orientation : 0.13100626806722182
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 655.7039797569313
+Before add to buffer obs sum : 658.6990840069301
+Before add to buffer action : [1.53122308]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 655.7039797569312
+ Eye len state : 902 Sum 655.7039797569313 orientation : 0.13942620694941402
+ Rotated by using T3D : [0.57637362]
+shot sum : 655.7039797569312
+ Eye len state : 902 Sum 655.7039797569313 orientation : 0.13942620694941402
+shot sum : 655.7039797569312
+ Eye len state : 902 Sum 655.7039797569313 orientation : 0.14105656508854278
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 655.7039797569313
+Before add to buffer obs sum : 655.7039797569313
+Before add to buffer action : [0.57637362]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 655.7039797569312
+ Eye len state : 902 Sum 655.7039797569313 orientation : 0.144568649572642
+ Rotated by using T3D : [1.07608435]
+shot sum : 655.7039797569312
+ Eye len state : 902 Sum 655.7039797569313 orientation : 0.144568649572642
+shot sum : 655.6357410534183
+ Eye len state : 902 Sum 655.6357410534182 orientation : 0.14627350586139645
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 655.6357410534182
+Before add to buffer obs sum : 655.7039797569313
+Before add to buffer action : [1.07608435]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 655.6357410534183
+ Eye len state : 902 Sum 655.6357410534182 orientation : 0.15154150708665723
+ Rotated by using T3D : [-3.96007297]
+shot sum : 655.6357410534183
+ Eye len state : 902 Sum 655.6357410534182 orientation : 0.15154150708665723
+shot sum : 655.6357410534183
+ Eye len state : 902 Sum 655.6357410534182 orientation : 0.1533419520575275
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 655.6357410534182
+Before add to buffer obs sum : 655.6357410534182
+Before add to buffer action : [-3.96007297]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 655.6357410534183
+ Eye len state : 902 Sum 655.6357410534182 orientation : 0.1307090856219471
+ Rotated by using T3D : [1.39309832]
+shot sum : 655.6357410534183
+ Eye len state : 902 Sum 655.6357410534182 orientation : 0.1307090856219471
+shot sum : 654.1562293539017
+ Eye len state : 902 Sum 654.156229353902 orientation : 0.13229524742649856
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 654.156229353902
+Before add to buffer obs sum : 655.6357410534182
+Before add to buffer action : [1.39309832]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 654.1562293539017
+ Eye len state : 902 Sum 654.156229353902 orientation : 0.1405327715915447
+ Rotated by using T3D : [0.61678052]
+shot sum : 654.1562293539017
+ Eye len state : 902 Sum 654.156229353902 orientation : 0.1405327715915447
+shot sum : 654.1562293539017
+ Eye len state : 902 Sum 654.156229353902 orientation : 0.14224995060840273
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 654.156229353902
+Before add to buffer obs sum : 654.156229353902
+Before add to buffer action : [0.61678052]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 654.1562293539017
+ Eye len state : 902 Sum 654.156229353902 orientation : 0.14550193267477018
+ Rotated by using T3D : [0.04754714]
+shot sum : 654.1562293539017
+ Eye len state : 902 Sum 654.156229353902 orientation : 0.14550193267477018
+shot sum : 653.0201148895076
+ Eye len state : 902 Sum 653.0201148895076 orientation : 0.14729591798936692
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 653.0201148895076
+Before add to buffer obs sum : 654.156229353902
+Before add to buffer action : [0.04754714]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 653.0201148895076
+ Eye len state : 902 Sum 653.0201148895076 orientation : 0.14761256485007243
+ Rotated by using T3D : [-6.30299241]
+shot sum : 653.0201148895076
+ Eye len state : 902 Sum 653.0201148895076 orientation : 0.14761256485007243
+shot sum : 653.0201148895076
+ Eye len state : 902 Sum 653.0201148895076 orientation : 0.1494516701612269
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 653.0201148895076
+Before add to buffer obs sum : 653.0201148895076
+Before add to buffer action : [-6.30299241]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 653.0201148895076
+ Eye len state : 902 Sum 653.0201148895076 orientation : 0.1153264348155967
+ Rotated by using T3D : [2.60246486]
+shot sum : 653.0201148895076
+ Eye len state : 902 Sum 653.0201148895076 orientation : 0.1153264348155967
+shot sum : 652.3146539247273
+ Eye len state : 902 Sum 652.3146539247278 orientation : 0.1168015297220928
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.3146539247278
+Before add to buffer obs sum : 653.0201148895076
+Before add to buffer action : [2.60246486]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.3146539247273
+ Eye len state : 902 Sum 652.3146539247278 orientation : 0.1313243219554544
+ Rotated by using T3D : [1.49049555]
+shot sum : 652.3146539247273
+ Eye len state : 902 Sum 652.3146539247278 orientation : 0.1313243219554544
+shot sum : 653.3909111213645
+ Eye len state : 902 Sum 653.3909111213648 orientation : 0.1330132698519728
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 653.3909111213648
+Before add to buffer obs sum : 652.3146539247278
+Before add to buffer action : [1.49049555]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 653.3909111213645
+ Eye len state : 902 Sum 653.3909111213648 orientation : 0.14081588607732154
+ Rotated by using T3D : [0.99900565]
+shot sum : 653.3909111213645
+ Eye len state : 902 Sum 653.3909111213648 orientation : 0.14081588607732154
+shot sum : 652.814751435511
+ Eye len state : 902 Sum 652.8147514355117 orientation : 0.14264092799960137
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.8147514355117
+Before add to buffer obs sum : 653.3909111213648
+Before add to buffer action : [0.99900565]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.814751435511
+ Eye len state : 902 Sum 652.8147514355117 orientation : 0.14785118888092041
+ Rotated by using T3D : [-0.01025468]
+shot sum : 652.814751435511
+ Eye len state : 902 Sum 652.8147514355117 orientation : 0.14785118888092041
+shot sum : 652.814751435511
+ Eye len state : 902 Sum 652.8147514355117 orientation : 0.14978404186185576
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.8147514355117
+Before add to buffer obs sum : 652.8147514355117
+Before add to buffer action : [-0.01025468]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.814751435511
+ Eye len state : 902 Sum 652.8147514355117 orientation : 0.14985803663560643
+ Rotated by using T3D : [-0.19970406]
+shot sum : 652.814751435511
+ Eye len state : 902 Sum 652.8147514355117 orientation : 0.14985803663560643
+shot sum : 652.3997034230085
+ Eye len state : 902 Sum 652.3997034230086 orientation : 0.1518390663461409
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.3997034230086
+Before add to buffer obs sum : 652.8147514355117
+Before add to buffer action : [-0.19970406]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.3997034230085
+ Eye len state : 902 Sum 652.3997034230086 orientation : 0.1508839205400652
+ Rotated by using T3D : [0.42035487]
+shot sum : 652.3997034230085
+ Eye len state : 902 Sum 652.3997034230086 orientation : 0.1508839205400652
+shot sum : 652.3997034230085
+ Eye len state : 902 Sum 652.3997034230086 orientation : 0.15290208205253727
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.3997034230086
+Before add to buffer obs sum : 652.3997034230086
+Before add to buffer action : [0.42035487]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.3997034230085
+ Eye len state : 902 Sum 652.3997034230086 orientation : 0.15532026550509187
+ Rotated by using T3D : [-0.82909289]
+shot sum : 652.3997034230085
+ Eye len state : 902 Sum 652.3997034230086 orientation : 0.15532026550509187
+shot sum : 652.2314352056128
+ Eye len state : 902 Sum 652.2314352056126 orientation : 0.15741875775201195
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.2314352056126
+Before add to buffer obs sum : 652.3997034230086
+Before add to buffer action : [-0.82909289]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.2314352056128
+ Eye len state : 902 Sum 652.2314352056126 orientation : 0.15345212990253856
+ Rotated by using T3D : [-4.27754393]
+shot sum : 652.2314352056128
+ Eye len state : 902 Sum 652.2314352056126 orientation : 0.15345212990253856
+shot sum : 652.2314352056128
+ Eye len state : 902 Sum 652.2314352056126 orientation : 0.15555351887563876
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.2314352056126
+Before add to buffer obs sum : 652.2314352056126
+Before add to buffer action : [-4.27754393]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.2314352056128
+ Eye len state : 902 Sum 652.2314352056126 orientation : 0.13170583825396065
+ Rotated by using T3D : [1.31198384]
+shot sum : 652.2314352056128
+ Eye len state : 902 Sum 652.2314352056126 orientation : 0.13170583825396065
+shot sum : 652.0184870397684
+ Eye len state : 902 Sum 652.0184870397686 orientation : 0.13355221654291338
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.0184870397686
+Before add to buffer obs sum : 652.2314352056126
+Before add to buffer action : [1.31198384]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.0184870397684
+ Eye len state : 902 Sum 652.0184870397686 orientation : 0.14206475653895703
+ Rotated by using T3D : [0.73804072]
+shot sum : 652.0184870397684
+ Eye len state : 902 Sum 652.0184870397686 orientation : 0.14206475653895703
+shot sum : 652.7833660602525
+ Eye len state : 902 Sum 652.7833660602529 orientation : 0.14407306912721038
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.7833660602529
+Before add to buffer obs sum : 652.0184870397686
+Before add to buffer action : [0.73804072]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.7833660602525
+ Eye len state : 902 Sum 652.7833660602529 orientation : 0.14789241886649626
+ Rotated by using T3D : [0.17378124]
+shot sum : 652.7833660602525
+ Eye len state : 902 Sum 652.7833660602529 orientation : 0.14789241886649626
+shot sum : 652.7833660602525
+ Eye len state : 902 Sum 652.7833660602529 orientation : 0.15000478870322195
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.7833660602529
+Before add to buffer obs sum : 652.7833660602529
+Before add to buffer action : [0.17378124]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.7833660602525
+ Eye len state : 902 Sum 652.7833660602529 orientation : 0.15136123230043075
+ Rotated by using T3D : [-0.18119437]
+shot sum : 652.7833660602525
+ Eye len state : 902 Sum 652.7833660602529 orientation : 0.15136123230043075
+shot sum : 652.7970470980109
+ Eye len state : 902 Sum 652.7970470980108 orientation : 0.15354814939549072
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.7970470980108
+Before add to buffer obs sum : 652.7833660602529
+Before add to buffer action : [-0.18119437]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.7970470980109
+ Eye len state : 902 Sum 652.7970470980108 orientation : 0.15323939452089103
+ Rotated by using T3D : [-0.28502885]
+shot sum : 652.7970470980109
+ Eye len state : 902 Sum 652.7970470980108 orientation : 0.15323939452089103
+shot sum : 652.7970470980109
+ Eye len state : 902 Sum 652.7970470980108 orientation : 0.1554810973447838
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.7970470980108
+Before add to buffer obs sum : 652.7970470980108
+Before add to buffer action : [-0.28502885]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.7970470980109
+ Eye len state : 902 Sum 652.7970470980108 orientation : 0.15395168322082767
+ Rotated by using T3D : [-0.42477637]
+shot sum : 652.7970470980109
+ Eye len state : 902 Sum 652.7970470980108 orientation : 0.15395168322082767
+shot sum : 652.9658933721092
+ Eye len state : 902 Sum 652.9658933721089 orientation : 0.15623365188170313
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.9658933721089
+Before add to buffer obs sum : 652.7970470980108
+Before add to buffer action : [-0.42477637]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.9658933721092
+ Eye len state : 902 Sum 652.9658933721089 orientation : 0.15430854454168377
+ Rotated by using T3D : [0.4188264]
+shot sum : 652.9658933721092
+ Eye len state : 902 Sum 652.9658933721089 orientation : 0.15430854454168377
+shot sum : 652.9658933721092
+ Eye len state : 902 Sum 652.9658933721089 orientation : 0.1566269459271189
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 652.9658933721089
+Before add to buffer obs sum : 652.9658933721089
+Before add to buffer action : [0.4188264]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 652.9658933721092
+ Eye len state : 902 Sum 652.9658933721089 orientation : 0.1578556680292297
+ Rotated by using T3D : [-0.61044786]
+shot sum : 652.9658933721092
+ Eye len state : 902 Sum 652.9658933721089 orientation : 0.1578556680292297
+shot sum : 654.0763606240045
+ Eye len state : 902 Sum 654.0763606240043 orientation : 0.16025590542036897
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 654.0763606240043
+Before add to buffer obs sum : 652.9658933721089
+Before add to buffer action : [-0.61044786]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 654.0763606240045
+ Eye len state : 902 Sum 654.0763606240043 orientation : 0.1564653645927256
+ Rotated by using T3D : [-0.47153549]
+shot sum : 654.0763606240045
+ Eye len state : 902 Sum 654.0763606240043 orientation : 0.1564653645927256
+shot sum : 654.0763606240045
+ Eye len state : 902 Sum 654.0763606240043 orientation : 0.15887986489525244
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 654.0763606240043
+Before add to buffer obs sum : 654.0763606240043
+Before add to buffer action : [-0.47153549]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 654.0763606240045
+ Eye len state : 902 Sum 654.0763606240043 orientation : 0.15602420934429456
+ Rotated by using T3D : [-6.60538292]
+shot sum : 654.0763606240045
+ Eye len state : 902 Sum 654.0763606240043 orientation : 0.15602420934429456
+shot sum : 654.5342105499418
+ Eye len state : 902 Sum 654.5342105499415 orientation : 0.15846702210681138
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 654.5342105499415
+Before add to buffer obs sum : 654.0763606240043
+Before add to buffer action : [-6.60538292]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 654.5342105499418
+ Eye len state : 902 Sum 654.5342105499415 orientation : 0.121842410358223
+ Rotated by using T3D : [2.42379158]
+shot sum : 654.5342105499418
+ Eye len state : 902 Sum 654.5342105499415 orientation : 0.121842410358223
+shot sum : 654.5342105499418
+ Eye len state : 902 Sum 654.5342105499415 orientation : 0.12381020009535705
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 654.5342105499415
+Before add to buffer obs sum : 654.5342105499415
+Before add to buffer action : [2.42379158]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 654.5342105499418
+ Eye len state : 902 Sum 654.5342105499415 orientation : 0.13751921011359913
+ Rotated by using T3D : [1.30563064]
+shot sum : 654.5342105499418
+ Eye len state : 902 Sum 654.5342105499415 orientation : 0.13751921011359913
+shot sum : 655.0542917904841
+ Eye len state : 902 Sum 655.0542917904838 orientation : 0.13975882568705217
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 655.0542917904838
+Before add to buffer obs sum : 654.5342105499415
+Before add to buffer action : [1.30563064]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 655.0542917904841
+ Eye len state : 902 Sum 655.0542917904838 orientation : 0.14671287177749662
+ Rotated by using T3D : [0.48477128]
+shot sum : 655.0542917904841
+ Eye len state : 902 Sum 655.0542917904838 orientation : 0.14671287177749662
+shot sum : 655.0542917904841
+ Eye len state : 902 Sum 655.0542917904838 orientation : 0.1491281110245024
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 655.0542917904838
+Before add to buffer obs sum : 655.0542917904838
+Before add to buffer action : [0.48477128]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 655.0542917904841
+ Eye len state : 902 Sum 655.0542917904838 orientation : 0.1521015129021151
+ Rotated by using T3D : [-6.76399412]
+shot sum : 655.0542917904841
+ Eye len state : 902 Sum 655.0542917904838 orientation : 0.1521015129021151
+shot sum : 658.6573280744046
+ Eye len state : 902 Sum 658.6573280744049 orientation : 0.15463707356641965
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 658.6573280744049
+Before add to buffer obs sum : 655.0542917904838
+Before add to buffer action : [-6.76399412]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 658.6573280744046
+ Eye len state : 902 Sum 658.6573280744049 orientation : 0.11631807130896787
+ Rotated by using T3D : [2.87593252]
+shot sum : 658.6573280744046
+ Eye len state : 902 Sum 658.6573280744049 orientation : 0.11631807130896787
+shot sum : 658.6573280744046
+ Eye len state : 902 Sum 658.6573280744049 orientation : 0.11832072899851329
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 658.6573280744049
+Before add to buffer obs sum : 658.6573280744049
+Before add to buffer action : [2.87593252]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 658.6573280744046
+ Eye len state : 902 Sum 658.6573280744049 orientation : 0.13497790660573236
+ Rotated by using T3D : [1.66270705]
+shot sum : 658.6573280744046
+ Eye len state : 902 Sum 658.6573280744049 orientation : 0.13497790660573236
+shot sum : 659.643293196555
+ Eye len state : 902 Sum 659.6432931965549 orientation : 0.13732133510433953
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 659.6432931965549
+Before add to buffer obs sum : 658.6573280744049
+Before add to buffer action : [1.66270705]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 659.643293196555
+ Eye len state : 902 Sum 659.6432931965549 orientation : 0.14600658353225823
+ Rotated by using T3D : [0.78825459]
+shot sum : 659.643293196555
+ Eye len state : 902 Sum 659.6432931965549 orientation : 0.14600658353225823
+shot sum : 659.643293196555
+ Eye len state : 902 Sum 659.6432931965549 orientation : 0.1485694679328726
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 659.6432931965549
+Before add to buffer obs sum : 659.6432931965549
+Before add to buffer action : [0.78825459]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 659.643293196555
+ Eye len state : 902 Sum 659.6432931965549 orientation : 0.15226417740606232
+ Rotated by using T3D : [-2.33959338]
+shot sum : 659.643293196555
+ Eye len state : 902 Sum 659.6432931965549 orientation : 0.15226417740606232
+shot sum : 659.643293196555
+ Eye len state : 902 Sum 659.6432931965549 orientation : 0.1549722096332952
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 659.6432931965549
+Before add to buffer obs sum : 659.6432931965549
+Before add to buffer action : [-2.33959338]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 659.643293196555
+ Eye len state : 902 Sum 659.6432931965549 orientation : 0.1417193897243034
+ Rotated by using T3D : [1.54690817]
+shot sum : 659.643293196555
+ Eye len state : 902 Sum 659.6432931965549 orientation : 0.1417193897243034
+shot sum : 664.6707230701109
+ Eye len state : 902 Sum 664.6707230701107 orientation : 0.14429584453580607
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 664.6707230701107
+Before add to buffer obs sum : 659.6432931965549
+Before add to buffer action : [1.54690817]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 664.6707230701109
+ Eye len state : 902 Sum 664.6707230701107 orientation : 0.15298469308426985
+ Rotated by using T3D : [-6.72849525]
+shot sum : 664.6707230701109
+ Eye len state : 902 Sum 664.6707230701107 orientation : 0.15298469308426985
+shot sum : 664.6707230701109
+ Eye len state : 902 Sum 664.6707230701107 orientation : 0.15579735473778683
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 664.6707230701107
+Before add to buffer obs sum : 664.6707230701107
+Before add to buffer action : [-6.72849525]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 664.6707230701109
+ Eye len state : 902 Sum 664.6707230701107 orientation : 0.11805019414412199
+ Rotated by using T3D : [3.07524796]
+shot sum : 664.6707230701109
+ Eye len state : 902 Sum 664.6707230701107 orientation : 0.11805019414412199
+shot sum : 665.8648455274894
+ Eye len state : 902 Sum 665.864845527489 orientation : 0.1202949955669926
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 665.864845527489
+Before add to buffer obs sum : 664.6707230701107
+Before add to buffer action : [3.07524796]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 665.8648455274894
+ Eye len state : 902 Sum 665.864845527489 orientation : 0.13695930453882002
+ Rotated by using T3D : [-2.92594729]
+shot sum : 665.8648455274894
+ Eye len state : 902 Sum 665.864845527489 orientation : 0.13695930453882002
+shot sum : 665.8648455274894
+ Eye len state : 902 Sum 665.864845527489 orientation : 0.13958930644530454
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 665.864845527489
+Before add to buffer obs sum : 665.864845527489
+Before add to buffer action : [-2.92594729]
+Before add to buffer reward : -1.0
+Before add to buffer done : 0.0
+shot sum : 665.8648455274894
+ Eye len state : 902 Sum 665.864845527489 orientation : 0.12409855464900682
+ Rotated by using T3D : [3.40274826]
+shot sum : 665.8648455274894
+ Eye len state : 902 Sum 665.864845527489 orientation : 0.12409855464900682
+shot sum : 672.0424142415194
+ Eye len state : 902 Sum 672.042414241519 orientation : 0.1265395923280143
+obs : 902 New Obs 902 Action <class 'numpy.ndarray'> Reward <class 'float'> Done <class 'float'>
+Before add to buffer new obs sum : 672.042414241519
+Before add to buffer obs sum : 665.864845527489
+Before add to buffer action : [3.40274826]
+Before add to buffer reward : -1.0
+Before add to buffer done : 1.0
+Total Timesteps: 53321 Episode Num: 39 Reward: -731.0
+(100, 902) (100, 902) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.81
+Mean batch new obs  :0.81
+Mean batch actions :-0.2
+Mean batch rewards :-0.85
+Mean batch dones :-0.85
+Predicted Rotations/ Next Action : -2.1401660442352295
+Target Qs  : -73.34848022460938 -73.36334228515625
+ Critic Target Q : -73.69842529296875
+Current Qs : -73.2823257446289 -73.30033874511719
+critic_loss : 3.798125982284546
+Current state : 0.8106005787849426
+Current Rotations/action : -0.20379148423671722
+Mean Critic Model Q1/ Action Loss : 73.36897277832031
+(100, 902) (100, 902) (100, 1) (100, 1) (100, 1)
+Mean batch obs :0.84
+Mean batch new obs  :0.84
+Mean batch actions :1.45
+Mean batch rewards :-0.86
+Mean batch dones :-0.86
+Predicted Rotations/ Next Action : -3.145426034927368
+Target Qs  : -73.7166976928711 -73.71693420410156
+ Critic Target Q : -74.01692962646484
+Current Qs : -74.12030029296875 -74.1475830078125
+critic_loss : 2.3675007820129395
+Current state : 0.8422432541847229
+Current Rotations/action : 1.4460618495941162
+Mean Critic Model Q1/ Action Loss : 74.60150909423828
+(
