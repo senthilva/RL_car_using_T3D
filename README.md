@@ -4,7 +4,10 @@ Goal here is to get the car to stay on road using Reinforcement Learning - T3D a
 I have taken a phased approach to this problem
  >- Phase 1 - Integrate T3D learning to the Kivy environment ; with sensor data using image patch brightness ( converting to scalar ) as the state dimension. Fully connected Actor and Critic models were used.Here idea was a get a understanding of the working of TD3. 
 
- >- Phase 2 - Replace the fully connected network in the above network with a CNN and feed the the image frames in front of the car(took it at 3 angles initially) as sensory data to it and **added orientation with destination** . 
+ >- Phase 2 - Replace the fully connected network in the above network with a CNN and feed the the image frames in front of the car(took it at 3 angles) as sensory data to it and **added orientation with destination** . The 3 images correspond to 
+ >>- 1 20x20 in front of car
+ >>- 1 20x20 to 30% left of car
+ >>- 1 20x20 to 30% right of car
 
 Describing below both the phases
 
@@ -50,7 +53,7 @@ Describing below both the phases
   ### Parameters used
   >- **Action Dimension** : 1 - angle of rotation
   >- **State Dimension** : 1200 + 2
-  >>- 3 channels of 40x40 = 1200 fed to the CNN; later to 1 images + 2 orientation with destination (+ & -)
+  >>- 3 channels of 20x20 = 1200 fed to the CNN + 2 orientation with destination (+ & -)
 
   >- Episode **done** if
   >>- Max epsidoes steps reached : 12000
@@ -67,7 +70,7 @@ Describing below both the phases
 
   Convblk1 -> MaxPool -> ConvBlk -> GAP -> FC 
 
-  ### Other attempts, debugging and observations
+  #### Other attempts, debugging and observations
   
    >- Attempt 1 : With 3 patches in front of car as sensory data only as input  
  >>- https://youtu.be/Du_JzbbTuJw
