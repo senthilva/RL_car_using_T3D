@@ -4,7 +4,7 @@ Goal here is to get the car to stay on road using Reinforcement Learning - T3D a
 I have taken a phased approach to this problem
  >- Phase 1 - Integrate T3D learning to the Kivy environment ; with sensor data using image patch brightness ( converting to scalar ) as the state dimension. Fully connected Actor and Critic models were used.Here idea was a get a understanding of the working of TD3. 
 
- >- Phase 2 - Replace the fully connected network in the above network with a CNN and feed the the image frames in front of the car(took 3 at various angles initially then went to take 1 80x80 around the car) as sensory data to it and **added orientation with destination** . This helped - feedback from the Sat review session.
+ >- Phase 2 - Replace the fully connected network in the above network with a CNN and feed the the image frames in front of the car(took it at 3 angles initially) as sensory data to it and **added orientation with destination** . 
 
 Describing below both the phases
 
@@ -42,6 +42,9 @@ Describing below both the phases
 ## Phase 2
 
   In this phase integrated it with the T3D learning and passed the sensory data as image frames to a CNN
+  
+ >- Final submission : With 3 patches in front of car + **2 orientation with destination** as input
+ >>- https://youtu.be/TqYSj9yXtN4
   
  >- Attempt 1 : With 3 patches in front of car as sensory data only as input  
  >>- https://youtu.be/Du_JzbbTuJw
@@ -98,7 +101,7 @@ Describing below both the phases
 
   Convblk1 -> MaxPool -> ConvBlk -> GAP -> FC 
 
-  ### Observations
+  ### Debugging and Observations
 
   Car started to rotate after few episodes.Below is the diagnostics and steps taken. This could mean that only extreme angle (-max_action or + max_action) was predicted. This meant network was unstable. I could not be sure if this was for exploding gradients or vanishing gradients. Took the below approach
 
@@ -121,8 +124,4 @@ Describing below both the phases
   >-  **Adding 2 additional state dim of + & -orientation with destination helped , but car still struggled be on the road though**
 
 
-## Potential Next Steps
 
->- Reduce the number of layers in CNN - to see if vanishing gradient in an issue - **Done**
->- Use only one channel - **Done**
->- Get the orientation from destination and feed that to the network and concatenate after feature extraction from CNN - **Done**
