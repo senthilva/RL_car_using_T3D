@@ -11,7 +11,7 @@ I have taken a phased approach to this problem
 
 Describing below both the phases
 
-## Phase 1 
+## **Phase 1** 
   In this phase i have taken car environment and integrated it with the T3D learning. I have NOT used CNN in this phase.
 
   https://youtu.be/6NWjU9S8zro
@@ -42,7 +42,7 @@ Describing below both the phases
 
 
 
-## Phase 2
+## **Phase 2**
 
   In this phase integrated it with the T3D learning and passed the sensory data as image frames to a CNN
   
@@ -124,7 +124,7 @@ Describing below both the phases
   >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network slightly improved.But, still not going on the road.
 
 
-  >-  **Adding 2 additional state dim of + & -orientation with destination helped , but car still struggled be on the road though**
+  >-  Adding 2 additional state dim of + & -orientation with destination helped , but car still struggled be on the road though
 
 
 
