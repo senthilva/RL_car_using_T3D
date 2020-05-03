@@ -4,12 +4,12 @@ Goal here is to get the car to stay on road using Reinforcement Learning - T3D a
 I have taken a phased approach to this problem
  >- Phase 1 - Integrate T3D learning to the Kivy environment ; with sensor data using image patch brightness ( converting to scalar ) as the state dimension. Fully connected Actor and Critic models were used.Here idea was a get a understanding of the working of TD3. 
 
- >- Phase 2 - Replace the fully connected network in the above network with a CNN and feed the the image frames in front of the car(took it at 3 angles) as sensory data to it and **added orientation with destination** . The 3 images correspond to 
+ >- Phase 2 - Replace the fully connected network in the above network with a **CNN** and feed the the image frames in front of the car(took it at 3 angles) as sensory data to it and **added orientation with destination** . The 3 images correspond to 
  >>- 1 20x20 in front of car
  >>- 1 20x20 to 30% left of car
  >>- 1 20x20 to 30% right of car
 
-Describing below both the phases
+Describing both the phases below
 
 ## **Phase 1** 
   In this phase i have taken car environment and integrated it with the T3D learning. I have NOT used CNN in this phase.
@@ -34,10 +34,10 @@ Describing below both the phases
 
   >- Network
 
-  >>-Used fully connected layers for Actor and Critic Model
+  >>- Used fully connected layers for Actor and Critic Model
 
   >- Observations
-  >>-Started driving on the road after 27 episodes
+  >>- Started driving on the road after 27 episodes
 
 
 
@@ -88,27 +88,27 @@ Describing below both the phases
   >>- https://youtu.be/ixRxi3h5h1c (initial learning)
   >>- https://youtu.be/CQKzaTQ2n-I ( towards destination and close to road)
 
-### **Other Issues**
+ ### **Other Issues**
 
-   Car started to rotate after few episodes.Below is the diagnostics and steps taken. This could mean that only extreme angle (-max_action or + max_action) was predicted. This meant network was unstable. I could not be sure if this was for exploding gradients or vanishing gradients. Took the below approach
-
-
-
-   >- Enabled training logs and looked at buffer values ; predicted rotations
-   >- Compared training logs between run using T3D + FC + Car(successful) vs T3D + CNN + Car(un-successful)
-
-   > Log : https://github.com/senthilva/RL_car_using_T3D/blob/master/logs/analysis_training_logs
-
-           Target Q's should be negative ( they are low positive in CNN network)
-             Current Q's should be negative ( they are low positive in CNN network)
-             Critic loss should be low positive (they are high positive in CNN network)
-             Action Loss should be large positive ( they are los positive in CNN network)
-             Q1 should be large negative ( they are small negative in CNN network)
-
-   >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network improved.
+    Car started to rotate after few episodes.Below is the diagnostics and steps taken. This could mean that only extreme angle (-max_action or + max_action) was predicted. This meant network was unstable. I could not be sure if this was for exploding gradients or vanishing gradients. Took the below approach
 
 
-   >-  Adding 2 additional state dim of + & -orientation with destination helped with the training
+
+    >- Enabled training logs and looked at buffer values ; predicted rotations
+    >- Compared training logs between run using T3D + FC + Car(successful) vs T3D + CNN + Car(un-successful)
+
+    > Log : https://github.com/senthilva/RL_car_using_T3D/blob/master/logs/analysis_training_logs
+
+            Target Q's should be negative ( they are low positive in CNN network)
+              Current Q's should be negative ( they are low positive in CNN network)
+              Critic loss should be low positive (they are high positive in CNN network)
+              Action Loss should be large positive ( they are los positive in CNN network)
+              Q1 should be large negative ( they are small negative in CNN network)
+
+    >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network improved.
+
+
+    >-  Adding 2 additional state dim of + & -orientation with destination; helped with the training
 
 
 
