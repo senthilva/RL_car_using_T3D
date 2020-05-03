@@ -32,12 +32,12 @@ Describing below both the phases
   >>- If on Road and distance is reducing = + 1
   >>- On Road = + 0.8
 
-  ### Network
+  >- Network
 
-  Used fully connected layers for Actor and Critic Model
+  >>-Used fully connected layers for Actor and Critic Model
 
-  ### Observations
-  Started driving on the road after 27 episodes
+  >- Observations
+  >>-Started driving on the road after 27 episodes
 
 
 
@@ -66,13 +66,22 @@ Describing below both the phases
   >>- If on Road and distance is reducing = + 1
   >>- On Road = + 0.8
 
-  ### Network
+  >- Network
 
-  Convblk1 -> MaxPool -> ConvBlk -> GAP -> FC 
+  >>- Convblk1 -> MaxPool -> ConvBlk -> GAP -> FC 
+
+
+
+
+
+
+
+
+
 
   #### Other attempts, debugging and observations
   
-   >- Attempt 1 : With 3 patches in front of car as sensory data only as input  
+   >- Attempt 1 : With 3 image patches (3 x40x40) in front of car as sensory data only as input  to the CNN
  >>- https://youtu.be/Du_JzbbTuJw
  >- Attempt 2 : With 3 patches in front of car + **2 orientation with destination** as input (but i think something is wrong with way sensory data is fed - does not seem be factoring it)   
  >>- https://youtu.be/NW1GH8aQFas
@@ -80,31 +89,7 @@ Describing below both the phases
  >>- https://youtu.be/ixRxi3h5h1c (initial learning)
  >>- https://youtu.be/CQKzaTQ2n-I ( towards destination and close to road)
 
-  Sensory data : Taken 3 patches in front of the car
-  
-  >-Attempt 1:
-  >>-State Dim 
-  >>- left 30 degrees ; 40x40 
-  >>- straight 0 degrees ; 40x40
-  >>- right 30 degrees; 40x40
-
-  > then merged them to create 3 channel input to the CNN Network
-
-  >-Attempt 2 :
-  >>-State Dim 
-  >>- left 30 degrees ; 40x40 
-  >>- straight 0 degrees ; 40x40
-  >>- right 30 degrees; 40x40
-  + 
-  >>- +orientation with destination
-  >>- -orientation with destination
- 
-  >- Attempt 3 :
-  >- State Dim 
-  >>- 1 80x80 around car (resized to 30x30)
-  + 
-  >>- +orientation with destination
-  >>- -orientation with destination
+ **Other Issues**
 
   Car started to rotate after few episodes.Below is the diagnostics and steps taken. This could mean that only extreme angle (-max_action or + max_action) was predicted. This meant network was unstable. I could not be sure if this was for exploding gradients or vanishing gradients. Took the below approach
 
@@ -121,10 +106,10 @@ Describing below both the phases
             Action Loss should be large positive ( they are los positive in CNN network)
             Q1 should be large negative ( they are small negative in CNN network)
 
-  >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network slightly improved.But, still not going on the road.
+  >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network improved.
 
 
-  >-  Adding 2 additional state dim of + & -orientation with destination helped , but car still struggled be on the road though
+  >-  Adding 2 additional state dim of + & -orientation with destination helped with the training
 
 
 
