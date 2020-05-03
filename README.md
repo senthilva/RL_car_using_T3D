@@ -78,38 +78,37 @@ Describing below both the phases
 
 
 
+## Other attempts, debugging and observations
 
-  #### Other attempts, debugging and observations
-  
-   >- Attempt 1 : With 3 image patches (3 x40x40) in front of car as sensory data only as input  to the CNN
- >>- https://youtu.be/Du_JzbbTuJw
- >- Attempt 2 : With 3 patches in front of car + **2 orientation with destination** as input (but i think something is wrong with way sensory data is fed - does not seem be factoring it)   
- >>- https://youtu.be/NW1GH8aQFas
- >- Attempt 3 : With 1 patch of 80x80 around the car + **2 orientation with destination** as input  
- >>- https://youtu.be/ixRxi3h5h1c (initial learning)
- >>- https://youtu.be/CQKzaTQ2n-I ( towards destination and close to road)
+  >- Attempt 1 : With 3 image patches (3 x40x40) in front of car as sensory data only as input  to the CNN
+  >>- https://youtu.be/Du_JzbbTuJw
+  >- Attempt 2 : With 3 patches in front of car + **2 orientation with destination** as input (but i think something is wrong with way sensory data is fed - does not seem be factoring it)   
+  >>- https://youtu.be/NW1GH8aQFas
+  >- Attempt 3 : With 1 patch of 80x80 around the car + **2 orientation with destination** as input  
+  >>- https://youtu.be/ixRxi3h5h1c (initial learning)
+  >>- https://youtu.be/CQKzaTQ2n-I ( towards destination and close to road)
 
- **Other Issues**
+### **Other Issues**
 
-  Car started to rotate after few episodes.Below is the diagnostics and steps taken. This could mean that only extreme angle (-max_action or + max_action) was predicted. This meant network was unstable. I could not be sure if this was for exploding gradients or vanishing gradients. Took the below approach
-
+   Car started to rotate after few episodes.Below is the diagnostics and steps taken. This could mean that only extreme angle (-max_action or + max_action) was predicted. This meant network was unstable. I could not be sure if this was for exploding gradients or vanishing gradients. Took the below approach
 
 
-  >- Enabled training logs and looked at buffer values ; predicted rotations
-  >- Compared training logs between run using T3D + FC + Car(successful) vs T3D + CNN + Car(un-successful)
-  
-  > Log : https://github.com/senthilva/RL_car_using_T3D/blob/master/logs/analysis_training_logs
 
-          Target Q's should be negative ( they are low positive in CNN network)
-            Current Q's should be negative ( they are low positive in CNN network)
-            Critic loss should be low positive (they are high positive in CNN network)
-            Action Loss should be large positive ( they are los positive in CNN network)
-            Q1 should be large negative ( they are small negative in CNN network)
+   >- Enabled training logs and looked at buffer values ; predicted rotations
+   >- Compared training logs between run using T3D + FC + Car(successful) vs T3D + CNN + Car(un-successful)
 
-  >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network improved.
+   > Log : https://github.com/senthilva/RL_car_using_T3D/blob/master/logs/analysis_training_logs
+
+           Target Q's should be negative ( they are low positive in CNN network)
+             Current Q's should be negative ( they are low positive in CNN network)
+             Critic loss should be low positive (they are high positive in CNN network)
+             Action Loss should be large positive ( they are los positive in CNN network)
+             Q1 should be large negative ( they are small negative in CNN network)
+
+   >- Led me to realize i had not used Batch Normalization across layers. Enabled that and network improved.
 
 
-  >-  Adding 2 additional state dim of + & -orientation with destination helped with the training
+   >-  Adding 2 additional state dim of + & -orientation with destination helped with the training
 
 
 
